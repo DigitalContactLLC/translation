@@ -609,7 +609,7 @@ msgid ""
 "<b>Внимание!</b> Вы выбрали \"учет местного времени подписчиков\" и собираетесь отправить рассылку раньше, чем через 8 часов. Это значит, "
 "что получатели, например, на Камчатке начнут получать вашу рассылку прямо сейчас. Учитывайте это при своем планировании."
 msgstr ""
-"<b>Warning!</b>You have chosen \"based on local time of subscribers' and are going to send email earlier than 8 hours. This means that the "
+"<b>Warning!</b>You have chosen \"based on local time of subscribers\" and are going to send email earlier than 8 hours. This means that the "
 "recipients, for example, in Kamchatka will start receiving your newsemail right now. Keep this in mind when planning your campaign."
 
 #: wizard_new/step5.php:591 wizard_new/step5.php:596
@@ -639,7 +639,7 @@ msgstr "How to add a link to unsubscribe?"
 #: wizard_new/step5.php:624
 msgid "Ссылка \"отписаться\" - обязательна для ваших подписчиков, чтобы они могли отписаться одним кликом от получения ваших рассылок."
 msgstr ""
-"Link \"unsubscribe\" - obligatory for your subscribers so that they can unsubscribe with a single click  from receiving your campaigns."
+"Link \"unsubscribe\" is obligatory for your subscribers so that they can unsubscribe with a single click  from receiving your campaigns."
 
 #: wizard_new/step5.php:625
 msgid "HTML-версия письма"
@@ -647,7 +647,7 @@ msgstr "HTML-version of the email"
 
 #: wizard_new/step5.php:626
 msgid "Вставить ссылку \"отписаться\" в html-версию с помощью online-редактора можно следующим образом:"
-msgstr "Paste the link \"unsubscribe\" in a html-version via online-editor as follows:"
+msgstr "Paste the link \"unsubscribe\" in a html-version via online-editor in the following way:"
 
 #: wizard_new/step5.php:627
 msgid "Выбрать блок для редактирования, обычно это нижний - нажать \"редактировать\""
@@ -655,7 +655,7 @@ msgstr "Select a block for editing, it is usually the lower one- click \"edit\""
 
 #: wizard_new/step5.php:628
 msgid "Слева в панельке есть выпадающий список \"Вставить\"."
-msgstr "On the left the panel has a drop-down list \"Paste\"."
+msgstr "On the left panel there is a drop-down list \"Paste\"."
 
 #: wizard_new/step5.php:629
 msgid ""
@@ -678,7 +678,7 @@ msgstr "%UNSUBSCRIBE%"
 
 #: wizard_new/step5.php:631
 msgid "внизу письма. Например, \"Вы можете отписаться от получения рассылок по ссылке %ОТПИСАТЬСЯ%\"."
-msgstr "at the bottom of the email. For example, \"You can unsubscribe from campaign with the %UNSUBSCRIBE% \"."
+msgstr "at the bottom of the email. For example, \"You can unsubscribe from campaign using the %UNSUBSCRIBE% link \"."
 
 #: wizard_new/step5.php:651 wizard_split/step3.php:113
 msgid "Подтверждение отправки"
@@ -698,7 +698,7 @@ msgstr "lists"
 
 #: wizard_new/step5.php:655 wizard/footer.php:229 wizard_split/step3.php:116
 msgid "адресной базы"
-msgstr "list"
+msgstr "address list"
 
 #: wizard_new/step5.php:660
 msgid "Ограничить количество получателей"
@@ -755,7 +755,7 @@ msgstr "Content analysis in the blacklists"
 
 #: wizard_new/step5.php:705
 msgid "Слова с CAPS LOCK"
-msgstr "Caps lock"
+msgstr "Words with CAPS LOCK"
 
 #: wizard_new/step5.php:706
 msgid "Нежелательные слова"
@@ -824,7 +824,7 @@ msgstr "Gender of subscribers"
 #: wizard_split/op_segments.php:35 wizard_split/op_segments.php:46 wizard_split/op_segments.php:56 wizard_split/op_segments.php:65
 #: wizard_split/op_segments.php:74 wizard_split/add_condition.php:47
 msgid "равно"
-msgstr "is"
+msgstr "equals"
 
 #: wizard_new/segment.php:94 wizard_new/segment.php:106 wizard_new/segment.php:109 wizard_new/segment.php:120 wizard_new/segment.php:130
 #: wizard_new/segment.php:138 wizard_new/segment.php:146 wizard_new/segment.php:313 wizard_new/segment.php:325 wizard_new/segment.php:328
@@ -842,7 +842,7 @@ msgstr "is"
 #: wizard_split/op_segments.php:36 wizard_split/op_segments.php:47 wizard_split/op_segments.php:57 wizard_split/op_segments.php:66
 #: wizard_split/op_segments.php:75 wizard_split/add_condition.php:48
 msgid "не равно"
-msgstr "is not"
+msgstr "does not equal"
 
 #: wizard_new/segment.php:95 wizard_new/segment.php:121 wizard_new/segment.php:314 wizard_new/segment.php:340 wizard_new/op_segments.php:22
 #: wizard_new/op_segments.php:48 wizard_new/add_condition.php:50 wizard_new/add_condition.php:102 wizard/action/segment.php:123
@@ -978,7 +978,7 @@ msgstr "Please wait..."
 
 #: wizard_new/segment.php:305 wizard/action/segment.php:114
 msgid "Устройства и клиенты"
-msgstr "Device and Clients"
+msgstr "Devices and Clients"
 
 #: wizard_new/segment.php:394 wizard_new/value_segments.php:54
 msgid "PC"
@@ -1042,7 +1042,7 @@ msgstr "Enter email subject"
 
 #: wizard_new/step4.php:79 wizard_new/step4.php:399 wizard/step4.php:45
 msgid "Должно соответствовать содержанию письма и не отталкивать"
-msgstr "It should match the content of the email and not be repelling"
+msgstr "It should match the content of the email and should not be repelling"
 
 #: wizard_new/step4.php:85 wizard_new/step4.php:402
 msgid "от кого письмо?"
@@ -1098,11 +1098,11 @@ msgstr "Tracking, social, etc."
 
 #: wizard_new/step4.php:159 wizard_new/step4.php:430
 msgid "следить за открыванием"
-msgstr "tracking the opening"
+msgstr "track the openings"
 
 #: wizard_new/step4.php:160 wizard_new/step4.php:431
 msgid "Отображается статистика по всем открытым письмам"
-msgstr "Displays statistics for all open emails"
+msgstr "Displays statistics for all opened emails"
 
 #: wizard_new/step4.php:170 wizard_new/step4.php:434
 msgid "отслеживать клики"
@@ -1130,15 +1130,15 @@ msgstr "It helps to pass spam filters and displays the images even for those use
 
 #: wizard_new/step4.php:214
 msgid "Add Google Analytics&trade; to track URLs"
-msgstr "Add Google Analytics ™ to track URLs"
+msgstr "Add Google Analytics&trade;to track URLs"
 
 #: wizard_new/step4.php:215 wizard_new/step4.php:449
 msgid "Мониторинг трафика на ваш сайт из рассылок."
-msgstr "Monitoring of traffic to your site from campaigns."
+msgstr "Monitoring of traffic to your website from campaigns."
 
 #: wizard_new/step4.php:223
-msgid "Compaing title (will be shown in Google Analytics&trade;)"
-msgstr "Compaing title (will be shown in Google Analytics ™)"
+msgid "campaign title (will be shown in Google Analytics&trade;)"
+msgstr "Campaign title (will be shown in Google Analytics ™)"
 
 #: wizard_new/step4.php:229 wizard_new/step4.php:455
 msgid "Замечание:"
@@ -1174,11 +1174,11 @@ msgstr "Add Google Analytics ™ to track URL's"
 
 #: wizard_new/step4.php:452
 msgid "Заголовок для рассылки (будет отображаться в GA/ЯМ)"
-msgstr "Cmpaign title (will be displayed in Google Analytics)"
+msgstr "Campaign title (will be displayed in Google Analytics)"
 
 #: wizard_new/step2.php:15 new_templates/step2.php:15
 msgid "Письмо сохранено как шаблон"
-msgstr "Email saved as template"
+msgstr "Email is saved as template"
 
 #: wizard_new/step2.php:18 new_templates/step2.php:18
 msgid "Произошла ошибка. Попробуйте позже."
@@ -1250,7 +1250,7 @@ msgstr "Are you sure?"
 
 #: wizard_new/step2.php:182 wizard/step2.php:62 new_templates/step2.php:180
 msgid "Ссылка \"ОТПИСАТЬСЯ\""
-msgstr "Link  to \"unsubscribe\""
+msgstr "Link  \"unsubscribe\""
 
 #: wizard_new/step2.php:184 wizard/step2.php:67 new_templates/step2.php:182
 msgid "Все кампании должны включать ссылку с id=unsub_link. В текстовой версии эта ссылка помечается тэгом %ОТПИСАТЬСЯ%"
@@ -1396,7 +1396,7 @@ msgid ""
 "При верстке html-макетов не забывайте, что их ширина не должна превышать 600px. Также для корректного отображения письма во всех почтовых "
 "клиентах желательно избегать использования JavaScript, Flash и т.п."
 msgstr ""
-"When doing html-imposition layouts remember that their width should not exceed 600px. Also, for correct display of the email in all email "
+"When making html-layouts remember that their width should not exceed 600px. Also, for correct display of the email in all email "
 "clients, it is preferable  to avoid using JavaScript, Flash, etc."
 
 #: wizard_new/step2.php:284 new_templates/step2.php:282
@@ -1492,7 +1492,7 @@ msgid ""
 "Для корректной загрузки следует помнить следующие правила: искомый HTML-файл макета должен лежать в корне архива, ссылки на картинки "
 "должны быть прописаны относительно этого корня. В названиях файлов и папок не должно быть пробелов и русских букв."
 msgstr ""
-"Toupload correctly you should remember the following rules: HTML-layout file must be in the root of the archive, links to images should be "
+"To upload correctly you should remember the following rules: HTML-layout file must be in the root of the archive, links to images should be "
 "registered on this root. The names of files and folders should not contain gaps."
 
 #: wizard_new/step2.php:559 templates/lists/_import.php:84 templates/lists/import-blacklist.php:73
@@ -1509,7 +1509,7 @@ msgstr "ends with"
 
 #: wizard_new/step2t.php:49
 msgid "тестовое сообщение успешно отправлено. Проверьте почту."
-msgstr "test message has been sent successfully. Check mailbox."
+msgstr "test message has been sent successfully. Check your mailbox."
 
 #: wizard_new/step2t.php:69 templates/lists/confsub.php:30 templates_orig/lists/confsub.php:29
 msgid "Введите URL или Email-адрес"
@@ -1616,7 +1616,7 @@ msgstr "preview"
 
 #: wizard_new/step2t.php:351
 msgid "отправить быстрый plain-text тест по адресу:"
-msgstr "send plain-text quick test at"
+msgstr "send quick plain-text test to"
 
 #: wizard_new/step2t.php:354
 msgid "Не больше 3-х за раз и не больше 6-ти тестовых писем на созданную рассылку"
@@ -1700,15 +1700,15 @@ msgstr "Change of subscriber data"
 
 #: wizard_new/step1a.php:104 wizard_new/step1a.php:452 wizard/step1a.php:108
 msgid "При каком типе подписки в базу письмо будет отправлено?"
-msgstr "For what type of subscription an email will be sent to the list?"
+msgstr "For what type of subscription will an email be sent to the list?"
 
 #: wizard_new/step1a.php:106 wizard_new/step1a.php:454 wizard/step1a.php:110
 msgid "При подписке через форму"
-msgstr "If subscription made via form"
+msgstr "If subscription is made via form"
 
 #: wizard_new/step1a.php:107 wizard_new/step1a.php:456 wizard/step1a.php:112
 msgid "При ручном добавлении"
-msgstr "When manually adding"
+msgstr "When adding manually"
 
 #: wizard_new/step1a.php:108 wizard_new/step1a.php:458 wizard/step1a.php:114
 msgid "При импорте"
@@ -1740,7 +1740,7 @@ msgstr "This list has no \"date\" fields."
 
 #: wizard_new/step1a.php:178 wizard_new/step1a.php:518 wizard/step1a.php:174
 msgid "При открытии письма из каких рассылок письмо будет отправлено?"
-msgstr "At the opening of the email from  which list will the  email be sent?"
+msgstr "At the opening of the email from  which list will the email be sent?"
 
 #: wizard_new/step1a.php:236 wizard_new/step1a.php:253 wizard_new/step1a.php:520 wizard_new/step1a.php:535 wizard/step1a.php:176
 #: wizard/step1a.php:191
@@ -1801,7 +1801,7 @@ msgstr "after the event"
 
 #: wizard_new/step1a.php:357 wizard_new/step1a.php:630 wizard/step1a.php:286
 msgid "Отправить:"
-msgstr "Sent:"
+msgstr "Send:"
 
 #: wizard_new/step1a.php:359 wizard_new/step1a.php:632 wizard/step1a.php:288
 msgid "В День Рождения"
@@ -1829,7 +1829,7 @@ msgstr "Also:"
 
 #: wizard_new/step1a.php:379 wizard_new/step1a.php:652 wizard/step1a.php:308
 msgid "Отправить по существующией базе"
-msgstr "Sent to list:"
+msgstr "Send using the existing list:"
 
 #: wizard_new/step1a.php:382 wizard_new/step1a.php:655 wizard/step1a.php:311
 msgid "Отложить отправку по существующией базе на указанное выше время"
@@ -1842,12 +1842,12 @@ msgid ""
 "указанное время."
 msgstr ""
 "If you choose this option, the emails will be sent not only to new subscribers, but also the old ones. The system will automatically keep "
-"track of the date of subscription. If you specify to send the newsletter in 1 day or more, those who have recently signed up will not  "
+"track of the date of subscription. If you select to send the newsletter in 1 day or more, those who have recently signed up will not  "
 "receive the email immidiately, but after a specified time."
 
 #: wizard_new/step1a.php:387 wizard_new/step1a.php:660 wizard/step1a.php:316
 msgid "Рассылка по существующей базе уже произведена."
-msgstr "Campaign by existing list has already been made."
+msgstr "Campaign has already been made  using the existing list ."
 
 #: wizard_new/step1a.php:402 wizard_new/step1a.php:425 wizard_new/step1a.php:666 wizard/step1a.php:81 wizard/step1a.php:322
 msgid "к предыдущему шагу"
@@ -1899,7 +1899,7 @@ msgid ""
 "создайте красочный заголовок, укажите ссылки. И вы получите письмо, которое максимально корректно отображается во всех браузерах и "
 "почтовых клиентах."
 msgstr ""
-"If you do not know the words of HTML, CSS, but you want to create beautiful campaign - choose this option. Simply edit a set of blocks, "
+"If you do not know the words of HTML, CSS, but you want to create a beautiful campaign - choose this option. Simply edit a set of blocks, "
 "create a colorful header, select the link. And you will get an email that is displayed correctly in all browsers and email clients."
 
 #: wizard_new/step1.php:47
@@ -1912,7 +1912,7 @@ msgid ""
 "загрузите zip-архив с макетом и картинками или просто вставьте html-код. Также, вы сможете использовать удобный WYSIWYG-редактор для "
 "редактирования своего кода."
 msgstr ""
-"If you are a professional on internet and can make  your own html-layout for the email, then this option is for you. Simply download the "
+"If you are a professional in internet and can make  your own html-layout for the email, then this option is for you. Simply download the "
 "zip-file with the layout and pictures or just insert the html-code. Also, you can use the handy WYSIWYG-editor to edit your code."
 
 #: wizard_new/step1.php:66
@@ -1929,8 +1929,8 @@ msgid ""
 "создавайте просто текстовую версию письма. Она однозначно хорошо будет отображаться во всех почтовых клиентах и редакторах. Ведь какие "
 "могут быть проблемы с текстом?"
 msgstr ""
-"If you do not need pictures and pretty stuff in your email, if you want to convey your information clearly and in a few sentences - that "
-"create a plain text version of the email. It will definitely  be displayed correctly in all email clients and editors. After all, what "
+"If you do not need pictures and pretty stuff in your email, if you want to convey your information clearly and in a few sentences - then "
+"create a plain-text version of the email. It will definitely  be displayed correctly in all email clients and editors. After all, what "
 "could be the problem with the text?"
 
 #: wizard_new/step1.php:100
@@ -1940,7 +1940,7 @@ msgstr "Plain text version of email"
 #: wizard_new/upload_html.php:168 wizard_new/upload_html.php:213 wizard_new/upload_html.php:255 wizard/action/upload_html.php:168
 #: wizard/action/upload_html.php:213 wizard/action/upload_html.php:255
 msgid "Макет успешно загружен "
-msgstr "The template successfully uploaded"
+msgstr "The template is successfully uploaded"
 
 #: wizard_new/upload_html.php:172 common/php_functions.php:1233 common/php_functions.php:1266 common/php_functions.php:1390
 #: common/errors.php:28 wizard/action/upload_html.php:172
@@ -2053,15 +2053,15 @@ msgstr "Maps"
 
 #: editor/index.php:169
 msgid "Unsubscribe link"
-msgstr "unsubscribe"
+msgstr "Unsubscribe link"
 
 #: editor/index.php:359
 msgid "Email preview"
-msgstr "preview"
+msgstr "Email preview"
 
 #: editor/index.php:384 editor/index.php:495 templates/header_wizard.php:247
 msgid "Close"
-msgstr "closed"
+msgstr "Closed"
 
 #: editor/index.php:393
 msgid "Images filemanager"
@@ -2073,7 +2073,7 @@ msgstr "Upload"
 
 #: editor/index.php:422
 msgid "Import URL"
-msgstr "Import"
+msgstr "Import URL"
 
 #: editor/index.php:439
 msgid "Folders"
@@ -2195,7 +2195,7 @@ msgstr "Opened"
 #: templates/reports/summary.php:320 templates/reports/summary2.php:208 templates/reports/splitreport.php:283
 #: templates_orig/reports/summary_base.php:170 templates_orig/reports/summary.php:194 templates_orig/reports/splitreport.php:136
 msgid "Отписавшиеся"
-msgstr "Unsubscribers"
+msgstr "Unsubscribed"
 
 #: data/export.php:28
 msgid "Кликов"
@@ -2333,7 +2333,7 @@ msgstr "Incorrect email."
 
 #: common/auth_new.php:168
 msgid "Password must contain at least 6 symbols"
-msgstr "Password must contain at least 6 symbol"
+msgstr "Password must contain at least 6 symbols"
 
 #: common/auth_new.php:169
 msgid "Fill all fields."
@@ -2409,7 +2409,7 @@ msgstr "This email came to you because you have registered on an email-marketing
 
 #: common/mh.php:134
 msgid "Логин, указанный при регистрации"
-msgstr "Login"
+msgstr "Login, entered when registrating"
 
 #: common/mh.php:135
 msgid "Чтобы ваш аккаунт стал активен, вам нужно подтвердить свой email. Для этого вам необходимо перейти по ссылке ниже."
@@ -2445,7 +2445,7 @@ msgstr "Your new password"
 
 #: common/mh.php:162 common/mh.php:180
 msgid "С уважением, администрация сервиса email-рассылок"
-msgstr "Sincerely, email-merketing service administration"
+msgstr "Sincerely, email-marketing service administration"
 
 #: common/mh.php:171
 msgid "Восстановление логина"
@@ -2477,7 +2477,7 @@ msgstr "Invalid file format"
 
 #: common/php_functions.php:946 common/php_functions.php:1282
 msgid "ХЗ что"
-msgstr "god knows what"
+msgstr "God knows what"
 
 #: common/php_functions.php:1212 common/php_functions.php:1379
 msgid "Импортировано "
@@ -2521,7 +2521,7 @@ msgstr "Corrected:"
 
 #: common/php_functions.php:1230
 msgid " Одноразовых email:"
-msgstr "Disposable email"
+msgstr "Disposable emails"
 
 #: common/php_functions.php:1261
 msgid "Укажите номер столбца с данными."
@@ -2553,7 +2553,7 @@ msgstr "This email is already in blacklist."
 
 #: common/errors.php:16
 msgid "Вы можете использовать только русские буквы или только латинские."
-msgstr "You can use only only Russian or only Latin letters."
+msgstr "You can use only Russian or Latin letters."
 
 #: common/errors.php:18
 msgid "Это служебный тег, его использование здесь недопустимо."
@@ -2609,11 +2609,11 @@ msgstr "You have not made any changes to the details."
 
 #: common/errors.php:46
 msgid "Не сохранено. Пользователь с таким адресом уже есть!"
-msgstr "Changes was not saved. User with this address is already added!"
+msgstr "Changes were not saved. User with this address is already added!"
 
 #: common/errors.php:48
 msgid "Введите корректный текущий пароль!"
-msgstr "Please enter a valid current password!"
+msgstr "Please enter a correct current password!"
 
 #: common/errors.php:50
 msgid "Такой логин уже занят."
@@ -2621,7 +2621,7 @@ msgstr "This login is already taken."
 
 #: common/errors.php:52
 msgid "Пароль и подтвержденный пароль не совпадают."
-msgstr "Password and Confirm Password do not match."
+msgstr "Password and the Confirmed Password do not match."
 
 #: common/errors.php:54
 msgid "Недопустимый тип счета."
@@ -2629,7 +2629,7 @@ msgstr "Invalid account type."
 
 #: common/errors.php:56
 msgid "Не заданы данные клиента."
-msgstr "Customer data is not specified."
+msgstr "Customer data is not set"
 
 #: common/errors.php:58
 msgid "В базе не может быть больше 5 полей."
@@ -2637,15 +2637,15 @@ msgstr "The list can not contain more than 5 fields."
 
 #: common/errors.php:60
 msgid "Определен одноразовый email-адрес."
-msgstr "One-time email- address detected."
+msgstr "Disposable email- address detected."
 
 #: common/errors.php:71
 msgid "Скидка успешно снята."
-msgstr "The discount successfully removed."
+msgstr "The discount is successfully removed."
 
 #: common/errors.php:73
 msgid "Скидка успешно активирована."
-msgstr "The discount successfully activated."
+msgstr "The discount is successfully activated."
 
 #: common/errors.php:75
 msgid "Месячный план успешно удален."
@@ -2653,7 +2653,7 @@ msgstr "The monthly plan is successfully removed."
 
 #: common/errors.php:77
 msgid "Кредитный план успешно удален."
-msgstr "Credit plan successfully removed."
+msgstr "Credit plan is successfully removed."
 
 #: common/errors.php:79
 msgid "Кредитный план успешно добавлен."
@@ -2665,27 +2665,27 @@ msgstr "The monthly plan is successfully added."
 
 #: common/errors.php:83
 msgid "Подписчик успешно добавлен в базу."
-msgstr "The Subscriber successfully added to list."
+msgstr "The Subscriber is successfully added to list."
 
 #: common/errors.php:85
 msgid "Подписчик успешно отредактирован."
-msgstr "Subscriber successfully edited."
+msgstr "Subscriber is successfully edited."
 
 #: common/errors.php:87
 msgid "Настройки полей базы успешно сохранены."
-msgstr "List setting fields successfully saved."
+msgstr "List setting fields are successfully saved."
 
 #: common/errors.php:89 common/errors.php:97
 msgid "Настройки успешно сохранены."
-msgstr "Setting successfully saved."
+msgstr "Settings are successfully saved."
 
 #: common/errors.php:91
 msgid "Реквизиты успешно обновлены."
-msgstr "Details updated successfully."
+msgstr "Details are updated successfully."
 
 #: common/errors.php:93
 msgid "Вам выслано письмо подтверждения."
-msgstr "You will be sent a confirmation email."
+msgstr "You will receive a confirmation email."
 
 #: common/errors.php:95
 msgid "Счет успешно создан."
@@ -2717,7 +2717,7 @@ msgstr "You are ready to send!"
 
 #: wizard/step5.php:123
 msgid "Проверьте все параметры рассылки снизу перед отправкой вашей рассылки."
-msgstr "Check out all the options on the bottom before submitting your campaigns."
+msgstr "Check out all the options at the bottom before submitting your campaigns."
 
 #: wizard/step5.php:126
 msgid "Проверьте все параметры рассылки и внесите нужные изменения."
@@ -2759,7 +2759,7 @@ msgstr "Plain-text version is automatically generated and added to the campaign.
 
 #: wizard/step5.php:363
 msgid "Вы не включили текстовую версию письма в свою рассылку."
-msgstr "You did not include a plain-text version of the email in its newsemail."
+msgstr "You did not include a plain-text version of the email in the newsletter."
 
 #: wizard/step5.php:418
 msgid "Email Авторизация"
@@ -2791,11 +2791,11 @@ msgstr "Smooth sending"
 
 #: wizard/step5.php:479 wizard/step5.php:487
 msgid "Недоступно на бесплатном тарифе"
-msgstr "It is not available on the free plan"
+msgstr "It is not available in the free plan"
 
 #: wizard/step5.php:480
 msgid "Растяните отправку на несколько дней, чтобы снизить нагрузку на свой сайт от резко возросшего потока клиентов."
-msgstr "Sending during a few days, to reduce the load on your site from the sharply increased flow of customers."
+msgstr "Conduct the campaign within several days, in order to reduce the load on your site due to the increased flow of customers."
 
 #: wizard/step5.php:481
 msgid "Отправлять не более"
@@ -2813,15 +2813,15 @@ msgstr "Observe the local time"
 
 #: wizard/step5.php:487
 msgid "Письма будут отправлены с учетом часового пояса ваших подписчиков"
-msgstr "Letters will be sent with the time zone of your subscribers"
+msgstr "Letters will be sent within the time zone of your subscribers"
 
 #: wizard/step5.php:497
 msgid "Запланировать рассылку"
-msgstr "Schedule newsemail"
+msgstr "Schedule newsletter"
 
 #: wizard/step4.php:9
 msgid "Пожалуйста, проверьте введенные данные и попробуйте еще раз."
-msgstr "Please check your entries and try again."
+msgstr "Please check the information you entered and try again."
 
 #: wizard/step4.php:13
 msgid "Пожалуйста, <a href=\"#reply-to-confirm\">подтвердите</a> обратный адрес!"
@@ -2874,7 +2874,7 @@ msgstr "Track email openings"
 
 #: wizard/step4.php:106
 msgid "Система определяет, кто открыл вашу рассылку с помощью невидимого пикселя, который скачивается во время открытия рассылки."
-msgstr "The system determines who opened your newsemail via the invisible pixel is downloaded during the opening of the campaign."
+msgstr "The system determines who opened your newsemail via the invisible pixel which is downloaded during the opening of the campaign."
 
 #: wizard/step4.php:106 wizard/step4.php:122
 msgid "Узнать больше &raquo;"
@@ -2915,7 +2915,7 @@ msgstr "Add tracking to Google Analytics"
 msgid ""
 "Мониторинг трафика на ваш сайт из рассылок в популярных системах аналитики. Данные о посетителях, конверсиях и других параметрах посещения "
 "вашего сайта."
-msgstr "Traffic monitoring  in popular analytic systems. The data about visitors, clickthroughs and other  features ."
+msgstr "Traffic monitoring  in popular analytic systems. The data about visitors, clickthroughs and other features of your website ."
 
 #: wizard/step4.php:135
 msgid "заголовок для рассылки (будет отображаться в GA/ЯМ)"
@@ -3062,7 +3062,7 @@ msgstr "(Wonderful!)"
 
 #: wizard/action/send-test.php:113 templates/campaigns/send-test.php:109 templates_orig/campaigns/send-test.php:109
 msgid "(Нормально)"
-msgstr "(Normally)"
+msgstr "(Normal)"
 
 #: wizard/action/send-test.php:115 templates/campaigns/send-test.php:111 templates_orig/campaigns/send-test.php:111
 msgid "(Плохо!)"
@@ -3074,9 +3074,9 @@ msgid ""
 "баллов (score), которое показывает спам это или не спам. Чем меньше баллов, тем лучше. Чуть ниже вы можете увидеть Отчет SpamAssassin "
 "отдельно по правилам, за которые были начислены баллы."
 msgstr ""
-"SpamAssassin - a popular spam filter, based on the rules. It checks your email and give them an assessment, a certain number of points "
-"(score), which shows it is spam or not spam. The lower the score, the better. Just below you can see the SpamAssassin report separately on "
-"the rules for which points were accured ."
+"SpamAssassin is a popular spam filter, based on the rules. It checks your email and gives them an assessment, a certain number of points "
+"(score), which determines whether it is spam or not spam. The lower the score, the better. Just below you can see the SpamAssassin report separately on "
+"the rules for which points were appointed ."
 
 #: wizard/action/send-test.php:121 templates/campaigns/send-test.php:117 templates_orig/campaigns/send-test.php:117
 msgid "Правило"
@@ -3097,7 +3097,7 @@ msgstr "Error:"
 
 #: wizard/action/send-test.php:132 templates/campaigns/send-test.php:128 templates_orig/campaigns/send-test.php:128
 msgid "Попробуйте позже. Если ошибка будет повторяться - обратитесь в техническую поддержку по адресу "
-msgstr "Please try again later. If the problem persists-please contact technical support at the following address"
+msgstr "Please try again later. If the problem occures again please contact technical support clicking on the following address"
 
 #: wizard/footer.php:9
 msgid "Тип макета"
@@ -3153,16 +3153,16 @@ msgid ""
 "Тестирование письма - это очень хорошее дело, однако, есть некоторые лимиты на число тестовых писем, которые вы можете отправить. <a href="
 "\"#\">Узнать подробнее</a>"
 msgstr ""
-"Testing of the email - this is a very good thing, but there are some limits on the number of test emails that you can send. <a href="
+"Testing of the email is a very good thing, but there are some limits on the number of test emails that you can send. <a href="
 "\"#\">Learn more</a>"
 
 #: wizard/footer.php:37
 msgid "Отправить тест на"
-msgstr "Send test"
+msgstr "Send test to"
 
 #: wizard/footer.php:40
 msgid "Несколько ящиков разделяйте запятыми, но не более 6 адресов за раз"
-msgstr "Several boxes should be separated with commas, but no more than 6 addresses at a time"
+msgstr "Several email addresses should be separated with commas, but no more than 6 addresses at a time"
 
 #: wizard/footer.php:58
 msgid "Счастливого пути, тестовое письмо!"
@@ -3393,7 +3393,7 @@ msgstr "Background"
 
 #: builder_2.0/index.php:513
 msgid "Задать фон"
-msgstr "set the background"
+msgstr "Set the background"
 
 #: builder_2.0/index.php:515 builder/index.php:119 builder/index.php:122 builder/index.php:125 builder/index.php:127 builder/index.php:129
 #: builder/index.php:131
@@ -3414,11 +3414,11 @@ msgstr "Set the radius"
 
 #: builder_2.0/index.php:523
 msgid "Слева сверху"
-msgstr "top left"
+msgstr "Top left"
 
 #: builder_2.0/index.php:528
 msgid "Справа сверху"
-msgstr "top right"
+msgstr "Top right"
 
 #: builder_2.0/index.php:533
 msgid "Слева снизу"
@@ -3526,7 +3526,7 @@ msgstr "Motion"
 
 #: builder_2.0/index.php:717
 msgid "Минимализм"
-msgstr "Minimalizm"
+msgstr "Minimalism"
 
 #: builder_2.0/index.php:726
 msgid "Современный город"
@@ -3626,7 +3626,7 @@ msgstr "Heading "
 
 #: builder_2.0/index.php:911
 msgid "Края кнопки"
-msgstr "edges of the button"
+msgstr "Edges of the button"
 
 #: builder_2.0/index.php:921
 msgid "Текст в шапке"
@@ -3634,7 +3634,7 @@ msgstr "Header text"
 
 #: builder_2.0/index.php:926
 msgid "Текст в подвале"
-msgstr "text in the bottom"
+msgstr "Text in the bottom"
 
 #: builder_2.0/index.php:931
 msgid "Сохранить как новую тему"
@@ -3650,11 +3650,11 @@ msgstr "For online-shops"
 
 #: builder_2.0/index.php:1016
 msgid "МОИ ШАБЛОНЫ"
-msgstr "MY TEMPLATE"
+msgstr "MY TEMPLATES"
 
 #: builder_2.0/index.php:1029
 msgid "Мои темы"
-msgstr "my themes"
+msgstr "My themes"
 
 #: builder_2.0/index.php:1057
 msgid "Сохранить как новый шаблон"
@@ -3698,7 +3698,7 @@ msgstr "text above the image"
 
 #: builder_2.0/index.php:1383
 msgid "Это сообщение было отправлено на"
-msgstr "Test email was  sent to ."
+msgstr "Test email was sent to ."
 
 #: builder_2.0/index.php:1383
 msgid "потому, что:"
@@ -3720,7 +3720,7 @@ msgstr "unsubscribe "
 msgid ""
 "Теперь вы можете добавлять в теги значения, которые будут подставляться по умолчанию, если соответствующее поле у получателя не заполнено. "
 "Например, %ИМЯ{Иван}%"
-msgstr "Now you can add the words to  tags  that will be substituted by default, unless the  field is not blank. ""For example, %NAME{John}%"
+msgstr "Now you can add the words to tags  that will be substituted by default, unless the  field is not blank. ""For example, %NAME{John}%"
 
 #: builder_2.0/index.php:1549
 msgid "Добавить ссылку"
@@ -3769,7 +3769,7 @@ msgstr "General backgrounds"
 
 #: builder_2.0/index.php:1613
 msgid "Мои фоны"
-msgstr "my cbackgrounds"
+msgstr "my backgrounds"
 
 #: builder_2.0/index.php:1643
 msgid "Анимированные фоны"
@@ -3813,7 +3813,7 @@ msgstr "select the lists for campaign"
 #: builder_2.0/header.php:43 templates/header_wizard_new.php:179 templates_orig/header_wizard.php:137 templates_orig/header_wizard.php:164
 #: templates_orig/header_wizard_new.php:168
 msgid "назовите рассылку и задайте ее настройки"
-msgstr "name this campaign and specify its settings"
+msgstr "name this campaign and adjust its settings"
 
 #: builder_2.0/header.php:44 templates/header_wizard_new.php:180 templates_orig/header_wizard.php:140 templates_orig/header_wizard.php:167
 #: templates_orig/header_wizard_new.php:169
@@ -3842,14 +3842,14 @@ msgstr "Additional authorization via SMS"
 
 #: sms_auth.php:64
 msgid "Двухфакторная авторизация через SMS"
-msgstr "Two-factor authorization via SMS"
+msgstr "Two-step authorization via SMS"
 
 #: sms_auth.php:74
 msgid ""
 "На вашем аккаунте включена дополнительная защита - двухфакторная авторизация через SMS. В данный момент, вам отправлено SMS-сообщение с "
 "кодом подтверждения, который необходимо ввести в поле ниже, после чего вы сможете продолжить работать с вашим аккаунтом."
 msgstr ""
-"On your account is enabled for extra protection-two-factor authorization via SMS. At this point, you receive an SMS-message with a "
+"On your account two-step authorization via SMS is actovated. At this point, you receive an SMS with a "
 "verification code, which you must enter in the field below, then you can continue to work with your account."
 
 #: sms_auth.php:75
@@ -3866,7 +3866,7 @@ msgstr "send the code for checking"
 
 #: sms_auth.php:85
 msgid " Модуль двухфакторной авторизации введен в строй недавно и находится в стадии бета-тестирования."
-msgstr "Two-factor authorization module was put into operation recently and is in beta stage. If you have not received the SMS-contact"
+msgstr "Two-step authorization module was put into operation recently and is in beta stage. If you have not received the SMS-contact"
 
 #: sms_auth.php:87
 msgid "Если смс не пришла вам в течение 5 минут - "
@@ -3882,7 +3882,7 @@ msgstr "to repeat the sending"
 
 #: sms_auth.php:89
 msgid "Вам была отправлена повторная смс. Если в случае повторной отправки смс все равно недоставилась - напишите на "
-msgstr "Another sms has been sent to you. If  SMS still has not reached you - contact us"
+msgstr "Another sms has been sent to you. If the SMS still has not reached you - contact us"
 
 #: sms_auth.php:89
 msgid " и мы обязательно проверим и при необходимости отключим ее!"
@@ -4030,7 +4030,7 @@ msgstr "icon.print_popup"
 
 #: classes/lists.php:207
 msgid "Список"
-msgstr "list"
+msgstr "List"
 
 #: classes/lists.php:208
 msgid "Первый"
@@ -4094,7 +4094,7 @@ msgstr "Incorrect invite"
 
 #: wizard_split/step3.php:21
 msgid "Задаем рассылки к тесту"
-msgstr "Specifying A/B campaign for the test"
+msgstr "Setting A/B campaign for the test"
 
 #: wizard_split/step3.php:21
 msgid "Simple tip text"
@@ -4296,7 +4296,7 @@ msgid ""
 "Email-адреса, временно недоступные для доставки. Они будут удалены, только при повторном \"мягком\" возврате. Например, ящик переполнен, "
 "пользователь временно заблокирован."
 msgstr ""
-"Email address that was temporarily unavailable for delivery. They will be removed only on another one \"soft\" returns. For example, the "
+"Email addresses that are temporarily unavailable for delivery. They will be removed only on another one \"soft\" returns. For example, the "
 "mailbox is full or the user is temporarily blocked."
 
 #: wizard_split/step4.php:220 templates/reports/summary_base.php:285 templates/reports/summary_base.php:627 templates/reports/summary.php:386
@@ -4325,13 +4325,13 @@ msgstr "delivered"
 #: templates/reports/summary2.php:263 templates/reports/splitreport.php:348 templates_orig/reports/summary_base.php:225
 #: templates_orig/reports/summary.php:249 templates_orig/reports/splitreport.php:170
 msgid "клики/открытия"
-msgstr "clicks/opening"
+msgstr "clicks/openings"
 
 #: wizard_split/step4.php:237 templates/reports/summary_base.php:305 templates/reports/summary_base.php:613 templates/reports/summary.php:406
 #: templates/reports/summary2.php:259 templates/reports/splitreport.php:344 templates/account/moderation-dialog.php:147
 #: templates_orig/reports/summary_base.php:221 templates_orig/reports/summary.php:245 templates_orig/reports/splitreport.php:166
 msgid "возвраты"
-msgstr "bounce"
+msgstr "bounces"
 
 #: wizard_split/step4.php:238 templates/reports/summary_base.php:306 templates/reports/summary_base.php:619 templates/reports/summary.php:415
 #: templates/reports/summary2.php:264 templates/reports/splitreport.php:349 templates_orig/reports/summary_base.php:226
@@ -4463,7 +4463,7 @@ msgstr "The winning campaign is the one with the smallest unsubscribes percentag
 
 #: wizard_split/step1.php:72
 msgid "Analize the result in the first"
-msgstr "Analize the result in the first"
+msgstr "Analyze the result in the first"
 
 #: wizard_split/step1.php:72
 msgid "hours"
@@ -4635,7 +4635,7 @@ msgstr "my clients"
 #: templates/header_wizard.php:475 templates/account/cobranding.php:35 templates/header.php:482 templates/header_wizard_split.php:365
 #: templates_orig/header.php:175
 msgid "Настройка внешнего вида"
-msgstr "Customize the appearance"
+msgstr "Customize the outlook"
 
 #: templates/header_wizard.php:476 templates/header.php:483 templates/header_wizard_split.php:366 templates_orig/header.php:176
 msgid "Платежные реквизиты Robokassa"
@@ -4703,7 +4703,7 @@ msgstr "campaigns"
 
 #: templates/header_wizard_new.php:109
 msgid "Одновременное редактирование разных рассылок приводит к потере данных!"
-msgstr "Simultaneous editing of various campaigns resulting in data loss!"
+msgstr "Simultaneous editing of various campaigns results in data loss!"
 
 #: templates/reports/data.php:42 templates_orig/reports/data.php:42
 msgid "Причина возврата"
@@ -4716,7 +4716,7 @@ msgstr "Opening time"
 #: templates/reports/preview-content.php:43 templates/campaigns/preview-content.php:20 stat/preview.php:166
 #: templates_orig/reports/preview-content.php:43 templates_orig/campaigns/preview-content.php:20
 msgid "Предпросмотр рассылки"
-msgstr "Preview"
+msgstr "Campaign preview"
 
 #: templates/reports/preview-content.php:57 templates/reports/preview-content.php:143 templates_orig/reports/preview-content.php:57
 #: templates_orig/reports/preview-content.php:143
@@ -4804,7 +4804,7 @@ msgstr "view email"
 
 #: templates/reports/activity.php:135 templates_orig/reports/activity.php:61
 msgid "Кому были отправлены письма?"
-msgstr "To whom were emails the emails sent?"
+msgstr "To whom were the emails sent?"
 
 #: templates/reports/activity.php:136 templates_orig/reports/activity.php:62
 msgid "Кто получил письма?"
@@ -4824,7 +4824,7 @@ msgstr "Who opened the email?"
 
 #: templates/reports/activity.php:140 templates_orig/reports/activity.php:66
 msgid "О ком нет информации об открытии письма?"
-msgstr "About whom theres is no information about opening emails?"
+msgstr "About whom there is no information about opening of emails?"
 
 #: templates/reports/activity.php:141 templates_orig/reports/activity.php:67
 msgid "Кто перешел по ссылкам в письме?"
@@ -4886,11 +4886,11 @@ msgstr "Domain"
 
 #: templates/reports/domains_data.php:34 templates_orig/reports/domains_data.php:34
 msgid "Открытия"
-msgstr "Opens"
+msgstr "Openings"
 
 #: templates/reports/domains_data.php:36 templates_orig/reports/domains_data.php:36
 msgid "Отписки"
-msgstr "Unsubscribe"
+msgstr "Unsubscribed"
 
 #: templates/reports/summary_base.php:94 templates/reports/summary_base.php:463 templates_orig/reports/summary_base.php:71
 msgid "Всего подписчиков:"
@@ -4903,7 +4903,7 @@ msgstr "Sent campaigns:"
 
 #: templates/reports/summary_base.php:102 templates/reports/summary_base.php:459 templates_orig/reports/summary_base.php:67
 msgid "Дата создания:"
-msgstr "Create Date:"
+msgstr "Creation Date:"
 
 #: templates/reports/summary_base.php:109 templates/reports/summary_base.php:440 templates/reports/summary.php:196
 #: templates/reports/summary2.php:45 templates/reports/google.php:31 templates_orig/reports/summary_base.php:37
@@ -4943,7 +4943,7 @@ msgstr "n/a"
 #: templates_orig/reports/summary.php:128 templates_orig/reports/summary.php:157 templates_orig/reports/summary.php:180
 #: templates_orig/reports/summary.php:203 templates_orig/reports/summary.php:227
 msgid "Слишком большая выборка - отчеты будут получаться долго. Можно получить на запросу на "
-msgstr "Too much picks-reports will be obtained for a long time. You can get them by request on"
+msgstr "Too many picks-reports will be received for a long time. You can get them by request on"
 
 #: templates/reports/summary_base.php:152 templates/reports/summary_base.php:179 templates/reports/summary_base.php:205
 #: templates/reports/summary_base.php:231 templates/reports/summary_base.php:257 templates/reports/summary_base.php:496
@@ -4981,12 +4981,12 @@ msgstr "in average"
 #: templates/reports/summary_base.php:175 templates/reports/summary_base.php:519 templates/reports/summary.php:267
 #: templates/reports/summary2.php:165 templates_orig/reports/summary_base.php:127 templates_orig/reports/summary.php:151
 msgid "неоткрытых"
-msgstr "undiscovered"
+msgstr "unopened"
 
 #: templates/reports/summary_base.php:227 templates/reports/summary_base.php:566 templates/reports/summary.php:324
 #: templates/reports/summary2.php:212 templates_orig/reports/summary_base.php:174 templates_orig/reports/summary.php:198
 msgid "отказов"
-msgstr "bounce"
+msgstr "bounces"
 
 #: templates/reports/summary_base.php:252 templates/reports/summary_base.php:589 templates/reports/summary.php:351
 #: templates/reports/summary2.php:235 templates_orig/reports/summary_base.php:197 templates_orig/reports/summary.php:221
@@ -5056,7 +5056,7 @@ msgstr "overall:"
 
 #: templates/reports/summary_base.php:476 templates_orig/reports/summary_base.php:84
 msgid "* доля подписчиков, открывавших письмо хотя бы 1 раз"
-msgstr "* the percentage of subscribers that opened at least 1 email"
+msgstr "* the percentage of subscribers that opened at least 1 email "
 
 #: templates/reports/summary.php:93 templates/reports/summary2.php:72 templates/reports/splitreport.php:84
 #: templates_orig/reports/summary.php:62 templates_orig/reports/splitreport.php:39
@@ -5069,7 +5069,7 @@ msgstr "Sent to lists:"
 
 #: templates/reports/summary.php:230 templates/reports/summary2.php:132 templates_orig/reports/summary.php:118
 msgid "открытия - Посмотреть\""
-msgstr "Opened - View details"
+msgstr "Opened - View details \""
 
 #: templates/reports/summary.php:246 templates/reports/summary.php:278 templates/reports/summary.php:305 templates/reports/summary.php:334
 #: templates/reports/summary.php:362 templates/reports/summary2.php:148 templates/reports/summary2.php:176 templates/reports/summary2.php:199
@@ -5081,7 +5081,7 @@ msgstr "list"
 
 #: templates/reports/summary.php:265 templates/reports/summary2.php:163 templates_orig/reports/summary.php:149
 msgid "неоткрытых - Посмотреть"
-msgstr "unopened - View details"
+msgstr "unopened - View details \""
 
 #: templates/reports/summary.php:294 templates/reports/summary2.php:188 templates_orig/reports/summary.php:174
 msgid "кликов - Посмотреть"
@@ -5178,7 +5178,7 @@ msgstr "Thunderbird"
 
 #: templates/reports/summary.php:479 templates/reports/summary2.php:328 templates_orig/reports/summary.php:314
 msgid "Карта открытий"
-msgstr "Track Clickmap"
+msgstr "Clickmap"
 
 #: templates/reports/summary2.php:97 templates_orig/reports/summary.php:87
 msgid "Посмотреть кто получил письма из этой рассылки"
@@ -5225,7 +5225,7 @@ msgstr ""
 "this newsemail and your sales generated by your site. </li><li> Your sales are analyzed using the \"E-commerce\" in Google.Analytics. <a "
 "href=\"http://support.Google.com/analytics/bin/answer.py?hl=ru&answer=1009612&topic=1037061&ctx=topic\" target=\"_blank\"> How do I set up "
 "tracking my sales? </a></li><li> The cost of distribution is calculated from the total cost of your use of our service, as well as the "
-"number of emails sent to all and in the newsemail.</li></ul>"
+"number of emails sent to all and in the newsemail.</li ></ul>"
 
 #: templates/reports/google.php:152 templates_orig/reports/google.php:154
 msgid "стоимость рассылки"
@@ -5292,9 +5292,9 @@ msgid ""
 "и сразу же его покидают. Высокий показатель отказов является сигналом к проверке адекватности работы вашего сайта, а также на то, что "
 "пользователи переходят не туда, куда ожидают. И следует все это внимательно проверить.</li> </ul>"
 msgstr ""
-"<ul class=\"help-tip-lines\"> <li> Your bounce rate shows how often your subscribers go to the site for your links and immediately leave "
-"it. A high bounce rate is a signal to check the adequacy of your site, as well as the fact that people go not where expected. And all this "
-"should be to verify. </li> </ul>"
+"<ul class=\"help-tip-lines\"> <li> Your bounce rate shows how often your subscribers go to the site using your links and immediately leave "
+"it. A high bounce rate is a signal to check the adequacy of your site, as well as the fact that people go where they did not expect. And all this "
+"should be verified. </li> </ul>"
 
 #: templates/reports/google.php:190 templates_orig/reports/google.php:192
 msgid "посетители"
@@ -5334,7 +5334,7 @@ msgstr "Google Analytics Tracking"
 
 #: templates/reports/google.php:210 templates_orig/reports/google.php:212
 msgid "Аналитика360 не может отслеживать показатели вашей кампании, т.к. вы не интегрировали свой google-аккаунт с нашим сервисом."
-msgstr "Analytics 360 cannot track your campaign's performance, because you do not have integrated your Google account with our service."
+msgstr "Analytics 360 cannot track your campaign's performance, because you do not have your Google account integrated with our service."
 
 #: templates/reports/google.php:211 templates_orig/reports/google.php:213
 msgid "подключить свой google-аккаунт к нашему сервису"
@@ -5370,7 +5370,7 @@ msgstr "Viewing depth"
 
 #: templates/reports/google.php:261 templates_orig/reports/google.php:263
 msgid "Время на сайте"
-msgstr "Time on site"
+msgstr "Time spent on the website"
 
 #: templates/autocampaigns/autocampaigns-list.php:38 templates/campaigns/campaigns-list.php:36
 #: templates_orig/autocampaigns/autocampaigns-list.php:38 templates_orig/campaigns/campaigns-list.php:35
@@ -5379,7 +5379,7 @@ msgstr "Title"
 
 #: templates/autocampaigns/autocampaigns-list.php:39 templates_orig/autocampaigns/autocampaigns-list.php:39
 msgid "что делаем?"
-msgstr "What we do?"
+msgstr "What do we do?"
 
 #: templates/autocampaigns/autocampaigns-list.php:40 templates/campaigns/campaigns-list.php:39
 #: templates_orig/autocampaigns/autocampaigns-list.php:40 templates_orig/campaigns/campaigns-list.php:38
@@ -5405,7 +5405,7 @@ msgstr "copy"
 #: templates/autocampaigns/autocampaigns-list.php:62 templates/autocampaigns/autocampaigns-list.php:64
 #: templates_orig/autocampaigns/autocampaigns-list.php:63 templates_orig/autocampaigns/autocampaigns-list.php:65
 msgid ", "
-msgstr ", "
+msgstr ","
 
 #: templates/autocampaigns/autocampaigns-list.php:66 templates_orig/autocampaigns/autocampaigns-list.php:67
 msgid "после "
@@ -5429,7 +5429,7 @@ msgstr "Subscribers on the day of birth"
 
 #: templates/autocampaigns/autocampaigns-list.php:83 templates_orig/autocampaigns/autocampaigns-list.php:84
 msgid "подписчикам при измененнии доп. полей: "
-msgstr "Subscribers with izmenennii extras. fields:"
+msgstr "Subscribers with extra changes in the fields:"
 
 #: templates/autocampaigns/autocampaigns-list.php:91 templates_orig/autocampaigns/autocampaigns-list.php:92
 msgid "открывшим в рассылках"
@@ -5437,32 +5437,32 @@ msgstr "opened in campaigns"
 
 #: templates/autocampaigns/autocampaigns-list.php:92 templates_orig/autocampaigns/autocampaigns-list.php:93
 msgid "перешедшим по ссылкам из рассылок"
-msgstr "come to clickstream from campaigns"
+msgstr "who followed the links in campaigns"
 
 #: templates/autocampaigns/autocampaigns-list.php:93 templates_orig/autocampaigns/autocampaigns-list.php:94
 msgid "перешедшим по ссылкам из рассылки"
-msgstr "revert the links from the campaign"
+msgstr "who followed the links in campaigns"
 
 #: templates/autocampaigns/autocampaigns-list.php:94 templates/autocampaigns/autocampaigns-list.php:124
 #: templates_orig/autocampaigns/autocampaigns-list.php:95 templates_orig/autocampaigns/autocampaigns-list.php:124
 msgid "В какой адресной базе: "
-msgstr "To what list: "
+msgstr "To what list:"
 
 #: templates/autocampaigns/autocampaigns-list.php:94 templates_orig/autocampaigns/autocampaigns-list.php:95
 msgid "В какой рассылке: "
-msgstr "In campaign: "
+msgstr "In  which campaign:"
 
 #: templates/autocampaigns/autocampaigns-list.php:94 templates_orig/autocampaigns/autocampaigns-list.php:95
 msgid "В каких рассылках: "
-msgstr "In campaigns: "
+msgstr "In which campaigns:"
 
 #: templates/autocampaigns/autocampaigns-list.php:118
 msgid " selected links: "
-msgstr " selected links: "
+msgstr "to the list"
 
 #: templates/autocampaigns/autocampaigns-list.php:123 templates_orig/autocampaigns/autocampaigns-list.php:123
 msgid " через форму"
-msgstr " via form"
+msgstr "via form"
 
 #: templates/autocampaigns/autocampaigns-list.php:127 templates_orig/autocampaigns/autocampaigns-list.php:127
 msgid "Когда отправляем:"
@@ -5559,11 +5559,11 @@ msgstr "Select automatically"
 
 #: templates/campaigns/campaigns.php:52 templates_orig/campaigns/campaigns.php:29
 msgid "Мы видим, что у вас есть рассылки на модерации."
-msgstr "We see that you have mailing list for moderation."
+msgstr "We see that you have a mailing list in moderation."
 
 #: templates/campaigns/campaigns.php:52 templates_orig/campaigns/campaigns.php:29
 msgid "В ночное время рассылки пока не модерируются. Ваши рассылки отправятся утром."
-msgstr "At night the campaign not yet moderated. Your campaign will go in the morning."
+msgstr "At night the campaigns are not yet moderated. Your campaign will  be sent in the morning."
 
 #: templates/campaigns/campaigns.php:52 templates_orig/campaigns/campaigns.php:29
 msgid "Не беспокойтесь, мы проверим и отправим ее в самое ближайшее время."
@@ -5592,7 +5592,8 @@ msgstr "Messages from your campaigns are trapped in spam filters-Gmail.com"
 
 #: templates/campaigns/campaigns.php:72 templates_orig/campaigns/campaigns.php:43
 msgid "Мы очень расстроены этим фактом и надеемся, что это досадное недоразумение. Ваши рассылки проверяется на предмет соответствия"
-msgstr "We are very upset by this fact and we hope that this is unfortunate misunderstanding. Your campaign shall be inspected for compliance "
+msgstr ""
+"We are very upset by this fact and we hope that this  is unfortunate misunderstanding. Your campaign shall be inspected for compliance "
 "with the"
 
 #: templates/campaigns/campaigns.php:72 templates_orig/campaigns/campaigns.php:43
@@ -5604,7 +5605,7 @@ msgid ""
 "А пока мы заняты проверкой - вам необходимо срочно выполнить <a href=\"javascript:spamInfo();\" style=\"display:inline;\">следующие шаги.</"
 "a>"
 msgstr ""
-"And while we are busy checking you need to perform <a href=\"javascript:spamInfo();\" style=\"display:inline;\">the following steps.</a>"
+"And while we are busy checking you need to perform <a href=\"javascript:spamInfo();\" style=\"display:inline;\">the following steps.</""a>"
 
 #: templates/campaigns/campaigns.php:102 templates/campaigns/campaigns.php:202 templates/main/main.php:193
 #: templates_orig/campaigns/campaigns.php:53
@@ -5612,7 +5613,7 @@ msgid ""
 "Внимание! Создание рассылки невозможно, поскольку количество подписчиков в ваших адресных базах превышает допустимое на вашем тарифном "
 "плане. Необходимо выбрать другой тарифный план или удалить часть подписчиков."
 msgstr ""
-"Attention! Creating a campaign is not possible, because the number of subscribers in your lists larger than allowed by your plan. You need "
+"Attention! Creating a campaign is not possible, because the number of subscribers in your lists is larger than allowed by your plan. You need "
 "to select another plan or reduce amount of subscribers."
 
 #: templates/campaigns/campaigns.php:107 templates/campaigns/campaigns.php:207 templates/main/main.php:198
@@ -5646,7 +5647,7 @@ msgstr ""
 
 #: templates/campaigns/campaigns.php:202 templates/campaigns/campaigns.php:212 templates_orig/campaigns/campaigns.php:86
 msgid "создать свою первую рассылку"
-msgstr "create your first newsemail"
+msgstr "create your first campaign"
 
 #: templates/campaigns/campaigns.php:224 templates_orig/campaigns/campaigns.php:94
 msgid "Что такое модерация?"
@@ -5658,16 +5659,16 @@ msgstr "How do I unlock my account?"
 
 #: templates/campaigns/campaigns.php:226 templates_orig/campaigns/campaigns.php:96
 msgid "Что исправить?"
-msgstr "What to fix?"
+msgstr "What is there to fix?"
 
 #: templates/campaigns/campaigns.php:227 templates/main/main.php:479 templates_orig/campaigns/campaigns.php:97
 #: templates_orig/main/main.php:381
 msgid "Создать триггерную рассылку"
-msgstr "Create trigger campaign"
+msgstr "Create a trigger campaign"
 
 #: templates/campaigns/campaigns.php:235 templates_orig/campaigns/campaigns.php:104
 msgid "Настройки вашего субаккаунта не позволяют просматривать информацию о рассылках."
-msgstr "Customize your not a subaccount allows you to view information about the campaigns."
+msgstr "Settings of your subaccount allows you to view information about the campaigns."
 
 #: templates/campaigns/campaigns-folders.php:13 templates_orig/campaigns/campaigns-folders.php:13
 msgid "модерация"
@@ -5679,11 +5680,11 @@ msgstr "all campaigns"
 
 #: templates/campaigns/campaigns-folders.php:13 templates_orig/campaigns/campaigns-folders.php:13
 msgid "отложенные рассылки"
-msgstr "Scheduled"
+msgstr "Delayed campaigns "
 
 #: templates/campaigns/campaigns-folders.php:13 templates_orig/campaigns/campaigns-folders.php:13
 msgid "рассылки по базам"
-msgstr "Sent to lists"
+msgstr "Campaigns to lists"
 
 #: templates/campaigns/campaigns-folders.php:25 templates_orig/campaigns/campaigns-folders.php:18
 msgid "заблокированные"
@@ -5691,7 +5692,7 @@ msgstr "blocked"
 
 #: templates/campaigns/campaigns-folders.php:25 templates_orig/campaigns/campaigns-folders.php:18
 msgid "подозрение на спам"
-msgstr "suspected spam"
+msgstr "suspected for spam"
 
 #: templates/campaigns/campaigns-folders.php:25 templates_orig/campaigns/campaigns-folders.php:18
 msgid "на доработку"
@@ -5720,7 +5721,7 @@ msgstr "The proportion of clicks \"this is spam\" button more than 1%"
 
 #: templates/campaigns/spam-info.php:21 templates_orig/campaigns/spam-info.php:21
 msgid "Доля жестких возвратов больше 12%"
-msgstr "The proportion of hard bounces more 12%"
+msgstr "The proportion of hard bounces is more then 12%"
 
 #: templates/campaigns/spam-info.php:22 templates_orig/campaigns/spam-info.php:22
 msgid "Массовое попадание в спам-фильтры"
@@ -5736,11 +5737,11 @@ msgstr "Reason for the blocking:"
 
 #: templates/campaigns/spam-info.php:31 templates_orig/campaigns/spam-info.php:31
 msgid "Вам необходимо "
-msgstr "You need to "
+msgstr "You need to"
 
 #: templates/campaigns/spam-info.php:31 templates_orig/campaigns/spam-info.php:31
 msgid "отправить письмо в нашу техподдержку</a>, содержащее следующую информацию:"
-msgstr "send an email to our technical support</a> with the following information:"
+msgstr "send an email to our technical support with the following information:"
 
 #: templates/campaigns/spam-info.php:33 templates_orig/campaigns/spam-info.php:33
 msgid "0. Ваш логин на сервисе"
@@ -5748,11 +5749,11 @@ msgstr "0. your login at the service"
 
 #: templates/campaigns/spam-info.php:34 templates_orig/campaigns/spam-info.php:34
 msgid "1. Легитимность вашей адресной базы. Кто подписчики? Как получены? Где они могут отписаться, кроме как на "
-msgstr "1. The legitimacy of your list. Who are the subscribers? How are messages received? Where they can unsubscribe, except on "
+msgstr "1. The legitimacy of your list. Who are the subscribers? How are messages received? Where can they unsubscribe, except on"
 
 #: templates/campaigns/spam-info.php:34 templates_orig/campaigns/spam-info.php:34
 msgid "На какой конкретно странице подписывались? Скриншот из базы данных с ip-адресами подписчиков (если есть)"
-msgstr "On what pagedid they sign up? Screenshot from a list with ip addresses of subscribers (if any)"
+msgstr "On what page did they sign up? Screenshot from a list with ip addresses of subscribers (if any)"
 
 #: templates/campaigns/spam-info.php:35 templates_orig/campaigns/spam-info.php:35
 msgid "2. Характер заблокированной рассылки, ее цель и содержание?"
@@ -5819,7 +5820,7 @@ msgstr "Bounces"
 
 #: templates/campaigns/confirm-delete-campaign.php:41 templates_orig/campaigns/confirm-delete-campaign.php:41
 msgid "Внимание! Пока вы это читали, рассылка уже могла начать отправляться. В таком случае она не будет отменена."
-msgstr "Attention! While you were reading this, the campaign could have already been launched . In such a case, it will not be cancelled."
+msgstr "Attention! While you were reading this, the campaign could have already been launched . In such case it will not be cancelled."
 
 #: templates/campaigns/confirm-delete-campaign.php:43 templates_orig/campaigns/confirm-delete-campaign.php:43
 msgid "Удалив эту рассылку, вы навсегда потеряете доступ к вашим статистикам по этой рассылке, эти данные нигде больше не будут учитываться"
@@ -5848,7 +5849,7 @@ msgid ""
 "регламентирован и индивидуален."
 msgstr ""
 "Reliable customers have nothing to worry about. If you believe in yourself  we will believe in you. Once we believe in your campaigns and "
-"your numerical indicators are be normal, auto-moderation will be activated in your account. This process is not regulated and  individual."
+"your numerical indicators are normal, auto-moderation will be activated in your account. This process is not regulated and  individual."
 
 #: templates/campaigns/moderation-info.php:10
 msgid ""
@@ -5858,7 +5859,7 @@ msgid ""
 msgstr ""
 "We respect our customers and trust them.That is why when our service first started all the newsletters were sent automatically.  However a "
 "number of our clients abused out trust and sent spam using our service. Email providers were patient long enough, but at some point they "
-"startes to demand fines. To prevent spamming we launched newsletter moderation"
+"started to demand fines. To prevent spamming we launched newsletter moderation"
 
 #: templates/campaigns/moderation-info.php:11
 msgid ""
@@ -5875,7 +5876,7 @@ msgid ""
 "рейтинге рассылок, что дает нам возможность не попадать в \"спам\" у почтовых провайдеров.</p>"
 msgstr ""
 "We apologize for the inconvenience. But total confidence to all our clients also  has a positive impact on your personal campaign rank , "
-"which gives us the opportunity not to fall into the \"spam\"  of email providers.</p>"
+"which gives us the opportunity not to fall into the \"spam\"  of email providers."
 
 #: templates/campaigns/mailtrig.php:2
 msgid "Запустите свою первую триггерную рассылку!"
@@ -5897,7 +5898,7 @@ msgstr ""
 
 #: templates/campaigns/mailtrig.php:8
 msgid "При грамотных настройках триггерные рассылки помогают:"
-msgstr "When poperly set the trigger campaigns help to:"
+msgstr "When properly set the trigger campaigns help to:"
 
 #: templates/campaigns/mailtrig.php:10
 msgid "возвращать клиентов на сайт,"
@@ -6005,7 +6006,7 @@ msgstr "SENT"
 
 #: templates/campaigns/campaigns-list.php:95 templates_orig/campaigns/campaigns-list.php:94
 msgid " ЧАСТЬ"
-msgstr " PART"
+msgstr "PART"
 
 #: templates/campaigns/campaigns-list.php:96 templates_orig/campaigns/campaigns-list.php:95
 msgid "К ОТПРАВКЕ"
@@ -6105,7 +6106,7 @@ msgstr "view the report"
 
 #: templates/campaigns/fix-info.php:24
 msgid "Рассылка "
-msgstr "Campaigns "
+msgstr "Campaigns"
 
 #: templates/campaigns/fix-info.php:24
 msgid "отправлена на доработку. Внесите необходимые изменения и отправьте ее!<br ><br >Робот Печкина."
@@ -6140,7 +6141,7 @@ msgstr "No information about consent"
 
 #: templates/campaigns/fix-info.php:75
 msgid "Здесь должна быть информация..."
-msgstr "There should be information..."
+msgstr "There should be information."
 
 #: templates/campaigns/fix-info.php:76
 msgid "Обратный адрес на общедоступном домене"
@@ -6184,7 +6185,7 @@ msgstr "Unreadable unsubscribe  link"
 
 #: templates/account/money.php:29 templates/account/money.php:173
 msgid "Платежи клиента "
-msgstr "Customer payments "
+msgstr "Customer payments"
 
 #: templates/account/money.php:29 templates/account/money.php:173
 msgid "все платежи"
@@ -6201,7 +6202,7 @@ msgstr "search for bills by number or name"
 #: templates/account/money.php:37 templates/account/money.php:177 templates/lists/add.php:55 templates/lists/remove.php:50
 #: templates/lists/edit.php:61 templates_orig/lists/include/searchform.php:11
 msgid "искать"
-msgstr "search"
+msgstr "search..."
 
 #: templates/account/money.php:73
 msgid "January"
@@ -6261,7 +6262,7 @@ msgstr "Apparently"
 
 #: templates/account/money.php:112 templates/account/money.php:256
 msgid "клиента "
-msgstr "client "
+msgstr "client"
 
 #: templates/account/money.php:112 templates/account/money.php:256
 msgid "ваших клиентов"
@@ -6273,7 +6274,7 @@ msgstr "There were no more orders and payments."
 
 #: templates/account/money.php:117 templates/account/money.php:261 templates_orig/account/billing.php:54
 msgid "Дата создания счета"
-msgstr "Date of invoice"
+msgstr "Date of invoice "
 
 #: templates/account/money.php:118 templates/account/money.php:262
 msgid "Клиент"
@@ -6317,7 +6318,7 @@ msgstr "<span class=\"rur\">£</span>"
 
 #: templates/account/money.php:141 templates/account/money.php:285 templates_orig/account/billing.php:74
 msgid "Месячный план. "
-msgstr "Monthly plan. "
+msgstr "Monthly plan "
 
 #: templates/account/money.php:141 templates/account/money.php:285 templates_orig/account/billing.php:74
 msgid " подписчиков."
@@ -6334,7 +6335,7 @@ msgstr "The package of "
 
 #: templates/account/money.php:145 templates/account/money.php:147 templates/account/money.php:289 templates/account/money.php:291
 msgid " email-кредитов."
-msgstr " email credits."
+msgstr "email credits."
 
 #: templates/account/money.php:152 templates/account/money.php:296
 msgid "Апгрейд"
@@ -6350,7 +6351,7 @@ msgstr "Paid"
 
 #: templates/account/money.php:156 templates/account/money.php:300 templates_orig/account/billing.php:94
 msgid " от "
-msgstr " from "
+msgstr "from"
 
 #: templates/account/money.php:156 templates/account/money.php:300
 msgid "аванс"
@@ -6446,13 +6447,13 @@ msgstr "Confirm Delete"
 
 #: templates/account/contact.php:41 templates/account/contact.php:96
 msgid "fields, marked <span class=\"req\">*</span> required fields"
-msgstr "fields, marked <span class=\"req\">*</span> required fields"
+msgstr "fields marked <span class=\"req\">*</span> required fields"
 
 #: templates/account/contact.php:43 templates_orig/account/contact.php:24
 msgid ""
 "Данная информация необходима, чтобы мы могли с вами связаться быстро и четко, когда это необходимо. Ваша информация держится строго "
 "конфиденциально."
-msgstr "This information is needed so that we can contact you quickly when you need it. Your information is kept strictly confidential."
+msgstr "This information is needed so that we can contact you quickly   when you need it. Your information is kept strictly confidential."
 
 #: templates/account/contact.php:43
 msgid "Privacy Policy"
@@ -6460,7 +6461,7 @@ msgstr "Privacy Policy"
 
 #: templates/account/contact.php:43 templates_orig/account/contact.php:24
 msgid "Также эти данные ставятся по умолчанию в раздел \"адресные базы\" &gt; \"обязательная контактная информация\" при создании базы."
-msgstr "These data are, by default, put in the section \"address list\" &gt; \"obligatory contact information\" when you create a list."
+msgstr "These data are, by default, put in the section \"address list\"  &gt; \"obligatory contact information\" when you create a list."
 
 #: templates/account/contact.php:52 templates/account/contact.php:55 templates/account/affiliate.php:47 templates_orig/account/contact.php:27
 #: new-user.php:228 new-user.php:231
@@ -6555,11 +6556,11 @@ msgstr "create"
 
 #: templates/account/confirm-bill.php:85
 msgid " и продлили действие текущего месячного плана еще на "
-msgstr " and extended the current monthly plan still on "
+msgstr "and extended the current monthly plan still on"
 
 #: templates/account/confirm-bill.php:85
 msgid " месяц"
-msgstr " month"
+msgstr "month"
 
 #: templates/account/confirm-bill.php:111 templates/main/main.php:303 templates_orig/main/main.php:217
 msgid "Месячный план"
@@ -6568,15 +6569,15 @@ msgstr "Monthly plan"
 #: templates/account/confirm-bill.php:111 templates/account/create-bill.php:38 templates/account/choose_payment.php:48
 #: templates/account/choose_payment.php:81
 msgid " подписчиков"
-msgstr " subscribers"
+msgstr "subscribers"
 
 #: templates/account/confirm-bill.php:115 templates/account/create-bill.php:42
 msgid " email-кредитов"
-msgstr " email-credits"
+msgstr "email-credits"
 
 #: templates/account/confirm-bill.php:119
 msgid "Авансовая активация счета №"
-msgstr "Prepaid activation account #"
+msgstr "Prepaid activation account no."
 
 #: templates/account/confirm-bill.php:119 templates/account/confirm-bill.php:141 templates/account/delete-bill.php:32
 msgid "для клиента"
@@ -6601,19 +6602,19 @@ msgstr "To pay the prepayment"
 
 #: templates/account/confirm-bill.php:132 templates/account/delete-bill.php:21
 msgid "\"Месячный план. "
-msgstr "\"Monthly plan. "
+msgstr "'Monthly plan "
 
 #: templates/account/confirm-bill.php:132 templates/account/delete-bill.php:21
 msgid " подписчиков\""
-msgstr " subscribers\""
+msgstr "subscribers\""
 
 #: templates/account/confirm-bill.php:136 templates/account/delete-bill.php:25
 msgid "\"Пакет из "
-msgstr "\"The package of "
+msgstr "\"The package of"
 
 #: templates/account/confirm-bill.php:136 templates/account/delete-bill.php:25
 msgid " email-кредитов\""
-msgstr " email credits \""
+msgstr "email credits \""
 
 #: templates/account/confirm-bill.php:141
 msgid "Подтверждение счета №"
@@ -6624,8 +6625,8 @@ msgid ""
 "Чтобы подтвердить оплату счета на безналичный банковский перевод - введите входящие реквизиты платежного поручения. <strong>Например, №123 "
 "от 16.02.2011</strong>"
 msgstr ""
-"To confirm payment account for non-cash bank transfer enter incoming payment order details. <strong>For example, #123 from 16.02.2011"
-"</strong>"
+"To confirm payment account for non-cash bank transfer enter incoming payment order details. <strong>For example, no. 123 from 16.02.2011</"
+"strong>"
 
 #: templates/account/confirm-bill.php:144
 msgid "от"
@@ -6637,27 +6638,27 @@ msgstr "confirm invoice"
 
 #: templates/account/subaccount_save.php:18 templates_orig/account/subaccount_save.php:18
 msgid "Здравствуйте!"
-msgstr "Hello!"
+msgstr "Dear Customer,"
 
 #: templates/account/subaccount_save.php:19 templates_orig/account/subaccount_save.php:19
 msgid "Это письмо пришло вам, потому что для вас был создан субаккаунт на сервисе "
-msgstr "This email came you, because you had created a subaccount "
+msgstr "This email came you, because you had created a subaccount"
 
 #: templates/account/subaccount_save.php:20 templates_orig/account/subaccount_save.php:20
 msgid "Ваш логин: "
-msgstr "Your username "
+msgstr "Your username"
 
 #: templates/account/subaccount_save.php:21 templates_orig/account/subaccount_save.php:21
 msgid "Ваш пароль: "
-msgstr "Your password: "
+msgstr "Your password:"
 
 #: templates/account/subaccount_save.php:22 templates_orig/account/subaccount_save.php:22
 msgid "С уважением, администрация "
-msgstr "Sincerely, administration "
+msgstr "Sincerely, administration"
 
 #: templates/account/subaccount_save.php:23 templates_orig/account/subaccount_save.php:23
 msgid "администрация "
-msgstr "administration "
+msgstr "administration"
 
 #: templates/account/subaccount_save.php:25 templates_orig/account/subaccount_save.php:25
 msgid "Вам создан субаккаунт"
@@ -6695,7 +6696,7 @@ msgstr "£"
 
 #: templates/account/company_plans.php:113 templates/account/company_plans.php:282 templates/account/plans.php:176
 msgid " - больше"
-msgstr " - more"
+msgstr "-more"
 
 #: templates/account/company_plans.php:114 templates/account/company_plans.php:283 templates/account/plans.php:177
 msgid "по запросу"
@@ -6720,7 +6721,7 @@ msgstr "prepay the amount"
 
 #: templates/account/company_plans.php:140 templates/account/company_plans.php:337
 msgid "коп./email)"
-msgstr "penny/email)"
+msgstr "penny/email"
 
 #: templates/account/company_plans.php:154
 msgid "Add new monthly payment"
@@ -6744,7 +6745,7 @@ msgstr "1. to add a monthly plan fill-in 3 fields and click \"add plan\"-it will
 
 #: templates/account/company_plans.php:179 templates/account/company_plans.php:312
 msgid "2. Чтобы добавить бесплатный план - введите в поле \"Месячный платеж\" цифру \"0\"."
-msgstr "2. To add a free plan-enter digit \"0\"  into the \"monthly payment\" field."
+msgstr "2. To add a free plan-enter digit \"0\"  into the \"monthly payment\" field "
 
 #: templates/account/company_plans.php:180 templates/account/company_plans.php:313
 msgid "3. Не может быть больше одного бесплатного плана"
@@ -6812,7 +6813,7 @@ msgstr "Monthly plans"
 
 #: templates/account/company_plans.php:259 templates/account/plans.php:71 templates/account/plans.php:160
 msgid "Всего подписчиков"
-msgstr "Total subscribers"
+msgstr "Total subscribers:"
 
 #: templates/account/company_plans.php:260 templates/account/plans.php:161
 msgid "Всего писем"
@@ -6820,7 +6821,7 @@ msgstr "Total emails"
 
 #: templates/account/company_plans.php:261 templates/account/company_plans.php:296
 msgid "Месячный&nbsp;Платеж (руб.)"
-msgstr "Month &nbsp;Payment (£)"
+msgstr "Month &nbsp; payment (£)"
 
 #: templates/account/company_plans.php:289
 msgid "Добавить новый месячный тарифный план"
@@ -6864,19 +6865,19 @@ msgstr "Configure a discount for the customer"
 
 #: templates/account/company_plans.php:366
 msgid "Скидка:"
-msgstr "Product Discount:"
+msgstr "Product Discount"
 
 #: templates/account/company_plans.php:367
 msgid "До какого времени действует:"
-msgstr "Up to a time:"
+msgstr "Up to a time"
 
 #: templates/account/company_plans.php:369
 msgid "* если поле времени пустое - скидка бессрочная"
-msgstr "* If time field is empty - discount perpetual"
+msgstr "* If time field is empty-discount perpetual"
 
 #: templates/account/campaigns.php:60 templates/account/campaigns.php:102 templates_orig/account/campaigns.php:15
 msgid "Похоже, ваши клиенты еще не создавали рассылок."
-msgstr "It looks like your customers have not yet created any campaigns."
+msgstr "It looks like your customers have not yet created any campaigns"
 
 #: templates/account/campaigns.php:88 templates_orig/account/campaigns.php:66
 msgid "Задайте причину отказа в модерировании"
@@ -6996,7 +6997,7 @@ msgstr "Bank details"
 
 #: templates/account/company_details.php:111
 msgid "ИНН"
-msgstr "INN"
+msgstr "INN:"
 
 #: templates/account/company_details.php:116
 msgid "КПП"
@@ -7008,7 +7009,7 @@ msgstr "Bank"
 
 #: templates/account/company_details.php:126
 msgid "Расчетный счет"
-msgstr "Current account"
+msgstr "Current account:"
 
 #: templates/account/company_details.php:131
 msgid "Корреспондентский счет"
@@ -7040,7 +7041,7 @@ msgstr "signature and seal"
 
 #: templates/account/company_details.php:165
 msgid "Подпись генерального директора "
-msgstr "Signature of the Director General "
+msgstr "Signature of the Director General"
 
 #: templates/account/company_details.php:183
 msgid "Подпись главного бухгалтера"
@@ -7048,23 +7049,23 @@ msgstr "Signature of the Chief Accountant"
 
 #: templates/account/company_details.php:200
 msgid "Печать организации "
-msgstr "Stamp "
+msgstr "Stamp"
 
 #: templates/account/cloudpayments.php:17
 msgid "Monthly plan: "
-msgstr "Monthly plan: "
+msgstr "Monthly plan:"
 
 #: templates/account/cloudpayments.php:17
 msgid " subscribers "
-msgstr " subscribers "
+msgstr "Subscribers"
 
 #: templates/account/cloudpayments.php:19
 msgid "Pay-as-you-go: "
-msgstr "Pay-as-you-go: "
+msgstr "Pay-as-you-go:"
 
 #: templates/account/cloudpayments.php:19
 msgid " email-credits "
-msgstr " email-credits "
+msgstr "email-credits"
 
 #: templates/account/cloudpayments.php:49
 msgid "Enter a correct amount!"
@@ -7156,19 +7157,19 @@ msgstr "upgrade"
 
 #: templates/account/cloudpayments.php:186
 msgid "£20.00"
-msgstr "£20.00"
+msgstr "£ 20.00"
 
 #: templates/account/cloudpayments.php:192
 msgid "£40.00"
-msgstr "£40.00"
+msgstr "£ 40.00"
 
 #: templates/account/cloudpayments.php:198
 msgid "£80.00"
-msgstr "£80.00"
+msgstr "£ 80.00"
 
 #: templates/account/cloudpayments.php:206
 msgid "...or just Pay-As-You-Go"
-msgstr "...or just Pay-As-You-Go"
+msgstr "... or just Pay-As-You-Go"
 
 #: templates/account/cloudpayments.php:207
 msgid ""
@@ -7176,7 +7177,7 @@ msgid ""
 "might find it more convenient to pay-as-you-go. "
 msgstr ""
 "Monthly plans provide the best bang for your buck, but they don't work for everybody. If you don't send out emails too regularly, you "
-"might find it more convenient to pay-as-you-go. "
+"might find it more convenient to pay-as-you-go."
 
 #: templates/account/cloudpayments.php:208
 msgid ""
@@ -7311,7 +7312,7 @@ msgid ""
 "абсолютно без учета репутации ваших \"соседей по серверу отправки\". И если ваши рассылки легитимны и несут пользу людям, то и с "
 "репутацией и доставляемостью у вас все будет хорошо!"
 msgstr ""
-"If you are responsible sender, then adding your own domain statistics, especially in addition to its own domain to send, <b>you get the "
+"If you - responsible sender, then adding your own domain statistics, especially in addition to its own domain to send, <b>you get the "
 "highest possible deliverability of your emails</b> in your customers' mailboxes. After all, if the emails are sent completely excluding "
 "the reputation of your \"neighbors in the server sending\". And if your are sending legitimate and benefit the people, so with the "
 "reputation and deliverability you all will be well!"
@@ -7378,7 +7379,7 @@ msgstr "inactive"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid "Тарифный План:"
-msgstr "My tarriff plan:"
+msgstr "My tarriff plan"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates/account/plans.php:171 templates/main/main.php:295
 #: templates/account.php:78 templates/account.php:81 templates/account.php:171 templates/account.php:174
@@ -7388,15 +7389,15 @@ msgstr "Free"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid " подписчиков ("
-msgstr " subscribers ("
+msgstr "subscribers ("
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid " писем)"
-msgstr " emails)"
+msgstr "emails)"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid " кредитов."
-msgstr " credits."
+msgstr "credits."
 
 #: templates/account/clients.php:90 templates/account/clients.php:196 templates_orig/account/clients.php:82
 msgid "Источник:"
@@ -7412,11 +7413,11 @@ msgstr "Actions"
 
 #: templates/account/clients.php:99 templates/account/clients.php:182 templates_orig/account/clients.php:68
 msgid "выставить счет"
-msgstr "issue invoice"
+msgstr "Issue Invoice"
 
 #: templates/account/clients.php:100 templates/account/clients.php:183 templates_orig/account/clients.php:69
 msgid "доверие"
-msgstr "trust"
+msgstr "Trust"
 
 #: templates/account/clients.php:101 templates/account/clients.php:185 templates_orig/account/clients.php:71
 msgid "Платежи"
@@ -7441,7 +7442,7 @@ msgstr "Back to own clients"
 
 #: templates/account/clients.php:131 templates/account/clients.php:207 templates_orig/account/clients.php:93
 msgid "Выставить счет"
-msgstr "Issue invoice"
+msgstr "Issue Invoice"
 
 #: templates/account/clients.php:132 templates/account/clients.php:208 templates_orig/account/clients.php:94
 msgid "Доверие клиента"
@@ -7457,7 +7458,7 @@ msgstr "Total customers:"
 
 #: templates/account/clients.php:147 templates_orig/account/clients.php:33
 msgid "Оплачено счетов на сумму:"
-msgstr "Paid:"
+msgstr "Paid"
 
 #: templates/account/clients.php:152
 msgid "поиск клиентаа"
@@ -7469,7 +7470,7 @@ msgstr "search subscribers"
 
 #: templates/account/clients.php:179 templates_orig/account/clients.php:65
 msgid "последний платеж: "
-msgstr "last payment: "
+msgstr "last payment:"
 
 #: templates/account/clients.php:200 templates_orig/account/clients.php:86 templates_orig/account/subaccount.php:56
 msgid "Страницы:"
@@ -7481,7 +7482,7 @@ msgstr "login as customer"
 
 #: templates/account/subaccount.php:77 templates_orig/account/subaccount.php:18
 msgid "поиск аккаунта"
-msgstr "search account"
+msgstr "Search account"
 
 #: templates/account/subaccount.php:85 templates_orig/account/subaccount.php:13
 msgid "Всего субаккаунтов:"
@@ -7521,7 +7522,7 @@ msgstr "Login"
 #: templates/account/password-sub.php:63 templates/account/password-sub.php:66 templates/account/password.php:67
 #: templates/account/password.php:70 templates_orig/account/password-sub.php:27 templates_orig/account/password.php:24
 msgid "новый пароль"
-msgstr "new password"
+msgstr "New password"
 
 #: templates/account/password-sub.php:76 templates/account/password-sub.php:79 templates/account/password.php:80
 #: templates/account/password.php:83 templates_orig/account/password-sub.php:29 templates_orig/account/password.php:26
@@ -7548,15 +7549,15 @@ msgstr "error_email"
 
 #: templates/account/save_cc_details.php:24
 msgid "Your subscription is cancelled. Month plan will be active till "
-msgstr "Your subscription is cancelled. Month plan will be active till "
+msgstr "Your subscription is cancelled. Month plan will be active till"
 
 #: templates/account/save_cc_details.php:31
 msgid "Your subscription is renewed. Next charge will be at "
-msgstr "Your subscription is renewed. The next charge will be at "
+msgstr "Your subscription is renewed. The next charge will be at"
 
 #: templates/account/save_cc_details.php:38
 msgid "Your account is successfully upgraded. Next charge will be at "
-msgstr "Your account is successfully upgraded. The next charge will be at "
+msgstr "Your account is successfully upgraded. The next charge will be at"
 
 #: templates/account/save_cc_details.php:51 templates/account/save_cc_details.php:85 templates/account/save_cc_details.php:107
 msgid "Something went wrong. Try again later!"
@@ -7564,11 +7565,11 @@ msgstr "Something went wrong. Try again later!"
 
 #: templates/account/save_cc_details.php:63
 msgid "You successfully purchased "
-msgstr "You successfully purchased "
+msgstr "You successfully purchased"
 
 #: templates/account/save_cc_details.php:63
 msgid " email-credits for £"
-msgstr " email credits for £"
+msgstr "email credits for £"
 
 #: templates/account/save_cc_details.php:81
 msgid "Your subscription is renewed with new credit card:"
@@ -7576,11 +7577,11 @@ msgstr "Your subscription is renewed with new credit card:"
 
 #: templates/account/save_cc_details.php:81
 msgid " Next charge: "
-msgstr " Next charge: "
+msgstr "Next charge:"
 
 #: templates/account/save_cc_details.php:103
 msgid "Your successfully subscribed with new credit card: "
-msgstr "Your successfully subscribed with new credit card: "
+msgstr "Your successfully subscribed with new credit card:"
 
 #: templates/account/automoderator.php:19
 msgid "ERROR"
@@ -7602,7 +7603,7 @@ msgstr "Customer details with ID:"
 
 #: templates/account/company_details_save.php:26
 msgid " успешно сохранены"
-msgstr " successfully saved"
+msgstr "successfully saved"
 
 #: templates/account/company_details_save.php:29
 msgid "Это не ваш клиент!"
@@ -7674,7 +7675,7 @@ msgstr "No more than 45 characters, please."
 
 #: templates/account/cobranding.php:45
 msgid "и мы рекомендуем также..."
-msgstr "and we also recommend..."
+msgstr "and we also recommend ..."
 
 #: templates/account/cobranding.php:46
 msgid "Загрузите свое лого"
@@ -7690,7 +7691,7 @@ msgstr "jpg, gif or png. maximum height: 70px, maximum width: 175px"
 
 #: templates/account/cobranding.php:63
 msgid "не забудьте самое важное..."
-msgstr "don't forget the most important thing..."
+msgstr "don't forget the most important thing."
 
 #: templates/account/cobranding.php:64
 msgid "Домен на котором располагается сервис"
@@ -7750,7 +7751,7 @@ msgstr "Switzerland next"
 
 #: templates/account/cobranding.php:88
 msgid "wall street"
-msgstr "wall street"
+msgstr "Wall Street"
 
 #: templates/account/cobranding.php:89
 msgid "деревянный интернет"
@@ -7762,7 +7763,7 @@ msgstr "Apply"
 
 #: templates/account/cobranding.php:93
 msgid "пожалуйста, подождите..."
-msgstr "please wait..."
+msgstr "Please wait ..."
 
 #: templates/account/cobranding.php:93
 msgid "Вернуть по-умолчанию"
@@ -7819,7 +7820,7 @@ msgstr "Clear"
 
 #: templates/account/sms-auth.php:80 templates_orig/account/sms-auth.php:80
 msgid "как это работает?"
-msgstr "how it works?"
+msgstr "How it works?"
 
 #: templates/account/sms-auth.php:81
 msgid "Двухфакторная авторизация на Печкине"
@@ -7867,11 +7868,11 @@ msgstr "emails to "
 #: templates/main/main.php:107 templates/main/main.php:109 templates_orig/account/billing.php:16 templates_orig/account/billing.php:18
 #: templates_orig/main/main.php:98 templates_orig/main/main.php:100
 msgid " руб."
-msgstr " £ "
+msgstr "£"
 
 #: templates/account/plans.php:42 templates/account/billing.php:22 templates_orig/account/billing.php:16
 msgid "Вы можете загружать базы и начинать рассылки прямо сейчас."
-msgstr "You can upload the emails and start campaign now."
+msgstr "You can upload the emails and start campaign now"
 
 #: templates/account/plans.php:44 templates/account/billing.php:27 templates/main/main.php:109 templates_orig/account/billing.php:18
 #: templates_orig/main/main.php:100
@@ -7895,7 +7896,7 @@ msgstr "Try again."
 #: templates/account/plans.php:47 templates/main/main.php:112 templates/main/main.php:127 templates/main/main.php:138
 #: templates_orig/account/billing.php:21 templates_orig/main/main.php:103 templates_orig/main/main.php:118 templates_orig/main/main.php:129
 msgid "ок! спасибо."
-msgstr "OK! Thank you."
+msgstr "OK! Thank you"
 
 #: templates/account/plans.php:51 templates/account/billing.php:38 templates/main/main.php:145 templates_orig/account/billing.php:25
 #: templates_orig/main/main.php:136
@@ -7904,16 +7905,16 @@ msgstr "Extend the monthly account!"
 
 #: templates/account/plans.php:51
 msgid "Через 3 дня ["
-msgstr "In 3 days ["
+msgstr "In 3 days"
 
 #: templates/account/plans.php:51
 msgid "] ваш аккаунт будет переведен в режим \"Бесплатный\"."
-msgstr "] Your account will be downgraded to \"Free\""
+msgstr "Your account will be downgraded to \"Free\""
 
 #: templates/account/plans.php:56 templates/account/billing.php:48 templates/main/main.php:150 templates_orig/account/billing.php:30
 #: templates_orig/main/main.php:141
 msgid "Ваш месячный план окончился"
-msgstr "Your monthly plan ended"
+msgstr "Your monthly plan ended "
 
 #: templates/account/plans.php:56 templates/account/billing.php:48 templates/main/main.php:150 templates_orig/account/billing.php:30
 #: templates_orig/main/main.php:141
@@ -7934,7 +7935,7 @@ msgstr "Year plans"
 
 #: templates/account/plans.php:72
 msgid "Годовая&nbsp;стоимость"
-msgstr "Annual&nbsp;cost"
+msgstr "Annual &nbsp; cost"
 
 #: templates/account/plans.php:84 templates/account/plans.php:172 templates/main/main.php:301 templates_orig/main/main.php:216
 msgid "купить"
@@ -7982,7 +7983,7 @@ msgstr "% on all  tarriff plans"
 
 #: templates/account/plans.php:151
 msgid "Срок действия: "
-msgstr "Valid until: "
+msgstr "Valid until:"
 
 #: templates/account/plans.php:151
 msgid "бессрочно"
@@ -7990,11 +7991,11 @@ msgstr "indefinitely"
 
 #: templates/account/plans.php:151
 msgid "до "
-msgstr "to "
+msgstr "to"
 
 #: templates/account/plans.php:151
 msgid " по МСК"
-msgstr " on MSK"
+msgstr "on MSK"
 
 #: templates/account/plans.php:156
 msgid "Вы часто отправляете письма (хотя бы раз в месяц)? Тогда месячный план это наиболее экономный вариант. Подробности читайте на сайте"
@@ -8019,11 +8020,11 @@ msgstr "Your plan:"
 
 #: templates/account/plans.php:183
 msgid "Бесплатно. "
-msgstr "It's free. "
+msgstr "It's free."
 
 #: templates/account/plans.php:183
 msgid "подписчиков. "
-msgstr "subscribers. "
+msgstr "subscribers."
 
 #: templates/account/plans.php:183
 msgid "Осталось на балансе:"
@@ -8031,7 +8032,7 @@ msgstr "Left on balance:"
 
 #: templates/account/plans.php:183
 msgid "писем."
-msgstr "emails"
+msgstr " emails"
 
 #: templates/account/plans.php:183 templates/account.php:78 templates/account.php:81 templates/account.php:171 templates/account.php:174
 #: templates_orig/account.php:72 templates_orig/account.php:75
@@ -8044,11 +8045,11 @@ msgstr "Just emails:"
 
 #: templates/account/plans.php:183
 msgid " шт."
-msgstr " pcs."
+msgstr "pcs."
 
 #: templates/account/plans.php:188
 msgid "...или платите просто за письма"
-msgstr "...or pay just for emails"
+msgstr "... or pay just for emails"
 
 #: templates/account/plans.php:189
 msgid ""
@@ -8076,7 +8077,7 @@ msgstr "Emails"
 
 #: templates/account/plans.php:236
 msgid "коп./письмо)"
-msgstr "penny/email)"
+msgstr "penny/email"
 
 #: templates/account/plans.php:237 templates/account/plans.php:246
 msgid "заказать"
@@ -8088,7 +8089,7 @@ msgstr "Buy as many emails, as it is necessary:"
 
 #: templates/account/plans.php:245
 msgid "<- Введите количество писем"
-msgstr "<- Enter the number of emails"
+msgstr "<-Enter the number of emails"
 
 #: templates/account/plans.php:254
 msgid "Вы юридическое лицо?"
@@ -8110,7 +8111,7 @@ msgstr ""
 
 #: templates/account/plans.php:261
 msgid "Выбрать способ оплаты"
-msgstr "Select payment term"
+msgstr "Select Payment Term"
 
 #: templates/account/plans.php:262
 msgid "Важная информация об оплате"
@@ -8118,35 +8119,35 @@ msgstr "Important payment information"
 
 #: templates/account/stripe.php:24
 msgid "Your subscription is cancelled .</strong> Account is set to a Forever Free Plan.</p>"
-msgstr "Your subscription is cancelled.</strong> The account is set to a Forever Free Plan.<p>"
+msgstr "Your subscription is cancelled.</strong>  The account is set to a Forever Free Plan.<p>"
 
 #: templates/account/stripe.php:61
 msgid "£8.00"
-msgstr "£8.00"
+msgstr "£ 8.00"
 
 #: templates/account/stripe.php:67
 msgid "£14.00"
-msgstr "£14.00"
+msgstr "£ 14.00"
 
 #: templates/account/stripe.php:73
 msgid "£30.00"
-msgstr "£30.00"
+msgstr "£ 30.00"
 
 #: templates/account/stripe.php:79
 msgid "£45.00"
-msgstr "£45.00"
+msgstr "£ 45.00"
 
 #: templates/account/stripe.php:85
 msgid "£90.00"
-msgstr "£90.00"
+msgstr "£ 90.00"
 
 #: templates/account/stripe.php:91
 msgid "£175.00"
-msgstr "£175.00"
+msgstr "£ 175.00"
 
 #: templates/account/stripe.php:96
 msgid "Pay-As-You-Go Emails: "
-msgstr "Pay-As-You-Go Emails: "
+msgstr "Pay-As-You-Go Emails:"
 
 #: templates/account/stripe.php:99
 msgid "You can"
@@ -8158,11 +8159,11 @@ msgstr "cancel your subscription"
 
 #: templates/account/stripe.php:99
 msgid " at any time."
-msgstr " at any time."
+msgstr "at any time."
 
 #: templates/account/stripe.php:101
 msgid "Current subscription has been set to "
-msgstr "Current subscription has been set to "
+msgstr "Current subscription has been set to"
 
 #: templates/account/stripe.php:101
 msgid "cancel"
@@ -8170,7 +8171,7 @@ msgstr "cancel"
 
 #: templates/account/stripe.php:101
 msgid " at the end of the billing period. It will be active till "
-msgstr " at the end of the billing period. It will be active till "
+msgstr "at the end of the billing period. It will be active till"
 
 #: templates/account/stripe.php:101
 msgid "May be, you want to"
@@ -8182,11 +8183,11 @@ msgstr "renew subscription?"
 
 #: templates/account/stripe.php:160
 msgid " pence/email)"
-msgstr " pence/email)"
+msgstr "pence/email)"
 
 #: templates/account/stripe.php:180
 msgid " pence/email"
-msgstr " pence/email"
+msgstr "pence/email"
 
 #: templates/account/affiliate.php:22
 msgid "Вознаграждения от Печкина"
@@ -8199,7 +8200,7 @@ msgstr "earned this month"
 #: templates/account/affiliate.php:26 templates/account/affiliate.php:32 templates/account/affiliate.php:33
 #: templates/account/affiliate.php:34 templates/account/affiliate.php:98 templates/account/affiliate.php:127
 msgid "pуб."
-msgstr "rub."
+msgstr "Pub."
 
 #: templates/account/affiliate.php:28
 msgid "рефералов"
@@ -8207,7 +8208,7 @@ msgstr "referrals"
 
 #: templates/account/affiliate.php:32
 msgid "всего"
-msgstr "total"
+msgstr "Total"
 
 #: templates/account/affiliate.php:33
 msgid "на балансе"
@@ -8249,7 +8250,7 @@ msgstr "Date of registration"
 
 #: templates/account/affiliate.php:50
 msgid "Тип ссылки"
-msgstr "Link type"
+msgstr "Link type."
 
 #: templates/account/affiliate.php:60
 msgid "Заблокирован за спам"
@@ -8261,7 +8262,7 @@ msgstr "inactive"
 
 #: templates/account/affiliate.php:61
 msgid "ссылка внешняя"
-msgstr "external link"
+msgstr " external link"
 
 #: templates/account/affiliate.php:67
 msgid "Добавьте ссылку на Печкина в своем блоге, сайте или социальной сети и зацените его щедрость!"
@@ -8281,15 +8282,15 @@ msgstr "Order description"
 
 #: templates/account/affiliate.php:80
 msgid "Реферал"
-msgstr "Referral"
+msgstr "Referral "
 
 #: templates/account/affiliate.php:89
 msgid "Месячный план."
-msgstr "Monthly plan."
+msgstr "'Monthly plan"
 
 #: templates/account/affiliate.php:89
 msgid "подписчиков."
-msgstr "subscribers."
+msgstr "subscribers"
 
 #: templates/account/affiliate.php:92 templates/account/affiliate.php:94
 msgid "Пакет из"
@@ -8297,7 +8298,7 @@ msgstr "The package of"
 
 #: templates/account/affiliate.php:92 templates/account/affiliate.php:94
 msgid "email-кредитов."
-msgstr "email-credits."
+msgstr "email-credits"
 
 #: templates/account/affiliate.php:106
 msgid "25% от суммы платежей будут автоматически начислены на ваш аккаунт"
@@ -8333,7 +8334,7 @@ msgstr "To place your referral link in the text of your message, you can use the
 
 #: templates/account/affiliate.php:144
 msgid "Сервис легальных email-рассылок от Печкина"
-msgstr "Service of legal email newsletters from MailWheel"
+msgstr "Service  of legal email newsletters from MailWheel"
 
 #: templates/account/affiliate.php:147
 msgid "Правила и Подробные Условия"
@@ -8389,7 +8390,7 @@ msgstr "Ratings and antispam methods for"
 
 #: templates/account/moderation-dialog.php:138
 msgid "Домен отправки данного клиента заблокирован со стороны Mailgun."
-msgstr "Sending domain of this customer is blocked by Mailgun."
+msgstr "Sending domain of  this customer is blocked by Mailgun."
 
 #: templates/account/moderation-dialog.php:138
 msgid "Разблокировать домен клиента на Печкине"
@@ -8416,7 +8417,7 @@ msgid ""
 "Класс клиента определяет те роутеры, через которые пойдет рассылка. Чем круче класс, тем качественнее и быстрее роутеры. Класс "
 "определяется автоматически в зависимости от параметров \"возвраты\", \"нажатия на спам\", \"клики\", \"открытия\""
 msgstr ""
-"Client class  identifies the routers through which the link  will be sent. The cooler the grade is, the better and faster the routers are. "
+"Client class  identifies the routers through which the link  will be sent. The ooler the grade is, the better and faster the routers are. "
 "Class is determined automatically depending on the parameters of \"bounces\", \"clicking on spam\", \"clickes\", \"openings\""
 
 #: templates/account/moderation-dialog.php:145
@@ -8433,7 +8434,7 @@ msgstr "clicking \"this is spam\""
 
 #: templates/account/moderation-dialog.php:147
 msgid "открытия"
-msgstr "openings"
+msgstr "Openings"
 
 #: templates/account/moderation-dialog.php:147
 msgid "клики"
@@ -8473,7 +8474,7 @@ msgstr "Dear"
 
 #: templates/account/password_save.php:70
 msgid "This letter came to you because you sent a request to change the login for the service "
-msgstr "This letter came to you because you sent a request to change the login for the service "
+msgstr "This letter came to you because you sent a request to change the login for the service"
 
 #: templates/account/password_save.php:71 templates_orig/account/password_save.php:60
 msgid "Для смены логина перейдите по"
@@ -8483,7 +8484,7 @@ msgstr "To change the login click on"
 #: templates/lists/confsub.php:294 subscribe/mail_functions.php:26 subscribe/mail_functions.php:99
 #: templates_orig/account/password_save.php:60 templates_orig/account/password_save.php:76 templates_orig/lists/confsub.php:44
 msgid "этой ссылке"
-msgstr "this link"
+msgstr "This link"
 
 #: templates/account/password_save.php:72 templates/account/password_save.php:88 templates_orig/account/password_save.php:61
 #: templates_orig/account/password_save.php:77
@@ -8496,11 +8497,11 @@ msgstr "Request to change username"
 
 #: templates/account/password_save.php:85 templates_orig/account/password_save.php:74
 msgid "Уважаемый(ая) "
-msgstr "Dear "
+msgstr "Dear"
 
 #: templates/account/password_save.php:86
 msgid "This letter came to you because you sent a request to change the password for the service "
-msgstr "This letter came to you because you sent a request to change the password for the service "
+msgstr "This letter came to you because you sent a request to change the password for the service"
 
 #: templates/account/password_save.php:87 templates_orig/account/password_save.php:76
 msgid "Для смены пароля перейдите по"
@@ -8512,7 +8513,7 @@ msgstr "Request for change password"
 
 #: templates/account/pricesup.php:8
 msgid "Успейте до 31 декабря 2014 года!"
-msgstr "Hurry up before December 31, 2014!"
+msgstr "Hurry up before December 31, 2014 !"
 
 #: templates/account/pricesup.php:9
 msgid ""
@@ -8550,11 +8551,11 @@ msgstr "If you pay for 12 months i at once in January 2015 you will pay 20% less
 
 #: templates/account/pricesup.php:17
 msgid "А оплатив этот тариф сразу на год до 31 декабря 2014 года вы заплатите всего 14400 рублей"
-msgstr "And if you pay for the whole year immediately prior to December 31, 2014 you pay just 14400 rubles"
+msgstr "And if you pay for the  whole year immediately prior to December 31, 2014 you pay just 14400 rubles"
 
 #: templates/account/pricesup.php:18
 msgid "Ваша экономия составит от 5760 до 10800 рублей"
-msgstr "Your savings will be from 5760 to 10800 rubles"
+msgstr "Your savings will be from  5760 to 10800 rubles"
 
 #: templates/account/pricesup.php:20
 msgid "Не упускайте свою выгоду! Оплачивайте письма прямо сейчас!"
@@ -8621,11 +8622,11 @@ msgstr "Apparently you have not yet had any activity on your account."
 
 #: templates/account/history.php:37 templates_orig/account/history.php:27
 msgid "Дата активности"
-msgstr "Activity date"
+msgstr "Date of activity"
 
 #: templates/account/history.php:38 templates_orig/account/history.php:28
 msgid "Тип активности"
-msgstr "Activity type"
+msgstr "Type of activity"
 
 #: templates/account/history.php:40 templates_orig/account/history.php:30
 msgid "Подробности"
@@ -8665,7 +8666,7 @@ msgstr "Change of bank details"
 
 #: templates/account/history.php:67
 msgid "Операционная система"
-msgstr "Platform/OS"
+msgstr "Platform / OS:"
 
 #: templates/account/history.php:67
 msgid "Браузер"
@@ -8685,19 +8686,19 @@ msgstr "-Monthly rate plans-"
 
 #: templates/account/create-bill.php:38
 msgid " рублей - Месячный план на "
-msgstr "  rubles - Monthly plan for "
+msgstr "Monthly plan"
 
 #: templates/account/create-bill.php:40
 msgid "---Кредитные тарифные планы---"
-msgstr "-Credit plans-"
+msgstr "-Credit plans"
 
 #: templates/account/create-bill.php:42
 msgid " рублей - "
-msgstr "£ - "
+msgstr "£"
 
 #: templates/account/create-bill.php:44
 msgid "---Разное---"
-msgstr "-Misc-"
+msgstr "Misc"
 
 #: templates/account/create-bill.php:45
 msgid "Произвольный платеж"
@@ -8705,15 +8706,15 @@ msgstr "Random payment"
 
 #: templates/account/create-bill.php:48
 msgid "Назначение платежа: "
-msgstr "Purpose of Payment: "
+msgstr "Purpose of Payment:"
 
 #: templates/account/create-bill.php:49
 msgid "Сумма платежа: "
-msgstr "Payment Amount: "
+msgstr "Payment Amount"
 
 #: templates/account/create-bill.php:52
 msgid "выписать счет"
-msgstr "issue invoice"
+msgstr "Issue Invoice"
 
 #: templates/account/billing.php:38 templates_orig/account/billing.php:25
 msgid "Текущий истек"
@@ -8721,11 +8722,11 @@ msgstr "Current expired"
 
 #: templates/account/billing.php:38 templates_orig/account/billing.php:25
 msgid "Через 3 дня аккаунт будет переведен в режим \"Бесплатный\"."
-msgstr "Over 3 days, the account will be transferred to the \"Free\" mode."
+msgstr "Over 3 days, the account will be transferred to the \"free\" mode."
 
 #: templates/account/delete-bill.php:32
 msgid "Действительно хотите удалить счет №"
-msgstr "Sure you want to delete the account #"
+msgstr "Sure you want to delete the account no."
 
 #: templates/account/robokassa.php:20
 msgid "Настройка платежных реквизитов"
@@ -8741,15 +8742,15 @@ msgstr "Your bank details for wire transfer"
 
 #: templates/account/robokassa.php:26
 msgid "логин в ROBOKASSA"
-msgstr "login ROBOKASSA"
+msgstr "login Robokassa"
 
 #: templates/account/robokassa.php:28
 msgid "пароль №1 от ROBOKASSA"
-msgstr "password #1 from ROBOKASSA"
+msgstr "password # 1 from ROBOKASSA"
 
 #: templates/account/robokassa.php:30
 msgid "пароль №2 от ROBOKASSA"
-msgstr "password #2 from ROBOKASSA"
+msgstr "password # 2 from ROBOKASSA"
 
 #: templates/account/robokassa.php:38
 msgid "Что такое Robokassa и с чем ее едят?"
@@ -8776,11 +8777,11 @@ msgstr ""
 
 #: templates/account/choose_payment.php:22
 msgid "<b>Улучшение:</b> "
-msgstr "<b>Improvement:</b> "
+msgstr "<b>Improvement:</b>"
 
 #: templates/account/choose_payment.php:48
 msgid "Месячный план на "
-msgstr "Monthly plan "
+msgstr "Monthly plan"
 
 #: templates/account/choose_payment.php:51 templates/account/choose_payment.php:53 templates/main/main.php:300
 #: templates_orig/main/main.php:216
@@ -8793,7 +8794,7 @@ msgstr "Improvement"
 
 #: templates/account/choose_payment.php:81
 msgid "Годовой тарифный план на "
-msgstr "The annual plan "
+msgstr "The annual plan"
 
 #: templates/account/choose_payment.php:88
 msgid "Выберите способ оплаты счета"
@@ -8801,7 +8802,7 @@ msgstr "Choose your form of payment"
 
 #: templates/account/choose_payment.php:89
 msgid "Срок оплаты:"
-msgstr "Payment term:"
+msgstr "Payment Term"
 
 #: templates/account/choose_payment.php:91
 msgid "1 месяц"
@@ -8853,7 +8854,7 @@ msgstr "(20%) discount"
 
 #: templates/account/choose_payment.php:101
 msgid "У меня есть купон на скидку. "
-msgstr "I have a discount coupon. "
+msgstr "I have a discount coupon."
 
 #: templates/account/choose_payment.php:103
 msgid "Код купона:"
@@ -8862,7 +8863,7 @@ msgstr "Coupon Code:"
 #: templates/account/choose_payment.php:103 templates/lists/members.php:188 templates/lists/members.php:374
 #: templates/lists/bulk-action-confirm.php:16 templates_orig/lists/members.php:103 templates_orig/lists/bulk-action-confirm.php:16
 msgid "активировать"
-msgstr "activate"
+msgstr "Activate"
 
 #: templates/account/choose_payment.php:107
 msgid "* Цена расчитана с учетом скидки"
@@ -8922,7 +8923,7 @@ msgstr "Single waist"
 
 #: templates/account/choose_payment.php:131
 msgid "RBK Money"
-msgstr "RBK Money"
+msgstr "Rbk Money"
 
 #: templates/account/choose_payment.php:131
 msgid "Как платить?"
@@ -9009,11 +9010,11 @@ msgstr "You can upload the subscribers and start your campaign right now"
 
 #: templates/main/main.php:109 templates_orig/main/main.php:100
 msgid "Попробуйте еще раз"
-msgstr "Try again"
+msgstr "Try again "
 
 #: templates/main/main.php:127 templates/main/main.php:138 templates_orig/main/main.php:118 templates_orig/main/main.php:129
 msgid "Вы успешно интегрировали"
-msgstr "You have successfully integrated"
+msgstr "You have successfully integrated "
 
 #: templates/main/main.php:127 templates/main/main.php:138
 msgid "с Печкиным"
@@ -9025,7 +9026,7 @@ msgstr "your Google account"
 
 #: templates/main/main.php:127 templates_orig/main/main.php:118
 msgid "Нам доступны следующие профили:"
-msgstr "We have the following profiles:"
+msgstr "We have the following profiles: "
 
 #: templates/main/main.php:138 templates_orig/main/main.php:129
 msgid "свой Yandex-аккаунт"
@@ -9033,7 +9034,7 @@ msgstr "your Yahoo account"
 
 #: templates/main/main.php:138 templates_orig/main/main.php:129
 msgid "Нам доступны следующие счетчики:"
-msgstr "We use the following counters:"
+msgstr "We use the following counters: "
 
 #: templates/main/main.php:145 templates_orig/main/main.php:136
 msgid "Через 3 дня"
@@ -9117,7 +9118,7 @@ msgstr "learn more"
 
 #: templates/main/main.php:360
 msgid "create a mailing list"
-msgstr "create a mailing list"
+msgstr "create a campaign"
 
 #: templates/main/main.php:361
 msgid "upload your list"
@@ -9179,7 +9180,7 @@ msgstr "Spend just five minutes of your precious time and a nice \"bonus\" is al
 
 #: templates/main/main.php:404
 msgid "Пришлите отзыв о работе Печкина на почту "
-msgstr "Send feedback about MailWheel on "
+msgstr "Send feedback about MailWheel on"
 
 #: templates/main/main.php:405
 msgid "10 самых искренних отзывов попадут на страницы нашего сайта"
@@ -9203,7 +9204,7 @@ msgstr "published"
 
 #: templates/main/main.php:408
 msgid " и скидка 25% в руках у счастливчиков."
-msgstr " and 25% discount in the hands of the lucky ones."
+msgstr "and 25% discount in the hands of the lucky ones."
 
 #: templates/main/main.php:412
 msgid "Акция: Расскажи о Печкине в соц.сетях и будь в выигрыше!"
@@ -9235,7 +9236,7 @@ msgstr "You get 25% of the sum of all their payments into your account!"
 
 #: templates/main/main.php:420
 msgid "Ссылки для репостов:"
-msgstr "Links for reposts:"
+msgstr "Links for reposts: "
 
 #: templates/main/main.php:426 templates_orig/main/main.php:328
 msgid "Что нового на нашем сервисе?"
@@ -9275,7 +9276,7 @@ msgstr "Many thanks for your confidence!"
 
 #: templates/main/main.php:481
 msgid "Теперь не забудьте сделать репост на своей стене с помощью \"рассказать друзьям"
-msgstr "Now don't forget to repost on your wall by using the \"tell your friends"
+msgstr "Now don't forget to repost on your wall by using the \"tell your friends\""
 
 #: templates/main/main.php:482
 msgid "Для этого просто:"
@@ -9287,7 +9288,7 @@ msgstr "Move again on the button \"I like\""
 
 #: templates/main/main.php:485
 msgid "Нажмите на ссылку вида "
-msgstr "Click on the link type "
+msgstr "Click on the link type"
 
 #: templates/main/main.php:486
 msgid "Можете даже оставить свой комментарий о нас"
@@ -9306,7 +9307,7 @@ msgid ""
 "Как только ваши друзья оплатят наш сервис - <b>25% от суммы их оплаты</b> мгновенно поступит на ваш счет.<br /><br />Посмотреть его "
 "состояние и заказать выплату можно в любой момент в <a href=\"/?page=account&action=affiliate\">разделе \"Мои рефералы\""
 msgstr ""
-"Once your friends pay for our service- <b>25% of the amount of the payment</b> will appear in your account instantly.<br/><br/> You can "
+"Once your friends pay for our service- <b>25% of the amount of the payment</b> will appear in your account instantly.<br /><br /> You can "
 "view its status and order the payment at any time <a href=\"/?page=account&action=affiliate\">under \"my referrals\""
 
 #: templates/main/main.php:494
@@ -9354,7 +9355,7 @@ msgstr "add"
 #: templates/lists/fields.php:72 templates/lists/edit.php:73 templates/lists/lists.php:228 templates/lists/lists.php:311
 #: templates/lists/lists.php:543 templates_orig/lists/include/searchform.php:4 templates_orig/lists/lists.php:134
 msgid "отписать людей"
-msgstr "unsubscribe"
+msgstr "Unsubscribe"
 
 #: templates/lists/members.php:138
 msgid "This list do not have subscribers."
@@ -9365,7 +9366,7 @@ msgstr "This list does not have subscribers."
 #: templates/lists/forms.php:80 templates/lists/unsub.php:83 templates/lists/import.php:78 templates/lists/remove.php:103
 #: templates/lists/footer.php:83 templates/lists/fields.php:114 templates_orig/lists/include/lists-header.php:2
 msgid "посмотреть всех подписчиков"
-msgstr "show all subscribers"
+msgstr "Show all subscribers"
 
 #: templates/lists/members.php:144 templates/lists/members.php:170 templates/lists/members.php:327 templates/lists/members.php:402
 #: templates/lists/include/lists-header.php:14 templates/lists/_import.php:58 templates/lists/_import.php:250 templates/lists/add.php:108
@@ -9373,7 +9374,7 @@ msgstr "show all subscribers"
 #: templates/lists/import.php:78 templates/lists/remove.php:103 templates/lists/footer.php:83 templates/lists/fields.php:114
 #: templates_orig/lists/members.php:127 templates_orig/lists/include/lists-header.php:2
 msgid "подписчики"
-msgstr "subscribers"
+msgstr "Subscribers"
 
 #: templates/lists/members.php:148 templates/lists/members.php:331 templates/lists/include/lists-header.php:18 templates/lists/_import.php:62
 #: templates/lists/_import.php:254 templates/lists/add.php:112 templates/lists/add.php:353 templates/lists/confsub.php:104
@@ -9399,7 +9400,7 @@ msgstr "adjust the quantity and types of fields of your list"
 #: templates/lists/forms.php:86 templates/lists/unsub.php:89 templates/lists/import.php:84 templates/lists/remove.php:109
 #: templates/lists/footer.php:89 templates/lists/fields.php:51 templates/lists/fields.php:120 templates_orig/lists/include/lists-header.php:8
 msgid "настройки полей"
-msgstr "field settings"
+msgstr "Field settings"
 
 #: templates/lists/members.php:151 templates/lists/members.php:334 templates/lists/include/lists-header.php:21 templates/lists/_import.php:65
 #: templates/lists/_import.php:257 templates/lists/add.php:115 templates/lists/add.php:356 templates/lists/confsub.php:107
@@ -9459,7 +9460,7 @@ msgstr "unsubscribe reasons"
 
 #: templates/lists/members.php:171 templates/lists/members.php:403 templates_orig/lists/members.php:128
 msgid "отписавшиеся"
-msgstr "unsubscribers"
+msgstr "Unsubscribers"
 
 #: templates/lists/members.php:172 templates/lists/members.php:404 templates_orig/lists/members.php:129
 msgid "не подтвердившие"
@@ -9471,7 +9472,7 @@ msgstr "not active"
 
 #: templates/lists/members.php:174 templates/lists/members.php:406 templates_orig/lists/members.php:131
 msgid "неверные адреса"
-msgstr "invalid address"
+msgstr "Invalid address"
 
 #: templates/lists/members.php:185 templates/lists/members.php:371 templates/lists/remove.php:165 templates/lists/remove.php:198
 #: templates/lists/edit.php:97 templates/lists/bulk-action-confirm.php:14 templates_orig/lists/members.php:100
@@ -9503,15 +9504,15 @@ msgstr "Customization of your subaccount allows you to view information about li
 
 #: templates/lists/members.php:361 templates_orig/lists/members.php:90
 msgid "массовые действия"
-msgstr "bulk actions"
+msgstr "Bulk Actions"
 
 #: templates/lists/members.php:362 templates_orig/lists/members.php:91
 msgid "выделить видимое"
-msgstr "select visible"
+msgstr "Select visible"
 
 #: templates/lists/members.php:365 templates_orig/lists/members.php:94
 msgid "выделить все"
-msgstr "select all"
+msgstr "Select All"
 
 #: templates/lists/members.php:366 templates_orig/lists/members.php:95
 msgid "развыделить все"
@@ -9544,7 +9545,7 @@ msgid ""
 "                                Sample text. Something to explain<br /><a href=\"#\">the meaning</a>"
 msgstr ""
 "List is the place where your customers are.<br>\n"
-"                                Sample text. Something to explain<br/><a href=\"#\">the meaning</a>"
+"                                Sample text. Something to explain<br /><a href=\"#\">the meaning</a>"
 
 #: templates/lists/forms-slim-gen.php:74 templates/lists/forms-gen.php:135 subscribe/templates/forms-slim-gen.php:67
 #: subscribe/templates/forms-gen.php:130 templates_orig/lists/forms-slim-gen.php:74 templates_orig/lists/forms-gen.php:135
@@ -9606,7 +9607,7 @@ msgstr "And whether the legitimate list, which you import?"
 #: templates/lists/_import.php:328 templates/lists/import.php:144 templates/lists/import.php:287 templates_orig/lists/import.php:69
 #: templates_orig/lists/import-blacklist.php:54
 msgid "номер:"
-msgstr "number:"
+msgstr "Number:"
 
 #: templates/lists/_import.php:329 templates/lists/import.php:157 templates/lists/import.php:288 templates_orig/lists/import.php:70
 #: templates_orig/lists/import-blacklist.php:55
@@ -9615,11 +9616,11 @@ msgstr "or name:"
 
 #: templates/lists/_import.php:348 templates/lists/import.php:196 templates/lists/import.php:306 templates_orig/lists/import.php:88
 msgid "Обновлять данные, если подписчик уже есть в базе."
-msgstr "Update the data, if a subscriber already exists in the list."
+msgstr "Update the data, if a Subscriber already exists in the list."
 
 #: templates/lists/_import.php:355 templates/lists/import.php:206 templates/lists/import.php:313 templates_orig/lists/import.php:95
 msgid "импортировать базу"
-msgstr "import list"
+msgstr "Import list"
 
 #: templates/lists/_import.php:359 templates/lists/import.php:211 templates/lists/import.php:318 templates_orig/lists/import.php:100
 msgid ""
@@ -9665,7 +9666,7 @@ msgstr "New list of my store"
 #: templates/lists/create-new-list.php:14 templates/lists/confirm-rename.php:14 templates_orig/lists/create-new-list.php:13
 #: templates_orig/lists/confirm-rename.php:14
 msgid "Хороший пример названия: \"Магазин на Приморской\" - Плохой пример названия: \"Prim_12_03_2011\""
-msgstr "A good example of names: \"shop at the seaside\" - bad example names: \"12_03\""
+msgstr "A good example of names: \"shop at the seaside\"-bad example names: \"12_03\""
 
 #: templates/lists/add.php:34 templates/lists/add.php:301 templates_orig/lists/add.php:34
 msgid "Пользователь должен дать согласие на добавление в Адресную базу."
@@ -9715,7 +9716,7 @@ msgstr "The recipient gave me his/her agreement to include him/her in my list."
 
 #: templates/lists/add.php:495 templates_orig/lists/add.php:51
 msgid "добавить подписчика"
-msgstr "add subscriber"
+msgstr "Add Subscriber"
 
 #: templates/lists/add.php:515 templates/lists/forms-gen.php:113 templates/lists/edit.php:185 subscribe/templates/forms-gen.php:108
 #: templates_orig/lists/add.php:70 templates_orig/lists/forms-gen.php:113 templates_orig/lists/edit.php:61
@@ -9739,7 +9740,7 @@ msgstr "(dd/mm/yyyy)"
 
 #: templates/lists/confsub.php:22 subscribe/mail_functions.php:20 templates_orig/lists/confsub.php:21
 msgid "компании"
-msgstr "company"
+msgstr "Company"
 
 #: templates/lists/confsub.php:22 subscribe/mail_functions.php:20 templates_orig/lists/confsub.php:21
 msgid "какой-то компании."
@@ -9752,7 +9753,7 @@ msgstr "Dear User"
 
 #: templates/lists/confsub.php:24 subscribe/mail_functions.php:22 templates_orig/lists/confsub.php:23
 msgid "Вы подписались на рассылку от "
-msgstr "You have signed up to "
+msgstr "You have signed up to"
 
 #: templates/lists/confsub.php:38 templates/lists/confsub.php:56 templates/lists/confsub.php:286 templates_orig/lists/confsub.php:36
 msgid "Настройка письма подтверждения подписки для базы"
@@ -9767,7 +9768,7 @@ msgid ""
 "Данное подтверждение требуется для того, чтобы оградить Вас от получения непрошенных email-рассылок.</p><p>Отменить подписку Вы сможете в "
 "любой момент точно также быстро."
 msgstr ""
-"This confirmation is required in order to protect you from receiving unsolicited email campaigns.</p><p>You can unsubscribe at any time "
+"This confirmation is required in order to protect you from receiving unsolicited email campaigns.<p><p>You can unsubscribe at any time "
 "just fast."
 
 #: templates/lists/confsub.php:153 templates/lists/confsub.php:295 subscribe/mail_functions.php:27 subscribe/mail_functions.php:100
@@ -9793,7 +9794,7 @@ msgstr "Include the following:"
 
 #: templates/lists/forms.php:123 templates_orig/lists/forms.php:53
 msgid "название формы"
-msgstr "title form"
+msgstr "Title Form"
 
 #: templates/lists/forms.php:124 templates_orig/lists/forms.php:54
 msgid "Подпишитесь на нашу рассылку"
@@ -9825,7 +9826,7 @@ msgstr "all fields"
 
 #: templates/lists/forms.php:135 templates_orig/lists/forms.php:65
 msgid "настройте обязательные"
-msgstr "configure the required"
+msgstr "Configure the required"
 
 #: templates/lists/forms.php:135 templates/lists/lists.php:251 templates/lists/lists.php:334 templates/lists/lists.php:566
 #: templates_orig/lists/forms.php:65 templates_orig/lists/lists.php:157
@@ -9838,7 +9839,7 @@ msgstr "Show the number of subscribers"
 
 #: templates/lists/forms.php:141 templates_orig/lists/forms.php:71
 msgid "показывать обяз. звездочки"
-msgstr "show required"
+msgstr "Show required"
 
 #: templates/lists/forms.php:143 templates_orig/lists/forms.php:73
 msgid "без javascript"
@@ -9878,15 +9879,15 @@ msgstr "text input fields"
 
 #: templates/lists/forms.php:164 templates_orig/lists/forms.php:94
 msgid "границ полей ввода"
-msgstr "fields settings"
+msgstr "Fields settings"
 
 #: templates/lists/forms.php:165 templates_orig/lists/forms.php:95
 msgid "фона кнопки отправки"
-msgstr "send button background"
+msgstr "Send domains by default"
 
 #: templates/lists/forms.php:166 templates_orig/lists/forms.php:96
 msgid "фона кнопки при наведении"
-msgstr "button hover background effect"
+msgstr "Button Hover Background Effect"
 
 #: templates/lists/forms.php:167 templates_orig/lists/forms.php:97
 msgid "текста кнопки отправки"
@@ -9910,7 +9911,7 @@ msgstr ""
 
 #: templates/lists/forms.php:203 templates_orig/lists/forms.php:133
 msgid "настройках полей"
-msgstr "fields settings"
+msgstr "Fields settings"
 
 #: templates/lists/forms.php:204 templates_orig/lists/forms.php:134
 msgid "Предпросмотр вашей формы подписки"
@@ -9918,7 +9919,7 @@ msgstr "Preview your subscription forms"
 
 #: templates/lists/forms.php:207 templates_orig/lists/forms.php:136
 msgid "создать страницу подписки"
-msgstr "create subscription page"
+msgstr "Create subscription page"
 
 #: templates/lists/forms.php:209 templates_orig/lists/forms.php:137
 msgid "Вы сможете делиться данной ссылкой с вашими потенциальными подписчиками."
@@ -9951,7 +9952,7 @@ msgstr "copy/paste into your site"
 #: templates/lists/unsub.php:26 templates/lists/unsub.php:44 templates/lists/unsub.php:103 templates/lists/unsub.php:239
 #: templates_orig/lists/unsub.php:31
 msgid "Настройки отписки"
-msgstr "Unsubscribe settings"
+msgstr "unsubscribe settings"
 
 #: templates/lists/unsub.php:110 templates/lists/unsub.php:241 templates_orig/lists/unsub.php:33
 msgid "Переадресация после отписки"
@@ -9974,7 +9975,7 @@ msgstr "Edit reasons"
 #: templates_orig/lists/unsub.php:48 templates_orig/lists/unsub.php:84 templates_orig/lists/unsub.php:108
 #: templates_orig/lists/show-blacklist.php:33 templates_orig/lists/blacklist-export.php:15
 msgid "Причина"
-msgstr "Reason"
+msgstr "Cause"
 
 #: templates/lists/unsub.php:151 templates/lists/unsub.php:260 templates/lists/unsub.php:296 templates_orig/lists/unsub.php:49
 #: templates_orig/lists/unsub.php:85
@@ -9987,7 +9988,7 @@ msgstr "Last 100 unsubscribe reasons:"
 
 #: templates/lists/unsub.php:216 templates/lists/unsub.php:334 templates_orig/lists/unsub.php:123
 msgid "добавить причину"
-msgstr "add reason"
+msgstr "Add cause"
 
 #: templates/lists/unsub.php:243 templates_orig/lists/unsub.php:35
 msgid "Использовать английский"
@@ -10083,7 +10084,7 @@ msgstr ""
 
 #: templates/lists/unisender.php:96
 msgid "1. Зайдите в личный кабинет на Юнисендере"
-msgstr "1. Go to the personal account on Unisender"
+msgstr "1. go to the personal account on Unisender"
 
 #: templates/lists/unisender.php:97
 msgid "2. Нажмите на свой логин в правом верхнем углу и перейдите в раздел <strong>\"Настройка аккаунта\"</strong>"
@@ -10100,7 +10101,7 @@ msgstr "4. copy the API access key in the box in the left section of this page"
 #: templates/lists/import_black.php:33 templates/lists/import_big.php:55 templates_orig/lists/import_black.php:33
 #: templates_orig/lists/import_big.php:54
 msgid "Произошла критичная ошибка с файлом - пришлите его для проверки на "
-msgstr "Critical error occurred file send it to check for "
+msgstr "Critical error occurred file send it to check for"
 
 #: templates/lists/getresponse.php:9 templates/lists/getresponse.php:13 templates_orig/lists/getresponse.php:9
 #: templates_orig/lists/getresponse.php:13
@@ -10137,7 +10138,7 @@ msgstr ""
 
 #: templates/lists/getresponse.php:82
 msgid "1. Зайдите в личный кабинет на GetResponse"
-msgstr "1. Go to your personal Cabinet on the GetResponse"
+msgstr "1. go to your personal Cabinet on the GetResponse"
 
 #: templates/lists/getresponse.php:83
 msgid "2. Наведите мышку на <strong>\"Моя уч. запись\"</strong> в правом верхнем углу и выберите пункт <strong>\"Интеграция\"</strong>"
@@ -10146,7 +10147,7 @@ msgstr ""
 
 #: templates/lists/getresponse.php:85
 msgid "3. В левом меню нажмите <strong>\"Использовать API\"<strong>"
-msgstr "3. In the left menu click <strong>\"Use API\"</strong>"
+msgstr "3. In the left menu click <strong>\"Use API\"<strong> </strong> </strong>"
 
 #: templates/lists/getresponse.php:87
 msgid "4. Нажмите кнопку <strong>\"в буфер обмена\"</strong>и скопируйте Ключ доступа к API в поле в левом блоке на этой странице"
@@ -10199,7 +10200,7 @@ msgid ""
 "пожалуйста, в письме на "
 msgstr ""
 "Please note that unsubscription is intended only for those recipients who are themselves expressed a desire to no longer receive your "
-"campaigns, and is not an alternative to disposal. If so many of your subscribers addressed to you to unsubscribe them, please  email us "
+"campaigns, and is not an alternative to disposal. If so many of your subscribers addressed to you to unsubscribe them, please  email us"
 
 #: templates/lists/remove.php:29 templates/lists/bulk-action-confirm.php:33 templates_orig/lists/remove.php:29
 #: templates_orig/lists/bulk-action-confirm.php:33
@@ -10208,11 +10209,11 @@ msgstr "why and how this happened."
 
 #: templates/lists/remove.php:32 templates_orig/lists/remove.php:32
 msgid " пользователей были успешно отписаны из базы"
-msgstr " users have successfully unsubscribed from the list"
+msgstr "users have successfully unsubscribed from the list"
 
 #: templates/lists/remove.php:43 templates/lists/remove.php:122 templates/lists/remove.php:188 templates_orig/lists/remove.php:51
 msgid "Отписать подписчиков из "
-msgstr "To unsubscribe the subscribers "
+msgstr "To unsubscribe the subscribers"
 
 #: templates/lists/remove.php:123
 msgid "Would you like to add multiple subscribers?"
@@ -10220,12 +10221,12 @@ msgstr "Would you like to add multiple subscribers?"
 
 #: templates/lists/remove.php:141 templates/lists/remove.php:189 templates_orig/lists/remove.php:52
 msgid "<strong>Внимание!</strong> Отписка - "
-msgstr "<strong>Attention!</strong> Unsubscribe - "
+msgstr "<strong>Attention!</strong> Unsubscribe-"
 
 #: templates/lists/remove.php:141 templates/lists/remove.php:189 templates/lists/bulk-action-confirm.php:40
 #: templates_orig/lists/remove.php:52 templates_orig/lists/bulk-action-confirm.php:40
 msgid "необратимое действие! "
-msgstr "irreversible action! "
+msgstr "irreversible action!"
 
 #: templates/lists/remove.php:141 templates/lists/remove.php:189 templates/lists/bulk-action-confirm.php:40
 #: templates_orig/lists/remove.php:52 templates_orig/lists/bulk-action-confirm.php:40
@@ -10264,7 +10265,7 @@ msgstr "Add subscriber to your blacklist"
 
 #: templates/lists/import-blacklist.php:78
 msgid "Supported file types</strong>: <!-- CSV,  -->XLS, XLSX, XML"
-msgstr "Supported file types</strong>: <!-- CSV,  --> XLS, XLSX, XML"
+msgstr "Supported file types: <!-- CSV,  --> XLS, XLSX, XML"
 
 #: templates/lists/import-blacklist.php:86
 msgid "Email address"
@@ -10276,11 +10277,11 @@ msgstr "number:"
 
 #: templates/lists/import-blacklist.php:101
 msgid "Select list"
-msgstr "Select list"
+msgstr "to the list"
 
 #: templates/lists/import-blacklist.php:108
 msgid "or name:"
-msgstr "or name"
+msgstr "or Name"
 
 #: templates/lists/import-blacklist.php:134
 msgid "Enter the data column number"
@@ -10296,11 +10297,11 @@ msgstr ""
 
 #: templates/lists/blacklist-action.php:21 templates_orig/lists/blacklist-action.php:21
 msgid "Мы успешно добавили подписчика "
-msgstr "We have successfully added the Subscriber "
+msgstr "We have successfully added the Subscriber"
 
 #: templates/lists/blacklist-action.php:21 templates_orig/lists/blacklist-action.php:21
 msgid " в черный список"
-msgstr " in blacklist"
+msgstr "in blacklist"
 
 #: templates/lists/footer.php:19 templates/lists/footer.php:39 templates/lists/footer.php:290 templates_orig/lists/footer.php:26
 msgid "Настройки VCard для базы"
@@ -10309,7 +10310,7 @@ msgstr "VCard settings for list"
 #: templates/lists/footer.php:121 templates/lists/footer.php:296 templates_orig/lists/footer.php:32
 msgid "Введите контактную информацию и физический адрес <strong>владельца</strong> адресной базы. Это <a href=\""
 msgstr ""
-"Enter the contact information and the physical address <strong>of the owner</strong> of the list. This <a href=\""
+"Enter the contact information and the physical address <strong>of the owner</strong> of the list. This<a href=\" href=\"\"></a href=\">"
 
 #: templates/lists/footer.php:121 templates/lists/footer.php:296 templates_orig/lists/footer.php:32
 msgid ""
@@ -10345,7 +10346,7 @@ msgstr "Country"
 
 #: templates/lists/footer.php:205 templates/lists/footer.php:208 templates/lists/footer.php:308 templates_orig/lists/footer.php:44
 msgid "Телефон"
-msgstr "Tel."
+msgstr "Tel.:"
 
 #: templates/lists/footer.php:211 templates/lists/footer.php:311 templates_orig/lists/footer.php:47
 msgid "По умолчанию, телефон не показывается в подвале письма."
@@ -10415,11 +10416,11 @@ msgstr "User unsubscribed twice of your list"
 
 #: templates/lists/show-members.php:52 templates_orig/lists/show-members.php:42
 msgid "дата добавления"
-msgstr "date added"
+msgstr "Date Added"
 
 #: templates/lists/show-members.php:53 templates_orig/lists/show-members.php:43
 msgid "дата отписания"
-msgstr "unsubscription date"
+msgstr "date of unsubscription"
 
 #: templates/lists/show-members.php:55 templates_orig/lists/show-members.php:45
 msgid "причина отказа"
@@ -10427,7 +10428,7 @@ msgstr "rejection reason"
 
 #: templates/lists/show-members.php:68 templates_orig/lists/show-members.php:58
 msgid "не задано"
-msgstr "unspecified"
+msgstr "Unspecified"
 
 #: templates/lists/forms-gen.php:91 templates/lists/fields.php:159 templates/lists/fields.php:222 templates/lists/fields.php:316
 #: templates/lists/fields.php:354 subscribe/templates/forms-gen.php:86 templates_orig/lists/forms-gen.php:91
@@ -10459,7 +10460,7 @@ msgstr "person."
 
 #: templates/lists/forms-gen.php:250 subscribe/index_html.php:91 subscribe/templates/forms-gen.php:244 templates_orig/lists/forms-gen.php:250
 msgid " человек."
-msgstr " person"
+msgstr "people"
 
 #: templates/lists/forms-gen.php:251 subscribe/index_html.php:92 subscribe/templates/forms-gen.php:245 templates_orig/lists/forms-gen.php:251
 msgid "Уже подписалось"
@@ -10497,7 +10498,7 @@ msgstr "add text box"
 msgid "Удаление поля базы ведет к удалению всех данных в базе, связанных с этим полем. Вы полностью уверены? <strong>(действие необратимо)"
 msgstr ""
 "Deleting a field list leads to the deletion of all data in the list associated with this field. You are completely sure? <strong>(action "
-"is irreversible)"
+"is irreversible)</strong>"
 
 #: templates/lists/fields.php:268 templates/lists/fields.php:412 templates_orig/lists/fields.php:130
 msgid "удалить поле"
@@ -10530,7 +10531,7 @@ msgstr ""
 
 #: templates/lists/mailchimp.php:94
 msgid "1. Зайдите в личный кабинет на MailChimp"
-msgstr "1. Go to your personal cabinet on MailChimp"
+msgstr "1. go to your personal Cabinet on MailChimp"
 
 #: templates/lists/mailchimp.php:95
 msgid "2. В разделе \"Profile\" в выпадающем списке \"Extras\" выберите пункт <strong>\"API keys\"</strong>"
@@ -10566,7 +10567,7 @@ msgstr "Female"
 
 #: templates/lists/edit.php:259
 msgid "Не известен"
-msgstr "Unknown"
+msgstr "Not known"
 
 #: templates/lists/edit.php:273 templates_orig/lists/edit.php:109
 msgid "Как попал в базу"
@@ -10574,15 +10575,15 @@ msgstr "How to hit the list"
 
 #: templates/lists/edit.php:279 templates_orig/lists/edit.php:115
 msgid "Дата отписки"
-msgstr "Unsubscribtion date"
+msgstr "Date of unsubscribing"
 
 #: templates/lists/edit.php:284 templates_orig/lists/edit.php:120
 msgid "Способ добавления"
-msgstr "Method of adding"
+msgstr "Method"
 
 #: templates/lists/edit.php:285 templates_orig/lists/edit.php:121
 msgid "Добавлен пользователем"
-msgstr "Added by user"
+msgstr "Added by the user"
 
 #: templates/lists/edit.php:297 templates_orig/lists/edit.php:131
 msgid "Отписывание подписчика из базы необратимо. Вы уверены, что хотите это сделать?"
@@ -10606,7 +10607,7 @@ msgstr "Are you sure you want to peremstit′ this Subscriber? Select Base:"
 
 #: templates/lists/bulk-action-confirm.php:17 templates_orig/lists/bulk-action-confirm.php:17
 msgid "Все данные будут потеряны"
-msgstr "All data will be lost"
+msgstr "All data will be lost."
 
 #: templates/lists/bulk-action-confirm.php:18 templates_orig/lists/bulk-action-confirm.php:18
 msgid "перенести"
@@ -10615,7 +10616,7 @@ msgstr "move"
 #: templates/lists/bulk-action-confirm.php:18 templates/lists/bulk-action-confirm.php:19 templates_orig/lists/bulk-action-confirm.php:18
 #: templates_orig/lists/bulk-action-confirm.php:19
 msgid "Что-то будет скопировано.  Все остальные днные будут потеряны. "
-msgstr "Something will be copied. All data will be lost. "
+msgstr "All data will be lost."
 
 #: templates/lists/bulk-action-confirm.php:19 templates_orig/lists/bulk-action-confirm.php:19
 msgid "скопировать"
@@ -10657,7 +10658,7 @@ msgstr "subscribers from the list"
 
 #: templates/lists/bulk-action-confirm.php:40 templates_orig/lists/bulk-action-confirm.php:40
 msgid "Внимание! Отписание - "
-msgstr "Warning!Unsubscription - "
+msgstr "Warning!Unsubscription"
 
 #: templates/lists/bulk-action-confirm.php:42 templates_orig/lists/bulk-action-confirm.php:42
 msgid "Обновлять подписчика, если адреса совпадают"
@@ -10669,7 +10670,7 @@ msgstr "Recommend you to export the data from the list before you can perform on
 
 #: templates/lists/bulk-action-confirm.php:45 templates_orig/lists/bulk-action-confirm.php:45
 msgid "Ух! Вы не выбрали ни одного подписчика! Как вы собираетесь что-то делать?"
-msgstr "Oh! You have no Subscribers selected. Please, select one and try again."
+msgstr "Oh!You have no Subscribers selected. Please, select one and try again."
 
 #: templates/lists/confirm-delete.php:16 templates_orig/lists/confirm-delete.php:16
 msgid "Действие запрещено."
@@ -10677,7 +10678,7 @@ msgstr "Action prohibited."
 
 #: templates/lists/confirm-delete.php:17 templates_orig/lists/confirm-delete.php:17
 msgid "У вас месячный план на "
-msgstr "You have a monthly plan "
+msgstr "You have a monthly plan"
 
 #: templates/lists/confirm-delete.php:17 templates_orig/lists/confirm-delete.php:17
 msgid "подписчиков и "
@@ -10707,7 +10708,7 @@ msgstr "with"
 
 #: templates/lists/confirm-delete.php:21 templates_orig/lists/confirm-delete.php:21
 msgid "подписчик(ов), а также вся связанная с этой базой информация будут удалены раз и навсегда."
-msgstr "subscriber(s) and all the data associated with this list will be removed once and for all."
+msgstr "Subscriber(s) and all the data associated with this list will be removed once and for all."
 
 #: templates/lists/confirm-delete.php:22 templates_orig/lists/confirm-delete.php:22
 msgid ""
@@ -10748,7 +10749,7 @@ msgstr "All"
 
 #: templates/lists/smartresponder.php:95
 msgid "Помощь в переносе баз"
-msgstr "Assistance in moving lists"
+msgstr "assistance in moving lists"
 
 #: templates/lists/smartresponder.php:97
 msgid ""
@@ -10760,7 +10761,7 @@ msgstr ""
 
 #: templates/lists/smartresponder.php:98
 msgid "1. Зайдите в личный кабинет на СмартРеспондере"
-msgstr "1. Go to the personal account on SmartRespondere"
+msgstr "1. go to the personal account on SmartRespondere"
 
 #: templates/lists/smartresponder.php:99
 msgid "2. В выпадающем списке \"Настройки\" выберите пункт <strong>\"Настройки Вашего аккаунта\"</strong>"
@@ -10800,7 +10801,7 @@ msgstr "In the list"
 
 #: templates/lists/bulk-action.php:65 templates_orig/lists/bulk-action.php:65
 msgid " были успешно"
-msgstr " have been successfully"
+msgstr "have been successfully"
 
 #: templates/lists/lists.php:45 templates/lists/lists.php:437 templates_orig/lists/lists.php:30
 msgid ""
@@ -10808,7 +10809,7 @@ msgid ""
 "получатели, повторите импорт (установив галочку \"обновлять данные\") или обратитесь в поддержку на "
 msgstr ""
 "We see that the import one or more of your list was completed abnormally. If you think that not all recipients were imported, import again "
-"(by selecting the checkbox \"refresh data\") or contact support at "
+"(by selecting the checkbox \"refresh data\") or contact support at"
 
 #: templates/lists/lists.php:84
 msgid "New list has been created"
@@ -10853,11 +10854,11 @@ msgstr "Send email"
 
 #: templates/lists/lists.php:278 templates/lists/lists.php:316 templates/lists/lists.php:548 templates_orig/lists/lists.php:139
 msgid "статистика базы"
-msgstr "lists statistics"
+msgstr "Lists statistics"
 
 #: templates/lists/lists.php:301 templates/lists/lists.php:533 templates_orig/lists/lists.php:124
 msgid "база импортируется"
-msgstr "list is importing"
+msgstr "Imported"
 
 #: templates/lists/lists.php:355
 msgid "List is the place where your customers are."
@@ -10893,7 +10894,7 @@ msgstr ""
 
 #: templates/lists/lists.php:477 templates_orig/lists/lists.php:70
 msgid "пока ничего не надо"
-msgstr "nothing to need yet"
+msgstr "so far nothing"
 
 #: templates/lists/lists.php:507 templates_orig/lists/lists.php:98
 msgid "Похоже, что у Вас нет адресных баз."
@@ -10913,7 +10914,7 @@ msgstr "Create a new list"
 
 #: templates/account.php:26 templates/account.php:160 templates_orig/account.php:20
 msgid "посмотреть адресные базы"
-msgstr "view lists"
+msgstr "View lists"
 
 #: templates/account.php:69 templates/account.php:158 templates_orig/account.php:62
 msgid "&infin; писем"
@@ -10921,7 +10922,7 @@ msgstr "&infin; emails"
 
 #: templates/account.php:72 templates/account.php:164
 msgid "Prepaid Quota"
-msgstr "Prepaid Quota"
+msgstr "Prepaid"
 
 #: templates/account.php:72 templates/account.php:164
 msgid "relays/month"
@@ -10988,19 +10989,19 @@ msgstr "Please enter template name to download it:"
 
 #: builder/my_templates.php:28
 msgid "Переименовать"
-msgstr "Rename "
+msgstr "rename "
 
 #: builder/my_templates.php:41
 msgid "У вас нет сохраненных шаблонов."
-msgstr "No saved tamplates found."
+msgstr "No saved tamplates found"
 
 #: builder/my_templates.php:54
 msgid "Вы ничего не ввели."
-msgstr "You have not entered anything."
+msgstr "You have not entered anything"
 
 #: builder/index.php:62
 msgid "Загрузка"
-msgstr "Loading"
+msgstr "Loading... "
 
 #: builder/index.php:73 builder/index.php:75 builder/index.php:89
 msgid "Это некоторый случайный текст"
@@ -11016,15 +11017,15 @@ msgstr "This is the email heading..."
 
 #: builder/index.php:116
 msgid "Выбрать шаблон"
-msgstr "select a template"
+msgstr "select a template "
 
 #: builder/index.php:116
 msgid "Загрузить html-макет"
-msgstr "Upload html layout"
+msgstr "upload html layout  "
 
 #: builder/index.php:116
 msgid "Сохранить и Продолжить"
-msgstr "Save and Continue"
+msgstr "Save and continiue"
 
 #: builder/index.php:116
 msgid "Не создавать html-версию"
@@ -11032,7 +11033,7 @@ msgstr "Not creating html-version"
 
 #: builder/index.php:116
 msgid "Сохраняем как черновик..."
-msgstr "Saving as draft..."
+msgstr "Saving as Template..."
 
 #: builder/index.php:116
 msgid "Сохранено как черновик ОК"
@@ -11120,7 +11121,7 @@ msgstr "not underlined"
 
 #: builder/index.php:119 builder/index.php:122 builder/index.php:125 builder/index.php:127 builder/index.php:129 builder/index.php:131
 msgid "Задний фон:"
-msgstr "Background:"
+msgstr "Background"
 
 #: builder/index.php:119
 msgid "Страница:"
@@ -11176,7 +11177,7 @@ msgstr "At this point you are editing the section."
 
 #: builder/index.php:131
 msgid "Не выбрано ни одной секции для редактирования."
-msgstr "No section is chosen for editing."
+msgstr "No section is chosen for editing"
 
 #: builder/index.php:131
 msgid "Наведите и нажмите на нужную секцию для редактирования ее стиля."
@@ -11184,7 +11185,7 @@ msgstr "Cick on the section to edit its style."
 
 #: builder/index.php:131
 msgid "Разделитель:"
-msgstr "Separator:"
+msgstr "Separator "
 
 #: builder/index.php:131
 msgid "Ширина:"
@@ -11192,15 +11193,15 @@ msgstr "Width:"
 
 #: builder/index.php:131
 msgid " данный момент вы редактируете секцию."
-msgstr " at this point you are editing the section."
+msgstr "at this point you are editing the section"
 
 #: builder/index.php:131
 msgid "Две колонки текста"
-msgstr "2 text columns"
+msgstr "2Columns"
 
 #: builder/index.php:131
 msgid "Картинка &amp; Текст"
-msgstr "Picture &amp; Text"
+msgstr "Picture, text"
 
 #: builder/index.php:131
 msgid "Текст &amp; Картинка"
@@ -11208,11 +11209,11 @@ msgstr "Text &amp; picture"
 
 #: builder/index.php:133
 msgid "Как работает данный ПисьмоСтроитель?"
-msgstr "How does this Letter Builder work?"
+msgstr "How does this Letter Builder  work?"
 
 #: builder/index.php:133
 msgid "Выбор шаблона"
-msgstr "Select a template"
+msgstr "select a template "
 
 #: builder/index.php:133
 msgid "Нажмите \"Выбрать шаблон\" в верхнем левом углу чтобы выбрать шаблон из галлереи шаблонов."
@@ -11227,7 +11228,7 @@ msgid ""
 "Используйте редактор стилей слева для редактирования цветов и свойств шрифтов для всего письма сразу, для шапки/тела/подвала письма или "
 "для каждой секции в отдельности."
 msgstr ""
-"Use the Style Editor to the left to edit colors and font properties for all the letters at once, cap/body/listment of letters  or each "
+"Use the Style Editor to the left to edit colors and font properties for all the letters at once, cap / body / listment of letters  or each "
 "section separately."
 
 #: builder/index.php:133
@@ -11239,7 +11240,7 @@ msgid ""
 "Когда Вы наведете мышку над секцией письма или нажмете на нее, в правом верхнем углу секции появятся кнопки для перемещения, копирования, "
 "редактирования или удаления секции."
 msgstr ""
-"When You hover the mouse over a section of the letter, or click on it in the upper right corner of the section there will appear buttons  "
+"When you hover the mouse over a section of the letter, or click on it in the upper right corner of the section there will appear buttons  "
 "to move, copy, edit or delete a section."
 
 #: builder/index.php:133
@@ -11255,16 +11256,16 @@ msgid ""
 "Нажмите \"Продолжить\" в правом верхнем углу чтобы верхнуться к \"Мастеру Создания Писем\" и отправить созданное письмо получателем или "
 "себе в качестве теста."
 msgstr ""
-"Click \"Continue\" in the upper right corner to go back to the  the \"Letter wizard\" and send the email to a recipient or to yourself as "
+"Click \"Continue\" in the upper right corner to go back to the  the \"Letter wizard\"  and send the email to a recipient or to yourself as "
 "a test."
 
 #: builder/index.php:133
 msgid "Не показывать данную инструкцию больше"
-msgstr "Not shown this message later"
+msgstr "Deactivate this function"
 
 #: builder/index.php:133 litmus/test_pme.php:32 litmus/test.php:32
 msgid "Закрыть"
-msgstr "Close "
+msgstr "close "
 
 #: builder/index.php:135
 msgid "Загрузить письмо/черновик:"
@@ -11276,35 +11277,35 @@ msgstr "Save as Draft"
 
 #: builder/index.php:137 builder/index.php:139
 msgid "Название:"
-msgstr "Name:"
+msgstr "Name "
 
 #: builder/index.php:139
 msgid "Сохранить как Шаблон:"
-msgstr "Save as Template:"
+msgstr "Save as Template"
 
 #: builder/index.php:141
 msgid "Выбрать шаблон:"
-msgstr "Select a template:"
+msgstr "select a template "
 
 #: builder/index.php:141
 msgid "Просмотр:"
-msgstr "View:"
+msgstr "Vew:"
 
 #: builder/index.php:141
 msgid "Мои Шаблоны"
-msgstr "My Templates"
+msgstr "my templates"
 
 #: builder/index.php:141
 msgid "1 Колонка"
-msgstr "1 Column"
+msgstr "1 Column "
 
 #: builder/index.php:163
 msgid "Если Вы хотите навсегда попрощаться с нами, воспользуйтесь, пожалуйста"
-msgstr "If you want to say goodbye to us, please use"
+msgstr "If you want to  say goodbye to us, please use."
 
 #: builder/index.php:163
 msgid "этой ссылкой"
-msgstr "this link"
+msgstr "This link "
 
 #: builder/index.php:163
 msgid "Мы отправили это письмо на адрес: %EMAIL%, потому что Вы дали согласие получать наши рассылки."
@@ -11312,7 +11313,7 @@ msgstr "We have sent this letter to the address:%EMAIL%, because you have agreed
 
 #: builder/index.php:233
 msgid "Вставить..."
-msgstr "Paste..."
+msgstr "paste..."
 
 #: builder/index.php:238 stat/forward.php:180
 msgid "Отправить письмо другу"
@@ -11320,28 +11321,28 @@ msgstr "Send email to a friend"
 
 #: builder/index.php:239
 msgid "Отписаться от рассылки"
-msgstr "Unsubscribe"
+msgstr "unsubscribe"
 
 #: builder/index.php:240
 msgid "Добавить в адресную книгу"
-msgstr "Add to address book"
+msgstr "Add to address book "
 
 #: builder/index.php:515
 msgid "Вы уверены? Возвращаясь назад, ва потеряете все параметры рассылки!"
-msgstr "Are you sure? If you go back, you will lose all the parameters of the campaign!"
+msgstr "Are you sure? If you  go back, you will lose all the parameters  of the campaign!"
 
 #: builder/index.php:687
 msgid ""
 "Ваше сообщение сохранено как Шаблон. Чтобы загрузить ваши собственные шаблоны, нажмите 'Выбрать шаблон' в левом верхнем углу этой страницы."
-msgstr "Your message is saved as a Template. To upload your own templates, click 'Select Template' in the upper left corner of this page."
+msgstr "Your message is saved as a template. To upload your own templates, click 'Select Template' in the upper left corner of this page."
 
 #: builder/index.php:1101
 msgid "Чтобы редактировать свойства разделителя, используйте Редактор Стилей с левой стороны."
-msgstr "To edit the properties of the separator, use Style Editor on the left side."
+msgstr "To edit the properties of the separator, use  Style Editor on the left side."
 
 #: subscribe/confirm.php:32 subscribe/confirm.php:39 subscribe/mail_functions.php:124
 msgid "Подтверждение обратного адреса"
-msgstr "Confirmation of return address"
+msgstr "Confirmation of return address "
 
 #: subscribe/confirm.php:44
 msgid "Подтверждение успешно!"
@@ -11357,7 +11358,7 @@ msgstr "for your newsletters"
 
 #: subscribe/confirm.php:46
 msgid "Теперь вы можете вернуться в личный кабинет и продолжить создание рассылки."
-msgstr "Now you can go back to your profile and continue creating the newsletters."
+msgstr "Now you can go back to your profile and continue creating the newsletters"
 
 #: subscribe/confirm.php:49
 msgid "Произошла ошибка. Обратитесь в поддержку."
@@ -11409,7 +11410,7 @@ msgstr "Who are you?"
 
 #: subscribe/unsubscribe/index.php:70 subscribe/unsubscribe/index.php:77 stat/unsub.php:93 stat/unsub.php:188 stat/unsub.php:198
 msgid "Не знаем как вы здесь оказались. Хотите подписаться на журнал Мурзилка?"
-msgstr "We do not know how you got here."
+msgstr "We do not know how you got here. Do you want to subscribe to the Murzilka magazine?"
 
 #: subscribe/unsubscribe/index.php:73 stat/unsub.php:192
 msgid "Тестовая страница отписки"
@@ -11445,14 +11446,14 @@ msgstr "Your unsubscription is protected by MailWheel"
 
 #: subscribe/unsubscribe/thanks.php:48
 msgid "Спасибо за помощь!"
-msgstr "Thanks for your help!"
+msgstr "Thank you for your help!"
 
 #: subscribe/unsubscribe/thanks.php:53
 msgid ""
 "Спасибо, что уделили нам немного своего времени и дали нам свои комментарии. Мы примем все необходимые меры, если данный клиент рассылает "
 "спам."
 msgstr ""
-"Thank you for giving us a little of your time and giving us your comments. We will take all necessary steps if a client sends a spam."
+"Thank you for giving us  a little of your time and giving us your comments. We will take all necessary steps if a client sends a spam."
 
 #: subscribe/unsubscribe/thanks.php:59
 msgid "Ваш отказ от рассылки надежно защищен Печкиным"
@@ -11464,15 +11465,15 @@ msgstr "Confirm subscription"
 
 #: subscribe/mail_functions.php:52
 msgid "еще раз "
-msgstr "one more time "
+msgstr "one more time"
 
 #: subscribe/mail_functions.php:59 subscribe/mail_functions.php:62 subscribe/index_html.php:47 subscribe/index_html_old.php:45
 msgid "На ваш email "
-msgstr "On your email "
+msgstr "On your email"
 
 #: subscribe/mail_functions.php:59
 msgid "отправлено письмо с подтверждением. Для завершения подписки пройдите, пожалуйста, по ссылке в этом письме."
-msgstr "there has been sent a confirmation letter. To complete the subscription please follow the link in the email."
+msgstr "there has been sent a confirmation letter.To complete the subscription please follow the link in the email."
 
 #: subscribe/mail_functions.php:62
 msgid " выслать письмо с подтверждением регистрации не удалось, попробуйте подписаться позднее."
@@ -11484,11 +11485,11 @@ msgstr "Someone with address"
 
 #: subscribe/mail_functions.php:78
 msgid " подписался на вашу рассылку в адресную базу"
-msgstr " has subscribed to your newsletters to the address list"
+msgstr "has subscribed to your newsletters to the address list"
 
 #: subscribe/mail_functions.php:79
 msgid "С уважением,"
-msgstr "Best regards,"
+msgstr "Best regards, "
 
 #: subscribe/mail_functions.php:82
 msgid "уведомление о подписке"
@@ -11504,7 +11505,7 @@ msgstr "The subscription is nearly completed!"
 
 #: subscribe/index_html.php:11 subscribe/index_html_old.php:10
 msgid "Какая-то компания"
-msgstr "Some company"
+msgstr "some company "
 
 #: subscribe/index_html.php:16 subscribe/index_html.php:51 subscribe/index_html_old.php:15 subscribe/index_html_old.php:49
 msgid "Мы почти закончили!"
@@ -11512,7 +11513,7 @@ msgstr "We are almost finished!"
 
 #: subscribe/index_html.php:18 subscribe/index_html_old.php:17
 msgid "успешно"
-msgstr "successfully"
+msgstr " successfully"
 
 #: subscribe/index_html.php:18 subscribe/index_html_old.php:17
 msgid "подтвердили подписку"
@@ -11520,7 +11521,7 @@ msgstr "confirmed the subscription"
 
 #: subscribe/index_html.php:18 subscribe/index_html_old.php:17
 msgid "подписались"
-msgstr "subscribed"
+msgstr " subscribed"
 
 #: subscribe/index_html.php:18 subscribe/index_html_old.php:17
 msgid "на нашу рассылку"
@@ -11528,7 +11529,7 @@ msgstr "to our campaign"
 
 #: subscribe/index_html.php:24 subscribe/index_html_old.php:23
 msgid "Теперь вам необходимо подтвердить вашу подписку."
-msgstr "Now you have to confirm your subscription."
+msgstr "Now you have to confirm your subscription"
 
 #: subscribe/index_html.php:34 subscribe/index_html_old.php:33
 msgid "вернуться на наш сайт"
@@ -11536,27 +11537,27 @@ msgstr "back to our website"
 
 #: subscribe/index_html.php:37 subscribe/index_html_old.php:36
 msgid "Произошла ошибка, либо вы уже подтверждали эту подписку."
-msgstr "An error occurred, or you have already confirmed your subscription."
+msgstr "An error occurred, or you have already confirmed your subscription"
 
 #: subscribe/index_html.php:39 subscribe/index_html_old.php:38
 msgid "Не удалось подтвердить подписку. Обратитесь к администратору сайта."
-msgstr "Failed to confirm your subscription, please contact the website administration."
+msgstr "Failed to confirm your subscription, please contact the website administration"
 
 #: subscribe/index_html.php:42 subscribe/index_html_old.php:40
 msgid "Произошла ошибка"
-msgstr "An error occurred"
+msgstr "An error occurred "
 
 #: subscribe/index_html.php:43
 msgid ""
 "Ваш адрес уже зарегистрирован в данной адресной базе. Если вы ранее отписывались от рассылки и хотите восстановить подписку, обратитесь по "
 "адресу "
 msgstr ""
-"Your address is already registered in the address list. If you have previously unsubscribed  from the newsletters, and want to restore "
-"the subscription, please email to "
+"Your address is already registered in the address database. If you have previously unsubscribed  from the newsletters, and want to restore "
+"the subscription, please email to"
 
 #: subscribe/index_html.php:47 subscribe/index_html_old.php:45
 msgid "Однако, вы не подтвердили подписку через email. "
-msgstr "However, you did not confirm your subscription via email. "
+msgstr "However, you did not confirm your subscription via email."
 
 #: subscribe/index_html.php:47 subscribe/index_html_old.php:45
 msgid " было выслано письмо с подтверждением регистрации, найдите его и перейдите по ссылке в письме."
@@ -11568,7 +11569,7 @@ msgstr "If you could not find it click the button bellow to resent the confirmat
 
 #: subscribe/index_html.php:48 subscribe/index_html_old.php:46
 msgid "отправить письмо активации еще раз"
-msgstr "resend confirmation email"
+msgstr "Resend confirmation email"
 
 #: subscribe/index_html.php:105 subscribe/index_html_old.php:86
 msgid "Подписка реализована с помощью сервиса"
@@ -11579,16 +11580,16 @@ msgid ""
 "выступает против спама и резко пресекает такие попытки у своих клиентов. Поэтому вы всегда можете отписаться по ссылкам, размещенным в "
 "каждом проходящем через наш сервис письме. Раз и навсегда."
 msgstr ""
-" opposes spam and suppress such attempts of their clients so that  you can always unsubscribe using the links in every email passing "
+" opposes spam and  suppress such attempts of  their clients so that  you can always unsubscribe using the links in every email passing "
 "through our service. Once and for all."
 
 #: subscribe/index.php:111
 msgid "Не все обязательные поля в форме заполнены"
-msgstr "Not all the required fields are filled-in"
+msgstr "Not all  the required fields are filled-in."
 
 #: subscribe/index.php:127
 msgid "Подписчик с таким email уже был в базе и отписался от рассылок."
-msgstr "Subscriber with this email has unsubscribed."
+msgstr "Subscriber with this email has  unsubscribed."
 
 #: subscribe/index.php:149
 msgid "Адрес успешно добавлен в базу."
@@ -11596,11 +11597,11 @@ msgstr "The Subscriber is successfully added to list."
 
 #: subscribe/index.php:152
 msgid " Вам отправлено письмо подтверждения."
-msgstr " You will be sent a confirmation email."
+msgstr "You will be sent a confirmation email. "
 
 #: subscribe/index.php:170
 msgid "У нашего клиента достигнут лимит по количеству активных подписчиков на тарифном плане."
-msgstr "You already have maximum number of active subscribers on your tariff plan."
+msgstr "You already have maximum number of active subscribers on your tariff plan. "
 
 #: subscribe/index_html_old.php:41
 msgid ""
@@ -11608,11 +11609,11 @@ msgid ""
 "адресу support@pechkin-mail.ru."
 msgstr ""
 "Your address is already registered in the address database. If you have previously unsubscribed from the mailing list, and want to restore "
-"a subscription, please email support@mailwheel.co.uk."
+"a subscription, please email support@mailwheel.co.uk"
 
 #: stat/rating.php:53
 msgid "Всего клиентов, которые что-либо отправляли: "
-msgstr "Total number of clients which have sent something: "
+msgstr "Total number of clients which have sent something:"
 
 #: stat/unsub.php:85 stat/unsub.php:170
 msgid "Мы исключили вас из адресной базы нашего клиента!"
@@ -11624,7 +11625,7 @@ msgstr "You have unsubscribed from receiving emails via thes client's database."
 
 #: stat/unsub.php:88 stat/unsub.php:183
 msgid "Подтверждение отписки из базы нашего клиента."
-msgstr "Confirm the unsubscription from this client's database."
+msgstr "Confirm the unsubscription from this client's database"
 
 #: stat/unsub.php:89 stat/unsub.php:184
 msgid ""
@@ -11648,7 +11649,7 @@ msgid ""
 "аккаунта с помощью нашего сервиса."
 msgstr ""
 "Also, your email-address is added to the black list of this client. You will never get any letters sent from this  account through our "
-"service."
+"service"
 
 #: stat/unsub.php:216
 msgid "Спасибо, Ваш запрос принят."
@@ -11668,7 +11669,7 @@ msgstr "Please enter the reason to unsubscribe!"
 
 #: stat/unsub.php:326
 msgid "Пожалуйста, укажите причину отписки:"
-msgstr "Please enter the reason to unsubscribe:"
+msgstr "Please enter the reason to unsubscribe"
 
 #: stat/unsub.php:335
 msgid "Другое"
@@ -11688,27 +11689,27 @@ msgstr "Who is MailWheel"
 
 #: stat/unsub.php:351
 msgid "Правовая всячина"
-msgstr "Legal stuff"
+msgstr "legal stuff"
 
 #: stat/unsub.php:362 templates_orig/footer.php:30
 msgid "Подписывайтесь на журнал \"Мурзилка\"!"
-msgstr "Subscribe to the \"Murzilka\" magazine!"
+msgstr "Subscribe to the magazine \"Murzilka\"!"
 
 #: stat/forward.php:68 stat/forward.php:137
 msgid " пересылает вам интересное письмо"
-msgstr " resends you an interesting letter"
+msgstr "resends you an interesting letter"
 
 #: stat/forward.php:69 stat/forward.php:138
 msgid " думает, что вы заинтересуетесь следующим письмом:"
-msgstr " thinks that you are interested in the following letter:"
+msgstr "thinks that you are interested in the following letter:"
 
 #: stat/forward.php:69 stat/forward.php:138
 msgid " также добавил это персональное сообщение для вас:"
-msgstr " also added a private message for you:"
+msgstr "also  added a private message for you:"
 
 #: stat/forward.php:69 stat/forward.php:138
 msgid "Замечание: если ссылка на письмо не \"кликается\", то просто скопируйте ее и вставьте в веб-браузер."
-msgstr "Note: If the link  in the email cannot be \" clicked\", simply copy it and paste it into your web browser."
+msgstr "Note: If the link  in the email cannot be \" clicked\" , simply copy it and paste it into your web browser."
 
 #: stat/forward.php:158
 msgid "Отправить письму другу"
@@ -11724,7 +11725,7 @@ msgstr "campaign"
 
 #: stat/forward.php:184
 msgid "какая-то жесть произошла!"
-msgstr "something happened!"
+msgstr "Something happened!"
 
 #: stat/forward.php:185
 msgid "Вы успешно отправили письмо другу!"
@@ -11736,7 +11737,7 @@ msgstr "Your friend's name:"
 
 #: stat/forward.php:193
 msgid "введите имя вашего друга"
-msgstr "enter your friend's name:"
+msgstr "Enter your friend's name:"
 
 #: stat/forward.php:197
 msgid "Email-адрес вашего друга:"
@@ -11744,19 +11745,19 @@ msgstr "Your friend's email address:"
 
 #: stat/forward.php:198 stat/forward.php:208
 msgid "некорректный email"
-msgstr "invalid email"
+msgstr "Invalid email "
 
 #: stat/forward.php:202
 msgid "Ваше имя:"
-msgstr "Your name:"
+msgstr "your name:"
 
 #: stat/forward.php:203
 msgid "введите ваше имя"
-msgstr "enter your name:"
+msgstr "Enter your name:"
 
 #: stat/forward.php:207
 msgid "Ваш email-адрес:"
-msgstr "Your email address:"
+msgstr "Your email address"
 
 #: stat/forward.php:212
 msgid "Краткое обращение к вашему другу:"
@@ -11772,7 +11773,7 @@ msgstr "Please, enter the correct captcha."
 
 #: stat/forward.php:233
 msgid "Отправить письмо"
-msgstr "Send email"
+msgstr "Send email "
 
 #: stat/forward.php:233
 msgid "Очистить форму"
@@ -11808,15 +11809,15 @@ msgstr "settings"
 
 #: templates_orig/header_wizard.php:138
 msgid "загрузите созданный вами макет письма"
-msgstr "upload your layout"
+msgstr "Upload your layout"
 
 #: templates_orig/header_wizard.php:138
 msgid "загрузка html-макета"
-msgstr "upload html layout"
+msgstr "upload html layout "
 
 #: templates_orig/header_wizard.php:139 templates_orig/header_wizard.php:166
 msgid "создайте текстовую версию своего письма"
-msgstr "create a plain-text version of the email"
+msgstr "Create a plain-text version of the email"
 
 #: templates_orig/header_wizard.php:140
 msgid "подтверждение"
@@ -11853,7 +11854,7 @@ msgstr "step 5"
 #: templates_orig/reports/summary_base.php:110 templates_orig/reports/summary_base.php:138 templates_orig/reports/summary_base.php:161
 #: templates_orig/reports/summary_base.php:184 templates_orig/reports/summary_base.php:208
 msgid "все базы"
-msgstr "all the lists"
+msgstr "All the lists"
 
 #: templates_orig/autocampaigns/autocampaigns-list.php:118
 msgid " (выбрано ссылок: "
@@ -11861,7 +11862,7 @@ msgstr " (selected links: "
 
 #: templates_orig/campaigns/campaigns.php:62
 msgid "сводная статистика в Excel"
-msgstr "summary statistics in Excel"
+msgstr "Summary statistics in Excel"
 
 #: templates_orig/campaigns/moderation-info.php:8
 msgid ""
@@ -11880,7 +11881,7 @@ msgid ""
 msgstr ""
 "<h3 class=\"above0\">What is moderation, and why is it necessary?</h3>\n"
 "\t<p class=\"warning above-below15\">If you believe in yourself  we believe in you. Once we believe in your campaigns and your numerical indicators are  normal ,  "
-"automoderation will be activated in your account. This process is not regulated and is individual.</p>\n"
+"automoderation will be activated in your account. This process is not regulated and is individual. .</p>\n"
 "\t<p>We respect our customers and trust them. Therefore all campaigns are  sent automatically. However, some customers have abused our trust and  sent emails with apparent  Spam. "
 "Email providers have suffered a long time, but at some point we started to harshly penalize for it. To counter the malicious spammers we "
 "introduced campaign moderation.</p>\n" 
@@ -11976,11 +11977,11 @@ msgstr "not paid"
 
 #: templates_orig/account/billing.php:70
 msgid "<span class=\"rur\">p<span>уб.</span>"
-msgstr "<span class=\"rur\">£</span></span>"
+msgstr "<span><span class=\"rur\">£</span></span>"
 
 #: templates_orig/account/billing.php:78
 msgid " месяцев."
-msgstr " months."
+msgstr "months"
 
 #: templates_orig/account/billing.php:82 templates_orig/account/billing.php:84
 msgid " писем."
@@ -12025,12 +12026,12 @@ msgid ""
 "'Внимание! Создание рассылки невозможно, поскольку количество подписчиков в ваших адресных базах превышает допустимое на вашем тарифном "
 "плане. Необходимо выбрать другой тарифный план или удалить часть подписчиков.'"
 msgstr ""
-"'Attention! Creating a campaign is not possible, because the number of subscribers in your lists larger than allowed by your plan. You need "
-"to select another plan or reduce amount of subscribers.'"
+"Attention! Creating a campaign is not possible, because the number of subscribers in your lists larger than allowed by your plan. You need "
+"to select another plan or reduce amount of subscribers."
 
 #: templates_orig/main/main.php:215
 msgid "отправляйте 100 получателям 500 писем в месяц"
-msgstr "sent 500 emails to 100 recipients a month"
+msgstr "sent 500 emails to 100 recipients a month "
 
 #: templates_orig/main/main.php:224
 msgid "Интеграции"
@@ -12078,7 +12079,7 @@ msgstr "through via MailWheel.co.uk"
 
 #: templates_orig/main/main.php:252
 msgid "это просто"
-msgstr "It's simple"
+msgstr "It's a simple as that."
 
 #: templates_orig/main/main.php:254 templates_orig/main/main.php:255 templates_orig/main/main.php:256
 msgid "вперед"
@@ -12094,7 +12095,7 @@ msgstr "Statistics"
 
 #: templates_orig/header_wizard_split.php:96
 msgid "задайте общие настройки a/b-тестирования"
-msgstr "specify the general settings for A/B campaings"
+msgstr "specify the general settings for  A/B campaings"
 
 #: templates_orig/header_wizard_split.php:97
 msgid "создайте рассылки для тестирования"
@@ -12134,7 +12135,7 @@ msgstr "Upgrade plan"
 
 #: registration4.php:13 registration4.php:74 login.php:111
 msgid "Зарегистрироваться"
-msgstr "Get registered"
+msgstr "Who is registered?"
 
 #: registration4.php:98 signup.php:48
 msgid "Sign up in 30 seconds"
@@ -12142,7 +12143,7 @@ msgstr "Sign up in 30 seconds"
 
 #: registration4.php:100 signup.php:49
 msgid "The Forever Free Plan"
-msgstr "Forever Free Plan"
+msgstr "Forever Free"
 
 #: registration4.php:101 signup.php:50
 msgid "Send up to 12,000 emails per month"
@@ -12154,7 +12155,7 @@ msgstr "No contracts"
 
 #: registration4.php:103 signup.php:52
 msgid "No credit card required"
-msgstr "No credit card required"
+msgstr "Credit card number"
 
 #: registration4.php:114 signup.php:56
 msgid "Try MailWheel for free"
@@ -12178,7 +12179,7 @@ msgstr "Log in here."
 
 #: registration4.php:142
 msgid "By clicking next button, you agree to "
-msgstr "By clicking next button, you agree to "
+msgstr "By clicking next button, you agree to"
 
 #: registration4.php:142
 msgid "Anti-spam Policy &amp; Terms of Use"
@@ -12202,7 +12203,7 @@ msgstr "Block images"
 
 #: litmus/test_pme_adaptive.php:45 litmus/test_pme.php:53 litmus/test.php:56
 msgid "Показать изображения"
-msgstr "Show images"
+msgstr "show images"
 
 #: litmus/test_pme_adaptive.php:54 litmus/test_pme.php:66 litmus/test.php:69
 msgid "Результаты данного тестирования не актуальны для вас"
@@ -12218,7 +12219,7 @@ msgstr "Proceed to results"
 
 #: litmus/test_pme_adaptive.php:55 litmus/test_pme.php:67 litmus/test.php:70
 msgid "тестирования вашей рассылки"
-msgstr "campaign testing"
+msgstr "Campaign testing"
 
 #: litmus/test_pme_adaptive.php:66 litmus/test_pme.php:78 litmus/test.php:81
 msgid "Простите, у нас проблемы с фотографированием этого скриншота."
@@ -12250,7 +12251,7 @@ msgstr "Next screenshot"
 
 #: litmus/test_pme.php:38 litmus/test.php:38
 msgid "Переключить вид"
-msgstr "Switch view"
+msgstr "switch View"
 
 #: litmus/test_pme.php:39 litmus/test.php:39
 msgid "Включить/выключить картинки (если возможно)"
@@ -12258,7 +12259,7 @@ msgstr "Activate/deasctivate images (if possible)"
 
 #: litmus/test_pme.php:83 litmus/test.php:86
 msgid "Пожалуйста, подождите"
-msgstr "Please wait"
+msgstr "Please wait ..."
 
 #: litmus/test_pme.php:83 litmus/test.php:86
 msgid "Мы все еще фотографируем этот скриншот"
@@ -12274,11 +12275,11 @@ msgstr "reload the page"
 
 #: check2.php:9
 msgid "Не допускается использовать кавычки"
-msgstr "Quotes not allowed"
+msgstr "This address will be used as?"
 
 #: check2.php:12
 msgid "Такой логин уже зарегистрирован"
-msgstr "This login is taken"
+msgstr "Who is registered?"
 
 #: new-user.php:87
 msgid "Начнем, пожалуй!"
@@ -12290,7 +12291,7 @@ msgstr "Dear Customer,"
 
 #: new-user.php:216
 msgid "в сервисе рассылки электронной почты"
-msgstr "please fill this form"
+msgstr "please fill this form."
 
 #: new-user.php:217
 msgid "Настройте ваш аккаунт за"
@@ -12314,7 +12315,7 @@ msgstr "AntiSpam agreement"
 
 #: new-user.php:292 new-user.php:295
 msgid "область/провинция/регион"
-msgstr "province/state/region"
+msgstr "province/state/region:"
 
 #: new-user.php:338
 msgid "Организация"
@@ -12322,7 +12323,7 @@ msgstr "Company/Organization"
 
 #: new-user.php:368
 msgid "далее"
-msgstr "next"
+msgstr "Next"
 
 #: registration.php:19 registration.php:157
 msgid "Регистрация"
@@ -12354,11 +12355,11 @@ msgstr "Email for contact:"
 
 #: login.php:139
 msgid "ваш логин"
-msgstr "your username"
+msgstr "Your username"
 
 #: login.php:143
 msgid "выслать пароль"
-msgstr "sent password"
+msgstr "New password"
 
 #: login.php:177
 msgid "забыли пароль"
@@ -12398,7 +12399,7 @@ msgstr "Please, check your inbox."
 
 #: signup_success.php:54
 msgid "Click on "
-msgstr "Click on "
+msgstr "Click on"
 
 #: signup_success.php:54
 msgid "confirm your email address"
@@ -12406,7 +12407,7 @@ msgstr "confirm your email address"
 
 #: signup_success.php:54
 msgid " in the message we just sent to you."
-msgstr " in the message we just sent to you."
+msgstr "in the message we just sent to you."
 
 #: signup_success.php:63
 msgid "What will happen after I activate my account?"
@@ -12431,7 +12432,7 @@ msgid ""
 "month. Email credits have no limitations on number of subscribers in your lists. All paid accounts have access to "
 msgstr ""
 "If you have large list you can always subscribe to monthly plan or purchase email credits. Month plans have no limitations on emails sent "
-"per month. Email credits have no limitations on the number of subscribers in your lists. All paid accounts have access to "
+"per month. Email credits have no limitations on the number of subscribers in your lists. All paid accounts have access to"
 
 #: signup_success.php:69
 msgid "Inbox preview"
@@ -12439,7 +12440,7 @@ msgstr "preview"
 
 #: signup_success.php:69
 msgid "Spam Doctor</a> and can attach files up to 5Mb to any campaign."
-msgstr "Spam Doctor</a> and can attach files up to 5 MB to any campaign."
+msgstr "Spam Doctor and can attach files up to 5 MB to any campaign."
 
 #: signup_success.php:70
 msgid "Show me plans"
@@ -12447,7 +12448,7 @@ msgstr "Show me plans"
 
 #: signup_success.php:81
 msgid "All Rights Reserved. MailWheel®"
-msgstr "All Rights Reserved. MailWheel®"
+msgstr "All Rights Reserved. MailWheel ®"
 
 #: activate.php:18
 msgid "Вы подтвердили свой email. Можете зайти в свой аккаунт."
@@ -12479,11 +12480,11 @@ msgstr "awaiting"
 
 #: spamtester/results.php:25
 msgid "обновить результаты"
-msgstr "refresh results"
+msgstr "Refresh results"
 
 #: new_templates/step2.php:564
 msgid "Drag&Drop your zip-archive containing html here"
-msgstr "Drag&Drop your zip-archive containing html here"
+msgstr "Drag & Drop your zip-archive containing html here"
 
 #: signup.php:62
 msgid "Password (at least 6 symbols)"
@@ -12495,15 +12496,15 @@ msgstr "Email"
 
 #: signup.php:65
 msgid "By clicking next button, you agree to <a href=\"#\">Anti-spam Policy & Terms of Use"
-msgstr "By clicking next button, you agree to <a href=\"#\">the anti-spam Policy & Terms of Use"
+msgstr "By clicking next button, you agree to <a href=\"#\">the anti-spam Policy & Terms of Use</a>"
 
 #: signup.php:66
 msgid "Create my account"
-msgstr "Create my account"
+msgstr "prepay the amount"
 
 #: signup.php:68
 msgid "Already have an account? "
-msgstr "Already have an account? "
+msgstr "Already have an account?"
 
 #: signup.php:68
 msgid "Login here."
