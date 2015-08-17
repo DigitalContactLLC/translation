@@ -10084,7 +10084,7 @@ msgstr ""
 
 #: templates/lists/unisender.php:96
 msgid "1. Зайдите в личный кабинет на Юнисендере"
-msgstr "1. go to the personal account on Unisender"
+msgstr "1. Go to the personal account on Unisender"
 
 #: templates/lists/unisender.php:97
 msgid "2. Нажмите на свой логин в правом верхнем углу и перейдите в раздел <strong>\"Настройка аккаунта\"</strong>"
@@ -10101,7 +10101,7 @@ msgstr "4. copy the API access key in the box in the left section of this page"
 #: templates/lists/import_black.php:33 templates/lists/import_big.php:55 templates_orig/lists/import_black.php:33
 #: templates_orig/lists/import_big.php:54
 msgid "Произошла критичная ошибка с файлом - пришлите его для проверки на "
-msgstr "Critical error occurred file send it to check for"
+msgstr "Critical error occurred file send it to check for "
 
 #: templates/lists/getresponse.php:9 templates/lists/getresponse.php:13 templates_orig/lists/getresponse.php:9
 #: templates_orig/lists/getresponse.php:13
@@ -10138,7 +10138,7 @@ msgstr ""
 
 #: templates/lists/getresponse.php:82
 msgid "1. Зайдите в личный кабинет на GetResponse"
-msgstr "1. go to your personal Cabinet on the GetResponse"
+msgstr "1. Go to your personal Cabinet on the GetResponse"
 
 #: templates/lists/getresponse.php:83
 msgid "2. Наведите мышку на <strong>\"Моя уч. запись\"</strong> в правом верхнем углу и выберите пункт <strong>\"Интеграция\"</strong>"
@@ -10147,7 +10147,7 @@ msgstr ""
 
 #: templates/lists/getresponse.php:85
 msgid "3. В левом меню нажмите <strong>\"Использовать API\"<strong>"
-msgstr "3. In the left menu click <strong>\"Use API\"<strong> </strong> </strong>"
+msgstr "3. In the left menu click <strong>\"Use API\"</strong>"
 
 #: templates/lists/getresponse.php:87
 msgid "4. Нажмите кнопку <strong>\"в буфер обмена\"</strong>и скопируйте Ключ доступа к API в поле в левом блоке на этой странице"
@@ -10200,7 +10200,7 @@ msgid ""
 "пожалуйста, в письме на "
 msgstr ""
 "Please note that unsubscription is intended only for those recipients who are themselves expressed a desire to no longer receive your "
-"campaigns, and is not an alternative to disposal. If so many of your subscribers addressed to you to unsubscribe them, please  email us"
+"campaigns, and is not an alternative to disposal. If so many of your subscribers addressed to you to unsubscribe them, please  email us "
 
 #: templates/lists/remove.php:29 templates/lists/bulk-action-confirm.php:33 templates_orig/lists/remove.php:29
 #: templates_orig/lists/bulk-action-confirm.php:33
@@ -10209,11 +10209,11 @@ msgstr "why and how this happened."
 
 #: templates/lists/remove.php:32 templates_orig/lists/remove.php:32
 msgid " пользователей были успешно отписаны из базы"
-msgstr "users have successfully unsubscribed from the list"
+msgstr " users have successfully unsubscribed from the list"
 
 #: templates/lists/remove.php:43 templates/lists/remove.php:122 templates/lists/remove.php:188 templates_orig/lists/remove.php:51
 msgid "Отписать подписчиков из "
-msgstr "To unsubscribe the subscribers"
+msgstr "To unsubscribe the subscribers "
 
 #: templates/lists/remove.php:123
 msgid "Would you like to add multiple subscribers?"
@@ -10221,12 +10221,12 @@ msgstr "Would you like to add multiple subscribers?"
 
 #: templates/lists/remove.php:141 templates/lists/remove.php:189 templates_orig/lists/remove.php:52
 msgid "<strong>Внимание!</strong> Отписка - "
-msgstr "<strong>Attention!</strong> Unsubscribe-"
+msgstr "<strong>Attention!</strong> Unsubscribe - "
 
 #: templates/lists/remove.php:141 templates/lists/remove.php:189 templates/lists/bulk-action-confirm.php:40
 #: templates_orig/lists/remove.php:52 templates_orig/lists/bulk-action-confirm.php:40
 msgid "необратимое действие! "
-msgstr "irreversible action!"
+msgstr "irreversible action! "
 
 #: templates/lists/remove.php:141 templates/lists/remove.php:189 templates/lists/bulk-action-confirm.php:40
 #: templates_orig/lists/remove.php:52 templates_orig/lists/bulk-action-confirm.php:40
@@ -10265,7 +10265,7 @@ msgstr "Add subscriber to your blacklist"
 
 #: templates/lists/import-blacklist.php:78
 msgid "Supported file types</strong>: <!-- CSV,  -->XLS, XLSX, XML"
-msgstr "Supported file types: <!-- CSV,  --> XLS, XLSX, XML"
+msgstr "Supported file types</strong>: <!-- CSV,  --> XLS, XLSX, XML"
 
 #: templates/lists/import-blacklist.php:86
 msgid "Email address"
@@ -10277,11 +10277,11 @@ msgstr "number:"
 
 #: templates/lists/import-blacklist.php:101
 msgid "Select list"
-msgstr "to the list"
+msgstr "Select list"
 
 #: templates/lists/import-blacklist.php:108
 msgid "or name:"
-msgstr "or Name"
+msgstr "or name"
 
 #: templates/lists/import-blacklist.php:134
 msgid "Enter the data column number"
@@ -10297,11 +10297,11 @@ msgstr ""
 
 #: templates/lists/blacklist-action.php:21 templates_orig/lists/blacklist-action.php:21
 msgid "Мы успешно добавили подписчика "
-msgstr "We have successfully added the Subscriber"
+msgstr "We have successfully added the Subscriber "
 
 #: templates/lists/blacklist-action.php:21 templates_orig/lists/blacklist-action.php:21
 msgid " в черный список"
-msgstr "in blacklist"
+msgstr " in blacklist"
 
 #: templates/lists/footer.php:19 templates/lists/footer.php:39 templates/lists/footer.php:290 templates_orig/lists/footer.php:26
 msgid "Настройки VCard для базы"
@@ -10310,7 +10310,7 @@ msgstr "VCard settings for list"
 #: templates/lists/footer.php:121 templates/lists/footer.php:296 templates_orig/lists/footer.php:32
 msgid "Введите контактную информацию и физический адрес <strong>владельца</strong> адресной базы. Это <a href=\""
 msgstr ""
-"Enter the contact information and the physical address <strong>of the owner</strong> of the list. This<a href=\" href=\"\"></a href=\">"
+"Enter the contact information and the physical address <strong>of the owner</strong> of the list. This <a href=\""
 
 #: templates/lists/footer.php:121 templates/lists/footer.php:296 templates_orig/lists/footer.php:32
 msgid ""
@@ -10346,7 +10346,7 @@ msgstr "Country"
 
 #: templates/lists/footer.php:205 templates/lists/footer.php:208 templates/lists/footer.php:308 templates_orig/lists/footer.php:44
 msgid "Телефон"
-msgstr "Tel.:"
+msgstr "Tel."
 
 #: templates/lists/footer.php:211 templates/lists/footer.php:311 templates_orig/lists/footer.php:47
 msgid "По умолчанию, телефон не показывается в подвале письма."
@@ -10416,11 +10416,11 @@ msgstr "User unsubscribed twice of your list"
 
 #: templates/lists/show-members.php:52 templates_orig/lists/show-members.php:42
 msgid "дата добавления"
-msgstr "Date Added"
+msgstr "date added"
 
 #: templates/lists/show-members.php:53 templates_orig/lists/show-members.php:43
 msgid "дата отписания"
-msgstr "date of unsubscription"
+msgstr "unsubscription date"
 
 #: templates/lists/show-members.php:55 templates_orig/lists/show-members.php:45
 msgid "причина отказа"
@@ -10428,7 +10428,7 @@ msgstr "rejection reason"
 
 #: templates/lists/show-members.php:68 templates_orig/lists/show-members.php:58
 msgid "не задано"
-msgstr "Unspecified"
+msgstr "unspecified"
 
 #: templates/lists/forms-gen.php:91 templates/lists/fields.php:159 templates/lists/fields.php:222 templates/lists/fields.php:316
 #: templates/lists/fields.php:354 subscribe/templates/forms-gen.php:86 templates_orig/lists/forms-gen.php:91
@@ -10460,7 +10460,7 @@ msgstr "person."
 
 #: templates/lists/forms-gen.php:250 subscribe/index_html.php:91 subscribe/templates/forms-gen.php:244 templates_orig/lists/forms-gen.php:250
 msgid " человек."
-msgstr "people"
+msgstr " person"
 
 #: templates/lists/forms-gen.php:251 subscribe/index_html.php:92 subscribe/templates/forms-gen.php:245 templates_orig/lists/forms-gen.php:251
 msgid "Уже подписалось"
@@ -10498,7 +10498,7 @@ msgstr "add text box"
 msgid "Удаление поля базы ведет к удалению всех данных в базе, связанных с этим полем. Вы полностью уверены? <strong>(действие необратимо)"
 msgstr ""
 "Deleting a field list leads to the deletion of all data in the list associated with this field. You are completely sure? <strong>(action "
-"is irreversible)</strong>"
+"is irreversible)"
 
 #: templates/lists/fields.php:268 templates/lists/fields.php:412 templates_orig/lists/fields.php:130
 msgid "удалить поле"
@@ -10531,7 +10531,7 @@ msgstr ""
 
 #: templates/lists/mailchimp.php:94
 msgid "1. Зайдите в личный кабинет на MailChimp"
-msgstr "1. go to your personal Cabinet on MailChimp"
+msgstr "1. Go to your personal cabinet on MailChimp"
 
 #: templates/lists/mailchimp.php:95
 msgid "2. В разделе \"Profile\" в выпадающем списке \"Extras\" выберите пункт <strong>\"API keys\"</strong>"
@@ -10567,7 +10567,7 @@ msgstr "Female"
 
 #: templates/lists/edit.php:259
 msgid "Не известен"
-msgstr "Not known"
+msgstr "Unknown"
 
 #: templates/lists/edit.php:273 templates_orig/lists/edit.php:109
 msgid "Как попал в базу"
@@ -10575,15 +10575,15 @@ msgstr "How to hit the list"
 
 #: templates/lists/edit.php:279 templates_orig/lists/edit.php:115
 msgid "Дата отписки"
-msgstr "Date of unsubscribing"
+msgstr "Unsubscribtion date"
 
 #: templates/lists/edit.php:284 templates_orig/lists/edit.php:120
 msgid "Способ добавления"
-msgstr "Method"
+msgstr "Method of adding"
 
 #: templates/lists/edit.php:285 templates_orig/lists/edit.php:121
 msgid "Добавлен пользователем"
-msgstr "Added by the user"
+msgstr "Added by user"
 
 #: templates/lists/edit.php:297 templates_orig/lists/edit.php:131
 msgid "Отписывание подписчика из базы необратимо. Вы уверены, что хотите это сделать?"
@@ -10607,7 +10607,7 @@ msgstr "Are you sure you want to peremstit′ this Subscriber? Select Base:"
 
 #: templates/lists/bulk-action-confirm.php:17 templates_orig/lists/bulk-action-confirm.php:17
 msgid "Все данные будут потеряны"
-msgstr "All data will be lost."
+msgstr "All data will be lost"
 
 #: templates/lists/bulk-action-confirm.php:18 templates_orig/lists/bulk-action-confirm.php:18
 msgid "перенести"
@@ -10616,7 +10616,7 @@ msgstr "move"
 #: templates/lists/bulk-action-confirm.php:18 templates/lists/bulk-action-confirm.php:19 templates_orig/lists/bulk-action-confirm.php:18
 #: templates_orig/lists/bulk-action-confirm.php:19
 msgid "Что-то будет скопировано.  Все остальные днные будут потеряны. "
-msgstr "All data will be lost."
+msgstr "Something will be copied. All data will be lost. "
 
 #: templates/lists/bulk-action-confirm.php:19 templates_orig/lists/bulk-action-confirm.php:19
 msgid "скопировать"
@@ -10658,7 +10658,7 @@ msgstr "subscribers from the list"
 
 #: templates/lists/bulk-action-confirm.php:40 templates_orig/lists/bulk-action-confirm.php:40
 msgid "Внимание! Отписание - "
-msgstr "Warning!Unsubscription"
+msgstr "Warning!Unsubscription - "
 
 #: templates/lists/bulk-action-confirm.php:42 templates_orig/lists/bulk-action-confirm.php:42
 msgid "Обновлять подписчика, если адреса совпадают"
@@ -10670,7 +10670,7 @@ msgstr "Recommend you to export the data from the list before you can perform on
 
 #: templates/lists/bulk-action-confirm.php:45 templates_orig/lists/bulk-action-confirm.php:45
 msgid "Ух! Вы не выбрали ни одного подписчика! Как вы собираетесь что-то делать?"
-msgstr "Oh!You have no Subscribers selected. Please, select one and try again."
+msgstr "Oh! You have no Subscribers selected. Please, select one and try again."
 
 #: templates/lists/confirm-delete.php:16 templates_orig/lists/confirm-delete.php:16
 msgid "Действие запрещено."
@@ -10678,7 +10678,7 @@ msgstr "Action prohibited."
 
 #: templates/lists/confirm-delete.php:17 templates_orig/lists/confirm-delete.php:17
 msgid "У вас месячный план на "
-msgstr "You have a monthly plan"
+msgstr "You have a monthly plan "
 
 #: templates/lists/confirm-delete.php:17 templates_orig/lists/confirm-delete.php:17
 msgid "подписчиков и "
@@ -10708,7 +10708,7 @@ msgstr "with"
 
 #: templates/lists/confirm-delete.php:21 templates_orig/lists/confirm-delete.php:21
 msgid "подписчик(ов), а также вся связанная с этой базой информация будут удалены раз и навсегда."
-msgstr "Subscriber(s) and all the data associated with this list will be removed once and for all."
+msgstr "subscriber(s) and all the data associated with this list will be removed once and for all."
 
 #: templates/lists/confirm-delete.php:22 templates_orig/lists/confirm-delete.php:22
 msgid ""
@@ -10749,7 +10749,7 @@ msgstr "All"
 
 #: templates/lists/smartresponder.php:95
 msgid "Помощь в переносе баз"
-msgstr "assistance in moving lists"
+msgstr "Assistance in moving lists"
 
 #: templates/lists/smartresponder.php:97
 msgid ""
@@ -10761,7 +10761,7 @@ msgstr ""
 
 #: templates/lists/smartresponder.php:98
 msgid "1. Зайдите в личный кабинет на СмартРеспондере"
-msgstr "1. go to the personal account on SmartRespondere"
+msgstr "1. Go to the personal account on SmartRespondere"
 
 #: templates/lists/smartresponder.php:99
 msgid "2. В выпадающем списке \"Настройки\" выберите пункт <strong>\"Настройки Вашего аккаунта\"</strong>"
@@ -10801,7 +10801,7 @@ msgstr "In the list"
 
 #: templates/lists/bulk-action.php:65 templates_orig/lists/bulk-action.php:65
 msgid " были успешно"
-msgstr "have been successfully"
+msgstr " have been successfully"
 
 #: templates/lists/lists.php:45 templates/lists/lists.php:437 templates_orig/lists/lists.php:30
 msgid ""
@@ -10809,7 +10809,7 @@ msgid ""
 "получатели, повторите импорт (установив галочку \"обновлять данные\") или обратитесь в поддержку на "
 msgstr ""
 "We see that the import one or more of your list was completed abnormally. If you think that not all recipients were imported, import again "
-"(by selecting the checkbox \"refresh data\") or contact support at"
+"(by selecting the checkbox \"refresh data\") or contact support at "
 
 #: templates/lists/lists.php:84
 msgid "New list has been created"
@@ -10854,11 +10854,11 @@ msgstr "Send email"
 
 #: templates/lists/lists.php:278 templates/lists/lists.php:316 templates/lists/lists.php:548 templates_orig/lists/lists.php:139
 msgid "статистика базы"
-msgstr "Lists statistics"
+msgstr "lists statistics"
 
 #: templates/lists/lists.php:301 templates/lists/lists.php:533 templates_orig/lists/lists.php:124
 msgid "база импортируется"
-msgstr "Imported"
+msgstr "list is importing"
 
 #: templates/lists/lists.php:355
 msgid "List is the place where your customers are."
@@ -10894,7 +10894,7 @@ msgstr ""
 
 #: templates/lists/lists.php:477 templates_orig/lists/lists.php:70
 msgid "пока ничего не надо"
-msgstr "so far nothing"
+msgstr "nothing to need yet"
 
 #: templates/lists/lists.php:507 templates_orig/lists/lists.php:98
 msgid "Похоже, что у Вас нет адресных баз."
@@ -10914,7 +10914,7 @@ msgstr "Create a new list"
 
 #: templates/account.php:26 templates/account.php:160 templates_orig/account.php:20
 msgid "посмотреть адресные базы"
-msgstr "View lists"
+msgstr "view lists"
 
 #: templates/account.php:69 templates/account.php:158 templates_orig/account.php:62
 msgid "&infin; писем"
@@ -10922,7 +10922,7 @@ msgstr "&infin; emails"
 
 #: templates/account.php:72 templates/account.php:164
 msgid "Prepaid Quota"
-msgstr "Prepaid"
+msgstr "Prepaid Quota"
 
 #: templates/account.php:72 templates/account.php:164
 msgid "relays/month"
@@ -10989,15 +10989,15 @@ msgstr "Please enter template name to download it:"
 
 #: builder/my_templates.php:28
 msgid "Переименовать"
-msgstr "rename "
+msgstr "Rename "
 
 #: builder/my_templates.php:41
 msgid "У вас нет сохраненных шаблонов."
-msgstr "No saved tamplates found"
+msgstr "No saved tamplates found."
 
 #: builder/my_templates.php:54
 msgid "Вы ничего не ввели."
-msgstr "You have not entered anything"
+msgstr "You have not entered anything."
 
 #: builder/index.php:62
 msgid "Загрузка"
