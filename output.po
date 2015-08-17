@@ -6006,7 +6006,7 @@ msgstr "SENT"
 
 #: templates/campaigns/campaigns-list.php:95 templates_orig/campaigns/campaigns-list.php:94
 msgid " ЧАСТЬ"
-msgstr "PART"
+msgstr " PART"
 
 #: templates/campaigns/campaigns-list.php:96 templates_orig/campaigns/campaigns-list.php:95
 msgid "К ОТПРАВКЕ"
@@ -6106,7 +6106,7 @@ msgstr "view the report"
 
 #: templates/campaigns/fix-info.php:24
 msgid "Рассылка "
-msgstr "Campaigns"
+msgstr "Campaigns "
 
 #: templates/campaigns/fix-info.php:24
 msgid "отправлена на доработку. Внесите необходимые изменения и отправьте ее!<br ><br >Робот Печкина."
@@ -6141,7 +6141,7 @@ msgstr "No information about consent"
 
 #: templates/campaigns/fix-info.php:75
 msgid "Здесь должна быть информация..."
-msgstr "There should be information."
+msgstr "There should be information..."
 
 #: templates/campaigns/fix-info.php:76
 msgid "Обратный адрес на общедоступном домене"
@@ -6185,7 +6185,7 @@ msgstr "Unreadable unsubscribe  link"
 
 #: templates/account/money.php:29 templates/account/money.php:173
 msgid "Платежи клиента "
-msgstr "Customer payments"
+msgstr "Customer payments "
 
 #: templates/account/money.php:29 templates/account/money.php:173
 msgid "все платежи"
@@ -6202,7 +6202,7 @@ msgstr "search for bills by number or name"
 #: templates/account/money.php:37 templates/account/money.php:177 templates/lists/add.php:55 templates/lists/remove.php:50
 #: templates/lists/edit.php:61 templates_orig/lists/include/searchform.php:11
 msgid "искать"
-msgstr "search..."
+msgstr "search"
 
 #: templates/account/money.php:73
 msgid "January"
@@ -6262,7 +6262,7 @@ msgstr "Apparently"
 
 #: templates/account/money.php:112 templates/account/money.php:256
 msgid "клиента "
-msgstr "client"
+msgstr "client "
 
 #: templates/account/money.php:112 templates/account/money.php:256
 msgid "ваших клиентов"
@@ -6274,7 +6274,7 @@ msgstr "There were no more orders and payments."
 
 #: templates/account/money.php:117 templates/account/money.php:261 templates_orig/account/billing.php:54
 msgid "Дата создания счета"
-msgstr "Date of invoice "
+msgstr "Date of invoice"
 
 #: templates/account/money.php:118 templates/account/money.php:262
 msgid "Клиент"
@@ -6318,7 +6318,7 @@ msgstr "<span class=\"rur\">£</span>"
 
 #: templates/account/money.php:141 templates/account/money.php:285 templates_orig/account/billing.php:74
 msgid "Месячный план. "
-msgstr "Monthly plan "
+msgstr "Monthly plan. "
 
 #: templates/account/money.php:141 templates/account/money.php:285 templates_orig/account/billing.php:74
 msgid " подписчиков."
@@ -6335,7 +6335,7 @@ msgstr "The package of "
 
 #: templates/account/money.php:145 templates/account/money.php:147 templates/account/money.php:289 templates/account/money.php:291
 msgid " email-кредитов."
-msgstr "email credits."
+msgstr " email credits."
 
 #: templates/account/money.php:152 templates/account/money.php:296
 msgid "Апгрейд"
@@ -6351,7 +6351,7 @@ msgstr "Paid"
 
 #: templates/account/money.php:156 templates/account/money.php:300 templates_orig/account/billing.php:94
 msgid " от "
-msgstr "from"
+msgstr " from "
 
 #: templates/account/money.php:156 templates/account/money.php:300
 msgid "аванс"
@@ -6447,13 +6447,13 @@ msgstr "Confirm Delete"
 
 #: templates/account/contact.php:41 templates/account/contact.php:96
 msgid "fields, marked <span class=\"req\">*</span> required fields"
-msgstr "fields marked <span class=\"req\">*</span> required fields"
+msgstr "fields, marked <span class=\"req\">*</span> required fields"
 
 #: templates/account/contact.php:43 templates_orig/account/contact.php:24
 msgid ""
 "Данная информация необходима, чтобы мы могли с вами связаться быстро и четко, когда это необходимо. Ваша информация держится строго "
 "конфиденциально."
-msgstr "This information is needed so that we can contact you quickly   when you need it. Your information is kept strictly confidential."
+msgstr "This information is needed so that we can contact you quickly when you need it. Your information is kept strictly confidential."
 
 #: templates/account/contact.php:43
 msgid "Privacy Policy"
@@ -6461,7 +6461,7 @@ msgstr "Privacy Policy"
 
 #: templates/account/contact.php:43 templates_orig/account/contact.php:24
 msgid "Также эти данные ставятся по умолчанию в раздел \"адресные базы\" &gt; \"обязательная контактная информация\" при создании базы."
-msgstr "These data are, by default, put in the section \"address list\"  &gt; \"obligatory contact information\" when you create a list."
+msgstr "These data are, by default, put in the section \"address list\" &gt; \"obligatory contact information\" when you create a list."
 
 #: templates/account/contact.php:52 templates/account/contact.php:55 templates/account/affiliate.php:47 templates_orig/account/contact.php:27
 #: new-user.php:228 new-user.php:231
@@ -6556,11 +6556,11 @@ msgstr "create"
 
 #: templates/account/confirm-bill.php:85
 msgid " и продлили действие текущего месячного плана еще на "
-msgstr "and extended the current monthly plan still on"
+msgstr " and extended the current monthly plan still on "
 
 #: templates/account/confirm-bill.php:85
 msgid " месяц"
-msgstr "month"
+msgstr " month"
 
 #: templates/account/confirm-bill.php:111 templates/main/main.php:303 templates_orig/main/main.php:217
 msgid "Месячный план"
@@ -6569,15 +6569,15 @@ msgstr "Monthly plan"
 #: templates/account/confirm-bill.php:111 templates/account/create-bill.php:38 templates/account/choose_payment.php:48
 #: templates/account/choose_payment.php:81
 msgid " подписчиков"
-msgstr "subscribers"
+msgstr " subscribers"
 
 #: templates/account/confirm-bill.php:115 templates/account/create-bill.php:42
 msgid " email-кредитов"
-msgstr "email-credits"
+msgstr " email-credits"
 
 #: templates/account/confirm-bill.php:119
 msgid "Авансовая активация счета №"
-msgstr "Prepaid activation account no."
+msgstr "Prepaid activation account #"
 
 #: templates/account/confirm-bill.php:119 templates/account/confirm-bill.php:141 templates/account/delete-bill.php:32
 msgid "для клиента"
@@ -6602,19 +6602,19 @@ msgstr "To pay the prepayment"
 
 #: templates/account/confirm-bill.php:132 templates/account/delete-bill.php:21
 msgid "\"Месячный план. "
-msgstr "'Monthly plan "
+msgstr "\"Monthly plan. "
 
 #: templates/account/confirm-bill.php:132 templates/account/delete-bill.php:21
 msgid " подписчиков\""
-msgstr "subscribers\""
+msgstr " subscribers\""
 
 #: templates/account/confirm-bill.php:136 templates/account/delete-bill.php:25
 msgid "\"Пакет из "
-msgstr "\"The package of"
+msgstr "\"The package of "
 
 #: templates/account/confirm-bill.php:136 templates/account/delete-bill.php:25
 msgid " email-кредитов\""
-msgstr "email credits \""
+msgstr " email credits \""
 
 #: templates/account/confirm-bill.php:141
 msgid "Подтверждение счета №"
@@ -6625,8 +6625,8 @@ msgid ""
 "Чтобы подтвердить оплату счета на безналичный банковский перевод - введите входящие реквизиты платежного поручения. <strong>Например, №123 "
 "от 16.02.2011</strong>"
 msgstr ""
-"To confirm payment account for non-cash bank transfer enter incoming payment order details. <strong>For example, no. 123 from 16.02.2011</"
-"strong>"
+"To confirm payment account for non-cash bank transfer enter incoming payment order details. <strong>For example, #123 from 16.02.2011"
+"</strong>"
 
 #: templates/account/confirm-bill.php:144
 msgid "от"
@@ -6638,27 +6638,27 @@ msgstr "confirm invoice"
 
 #: templates/account/subaccount_save.php:18 templates_orig/account/subaccount_save.php:18
 msgid "Здравствуйте!"
-msgstr "Dear Customer,"
+msgstr "Hello!"
 
 #: templates/account/subaccount_save.php:19 templates_orig/account/subaccount_save.php:19
 msgid "Это письмо пришло вам, потому что для вас был создан субаккаунт на сервисе "
-msgstr "This email came you, because you had created a subaccount"
+msgstr "This email came you, because you had created a subaccount "
 
 #: templates/account/subaccount_save.php:20 templates_orig/account/subaccount_save.php:20
 msgid "Ваш логин: "
-msgstr "Your username"
+msgstr "Your username "
 
 #: templates/account/subaccount_save.php:21 templates_orig/account/subaccount_save.php:21
 msgid "Ваш пароль: "
-msgstr "Your password:"
+msgstr "Your password: "
 
 #: templates/account/subaccount_save.php:22 templates_orig/account/subaccount_save.php:22
 msgid "С уважением, администрация "
-msgstr "Sincerely, administration"
+msgstr "Sincerely, administration "
 
 #: templates/account/subaccount_save.php:23 templates_orig/account/subaccount_save.php:23
 msgid "администрация "
-msgstr "administration"
+msgstr "administration "
 
 #: templates/account/subaccount_save.php:25 templates_orig/account/subaccount_save.php:25
 msgid "Вам создан субаккаунт"
@@ -6696,7 +6696,7 @@ msgstr "£"
 
 #: templates/account/company_plans.php:113 templates/account/company_plans.php:282 templates/account/plans.php:176
 msgid " - больше"
-msgstr "-more"
+msgstr " - more"
 
 #: templates/account/company_plans.php:114 templates/account/company_plans.php:283 templates/account/plans.php:177
 msgid "по запросу"
@@ -6721,7 +6721,7 @@ msgstr "prepay the amount"
 
 #: templates/account/company_plans.php:140 templates/account/company_plans.php:337
 msgid "коп./email)"
-msgstr "penny/email"
+msgstr "penny/email)"
 
 #: templates/account/company_plans.php:154
 msgid "Add new monthly payment"
@@ -6745,7 +6745,7 @@ msgstr "1. to add a monthly plan fill-in 3 fields and click \"add plan\"-it will
 
 #: templates/account/company_plans.php:179 templates/account/company_plans.php:312
 msgid "2. Чтобы добавить бесплатный план - введите в поле \"Месячный платеж\" цифру \"0\"."
-msgstr "2. To add a free plan-enter digit \"0\"  into the \"monthly payment\" field "
+msgstr "2. To add a free plan-enter digit \"0\"  into the \"monthly payment\" field."
 
 #: templates/account/company_plans.php:180 templates/account/company_plans.php:313
 msgid "3. Не может быть больше одного бесплатного плана"
@@ -6813,7 +6813,7 @@ msgstr "Monthly plans"
 
 #: templates/account/company_plans.php:259 templates/account/plans.php:71 templates/account/plans.php:160
 msgid "Всего подписчиков"
-msgstr "Total subscribers:"
+msgstr "Total subscribers"
 
 #: templates/account/company_plans.php:260 templates/account/plans.php:161
 msgid "Всего писем"
@@ -6821,7 +6821,7 @@ msgstr "Total emails"
 
 #: templates/account/company_plans.php:261 templates/account/company_plans.php:296
 msgid "Месячный&nbsp;Платеж (руб.)"
-msgstr "Month &nbsp; payment (£)"
+msgstr "Month &nbsp;Payment (£)"
 
 #: templates/account/company_plans.php:289
 msgid "Добавить новый месячный тарифный план"
@@ -6865,19 +6865,19 @@ msgstr "Configure a discount for the customer"
 
 #: templates/account/company_plans.php:366
 msgid "Скидка:"
-msgstr "Product Discount"
+msgstr "Product Discount:"
 
 #: templates/account/company_plans.php:367
 msgid "До какого времени действует:"
-msgstr "Up to a time"
+msgstr "Up to a time:"
 
 #: templates/account/company_plans.php:369
 msgid "* если поле времени пустое - скидка бессрочная"
-msgstr "* If time field is empty-discount perpetual"
+msgstr "* If time field is empty - discount perpetual"
 
 #: templates/account/campaigns.php:60 templates/account/campaigns.php:102 templates_orig/account/campaigns.php:15
 msgid "Похоже, ваши клиенты еще не создавали рассылок."
-msgstr "It looks like your customers have not yet created any campaigns"
+msgstr "It looks like your customers have not yet created any campaigns."
 
 #: templates/account/campaigns.php:88 templates_orig/account/campaigns.php:66
 msgid "Задайте причину отказа в модерировании"
@@ -6997,7 +6997,7 @@ msgstr "Bank details"
 
 #: templates/account/company_details.php:111
 msgid "ИНН"
-msgstr "INN:"
+msgstr "INN"
 
 #: templates/account/company_details.php:116
 msgid "КПП"
