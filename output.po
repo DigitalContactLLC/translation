@@ -7991,11 +7991,11 @@ msgstr "indefinitely"
 
 #: templates/account/plans.php:151
 msgid "до "
-msgstr "to"
+msgstr "to "
 
 #: templates/account/plans.php:151
 msgid " по МСК"
-msgstr "on MSK"
+msgstr " on MSK"
 
 #: templates/account/plans.php:156
 msgid "Вы часто отправляете письма (хотя бы раз в месяц)? Тогда месячный план это наиболее экономный вариант. Подробности читайте на сайте"
@@ -8020,11 +8020,11 @@ msgstr "Your plan:"
 
 #: templates/account/plans.php:183
 msgid "Бесплатно. "
-msgstr "It's free."
+msgstr "It's free. "
 
 #: templates/account/plans.php:183
 msgid "подписчиков. "
-msgstr "subscribers."
+msgstr "subscribers. "
 
 #: templates/account/plans.php:183
 msgid "Осталось на балансе:"
@@ -8032,7 +8032,7 @@ msgstr "Left on balance:"
 
 #: templates/account/plans.php:183
 msgid "писем."
-msgstr " emails"
+msgstr "emails"
 
 #: templates/account/plans.php:183 templates/account.php:78 templates/account.php:81 templates/account.php:171 templates/account.php:174
 #: templates_orig/account.php:72 templates_orig/account.php:75
@@ -8045,11 +8045,11 @@ msgstr "Just emails:"
 
 #: templates/account/plans.php:183
 msgid " шт."
-msgstr "pcs."
+msgstr " pcs."
 
 #: templates/account/plans.php:188
 msgid "...или платите просто за письма"
-msgstr "... or pay just for emails"
+msgstr "...or pay just for emails"
 
 #: templates/account/plans.php:189
 msgid ""
@@ -8077,7 +8077,7 @@ msgstr "Emails"
 
 #: templates/account/plans.php:236
 msgid "коп./письмо)"
-msgstr "penny/email"
+msgstr "penny/email)"
 
 #: templates/account/plans.php:237 templates/account/plans.php:246
 msgid "заказать"
@@ -8089,7 +8089,7 @@ msgstr "Buy as many emails, as it is necessary:"
 
 #: templates/account/plans.php:245
 msgid "<- Введите количество писем"
-msgstr "<-Enter the number of emails"
+msgstr "<- Enter the number of emails"
 
 #: templates/account/plans.php:254
 msgid "Вы юридическое лицо?"
@@ -8111,7 +8111,7 @@ msgstr ""
 
 #: templates/account/plans.php:261
 msgid "Выбрать способ оплаты"
-msgstr "Select Payment Term"
+msgstr "Select payment term"
 
 #: templates/account/plans.php:262
 msgid "Важная информация об оплате"
@@ -8119,35 +8119,35 @@ msgstr "Important payment information"
 
 #: templates/account/stripe.php:24
 msgid "Your subscription is cancelled .</strong> Account is set to a Forever Free Plan.</p>"
-msgstr "Your subscription is cancelled.</strong>  The account is set to a Forever Free Plan.<p>"
+msgstr "Your subscription is cancelled.</strong> The account is set to a Forever Free Plan.<p>"
 
 #: templates/account/stripe.php:61
 msgid "£8.00"
-msgstr "£ 8.00"
+msgstr "£8.00"
 
 #: templates/account/stripe.php:67
 msgid "£14.00"
-msgstr "£ 14.00"
+msgstr "£14.00"
 
 #: templates/account/stripe.php:73
 msgid "£30.00"
-msgstr "£ 30.00"
+msgstr "£30.00"
 
 #: templates/account/stripe.php:79
 msgid "£45.00"
-msgstr "£ 45.00"
+msgstr "£45.00"
 
 #: templates/account/stripe.php:85
 msgid "£90.00"
-msgstr "£ 90.00"
+msgstr "£90.00"
 
 #: templates/account/stripe.php:91
 msgid "£175.00"
-msgstr "£ 175.00"
+msgstr "£175.00"
 
 #: templates/account/stripe.php:96
 msgid "Pay-As-You-Go Emails: "
-msgstr "Pay-As-You-Go Emails:"
+msgstr "Pay-As-You-Go Emails: "
 
 #: templates/account/stripe.php:99
 msgid "You can"
@@ -8159,11 +8159,11 @@ msgstr "cancel your subscription"
 
 #: templates/account/stripe.php:99
 msgid " at any time."
-msgstr "at any time."
+msgstr " at any time."
 
 #: templates/account/stripe.php:101
 msgid "Current subscription has been set to "
-msgstr "Current subscription has been set to"
+msgstr "Current subscription has been set to "
 
 #: templates/account/stripe.php:101
 msgid "cancel"
@@ -8171,7 +8171,7 @@ msgstr "cancel"
 
 #: templates/account/stripe.php:101
 msgid " at the end of the billing period. It will be active till "
-msgstr "at the end of the billing period. It will be active till"
+msgstr " at the end of the billing period. It will be active till "
 
 #: templates/account/stripe.php:101
 msgid "May be, you want to"
@@ -8183,11 +8183,11 @@ msgstr "renew subscription?"
 
 #: templates/account/stripe.php:160
 msgid " pence/email)"
-msgstr "pence/email)"
+msgstr " pence/email)"
 
 #: templates/account/stripe.php:180
 msgid " pence/email"
-msgstr "pence/email"
+msgstr " pence/email"
 
 #: templates/account/affiliate.php:22
 msgid "Вознаграждения от Печкина"
@@ -8200,7 +8200,7 @@ msgstr "earned this month"
 #: templates/account/affiliate.php:26 templates/account/affiliate.php:32 templates/account/affiliate.php:33
 #: templates/account/affiliate.php:34 templates/account/affiliate.php:98 templates/account/affiliate.php:127
 msgid "pуб."
-msgstr "Pub."
+msgstr "rub."
 
 #: templates/account/affiliate.php:28
 msgid "рефералов"
@@ -8208,7 +8208,7 @@ msgstr "referrals"
 
 #: templates/account/affiliate.php:32
 msgid "всего"
-msgstr "Total"
+msgstr "total"
 
 #: templates/account/affiliate.php:33
 msgid "на балансе"
@@ -8250,7 +8250,7 @@ msgstr "Date of registration"
 
 #: templates/account/affiliate.php:50
 msgid "Тип ссылки"
-msgstr "Link type."
+msgstr "Link type"
 
 #: templates/account/affiliate.php:60
 msgid "Заблокирован за спам"
@@ -8262,7 +8262,7 @@ msgstr "inactive"
 
 #: templates/account/affiliate.php:61
 msgid "ссылка внешняя"
-msgstr " external link"
+msgstr "external link"
 
 #: templates/account/affiliate.php:67
 msgid "Добавьте ссылку на Печкина в своем блоге, сайте или социальной сети и зацените его щедрость!"
@@ -8282,15 +8282,15 @@ msgstr "Order description"
 
 #: templates/account/affiliate.php:80
 msgid "Реферал"
-msgstr "Referral "
+msgstr "Referral"
 
 #: templates/account/affiliate.php:89
 msgid "Месячный план."
-msgstr "'Monthly plan"
+msgstr "Monthly plan."
 
 #: templates/account/affiliate.php:89
 msgid "подписчиков."
-msgstr "subscribers"
+msgstr "subscribers."
 
 #: templates/account/affiliate.php:92 templates/account/affiliate.php:94
 msgid "Пакет из"
@@ -8298,7 +8298,7 @@ msgstr "The package of"
 
 #: templates/account/affiliate.php:92 templates/account/affiliate.php:94
 msgid "email-кредитов."
-msgstr "email-credits"
+msgstr "email-credits."
 
 #: templates/account/affiliate.php:106
 msgid "25% от суммы платежей будут автоматически начислены на ваш аккаунт"
@@ -8334,7 +8334,7 @@ msgstr "To place your referral link in the text of your message, you can use the
 
 #: templates/account/affiliate.php:144
 msgid "Сервис легальных email-рассылок от Печкина"
-msgstr "Service  of legal email newsletters from MailWheel"
+msgstr "Service of legal email newsletters from MailWheel"
 
 #: templates/account/affiliate.php:147
 msgid "Правила и Подробные Условия"
@@ -8390,7 +8390,7 @@ msgstr "Ratings and antispam methods for"
 
 #: templates/account/moderation-dialog.php:138
 msgid "Домен отправки данного клиента заблокирован со стороны Mailgun."
-msgstr "Sending domain of  this customer is blocked by Mailgun."
+msgstr "Sending domain of this customer is blocked by Mailgun."
 
 #: templates/account/moderation-dialog.php:138
 msgid "Разблокировать домен клиента на Печкине"
@@ -8417,7 +8417,7 @@ msgid ""
 "Класс клиента определяет те роутеры, через которые пойдет рассылка. Чем круче класс, тем качественнее и быстрее роутеры. Класс "
 "определяется автоматически в зависимости от параметров \"возвраты\", \"нажатия на спам\", \"клики\", \"открытия\""
 msgstr ""
-"Client class  identifies the routers through which the link  will be sent. The ooler the grade is, the better and faster the routers are. "
+"Client class  identifies the routers through which the link  will be sent. The cooler the grade is, the better and faster the routers are. "
 "Class is determined automatically depending on the parameters of \"bounces\", \"clicking on spam\", \"clickes\", \"openings\""
 
 #: templates/account/moderation-dialog.php:145
@@ -8434,7 +8434,7 @@ msgstr "clicking \"this is spam\""
 
 #: templates/account/moderation-dialog.php:147
 msgid "открытия"
-msgstr "Openings"
+msgstr "openings"
 
 #: templates/account/moderation-dialog.php:147
 msgid "клики"
@@ -8474,7 +8474,7 @@ msgstr "Dear"
 
 #: templates/account/password_save.php:70
 msgid "This letter came to you because you sent a request to change the login for the service "
-msgstr "This letter came to you because you sent a request to change the login for the service"
+msgstr "This letter came to you because you sent a request to change the login for the service "
 
 #: templates/account/password_save.php:71 templates_orig/account/password_save.php:60
 msgid "Для смены логина перейдите по"
@@ -8484,7 +8484,7 @@ msgstr "To change the login click on"
 #: templates/lists/confsub.php:294 subscribe/mail_functions.php:26 subscribe/mail_functions.php:99
 #: templates_orig/account/password_save.php:60 templates_orig/account/password_save.php:76 templates_orig/lists/confsub.php:44
 msgid "этой ссылке"
-msgstr "This link"
+msgstr "this link"
 
 #: templates/account/password_save.php:72 templates/account/password_save.php:88 templates_orig/account/password_save.php:61
 #: templates_orig/account/password_save.php:77
@@ -8497,11 +8497,11 @@ msgstr "Request to change username"
 
 #: templates/account/password_save.php:85 templates_orig/account/password_save.php:74
 msgid "Уважаемый(ая) "
-msgstr "Dear"
+msgstr "Dear "
 
 #: templates/account/password_save.php:86
 msgid "This letter came to you because you sent a request to change the password for the service "
-msgstr "This letter came to you because you sent a request to change the password for the service"
+msgstr "This letter came to you because you sent a request to change the password for the service "
 
 #: templates/account/password_save.php:87 templates_orig/account/password_save.php:76
 msgid "Для смены пароля перейдите по"
@@ -8513,7 +8513,7 @@ msgstr "Request for change password"
 
 #: templates/account/pricesup.php:8
 msgid "Успейте до 31 декабря 2014 года!"
-msgstr "Hurry up before December 31, 2014 !"
+msgstr "Hurry up before December 31, 2014!"
 
 #: templates/account/pricesup.php:9
 msgid ""
@@ -8551,11 +8551,11 @@ msgstr "If you pay for 12 months i at once in January 2015 you will pay 20% less
 
 #: templates/account/pricesup.php:17
 msgid "А оплатив этот тариф сразу на год до 31 декабря 2014 года вы заплатите всего 14400 рублей"
-msgstr "And if you pay for the  whole year immediately prior to December 31, 2014 you pay just 14400 rubles"
+msgstr "And if you pay for the whole year immediately prior to December 31, 2014 you pay just 14400 rubles"
 
 #: templates/account/pricesup.php:18
 msgid "Ваша экономия составит от 5760 до 10800 рублей"
-msgstr "Your savings will be from  5760 to 10800 rubles"
+msgstr "Your savings will be from 5760 to 10800 rubles"
 
 #: templates/account/pricesup.php:20
 msgid "Не упускайте свою выгоду! Оплачивайте письма прямо сейчас!"
@@ -8622,11 +8622,11 @@ msgstr "Apparently you have not yet had any activity on your account."
 
 #: templates/account/history.php:37 templates_orig/account/history.php:27
 msgid "Дата активности"
-msgstr "Date of activity"
+msgstr "Activity date"
 
 #: templates/account/history.php:38 templates_orig/account/history.php:28
 msgid "Тип активности"
-msgstr "Type of activity"
+msgstr "Activity type"
 
 #: templates/account/history.php:40 templates_orig/account/history.php:30
 msgid "Подробности"
@@ -8666,7 +8666,7 @@ msgstr "Change of bank details"
 
 #: templates/account/history.php:67
 msgid "Операционная система"
-msgstr "Platform / OS:"
+msgstr "Platform/OS"
 
 #: templates/account/history.php:67
 msgid "Браузер"
@@ -8686,19 +8686,19 @@ msgstr "-Monthly rate plans-"
 
 #: templates/account/create-bill.php:38
 msgid " рублей - Месячный план на "
-msgstr "Monthly plan"
+msgstr "  rubles - Monthly plan for "
 
 #: templates/account/create-bill.php:40
 msgid "---Кредитные тарифные планы---"
-msgstr "-Credit plans"
+msgstr "-Credit plans-"
 
 #: templates/account/create-bill.php:42
 msgid " рублей - "
-msgstr "£"
+msgstr "£ - "
 
 #: templates/account/create-bill.php:44
 msgid "---Разное---"
-msgstr "Misc"
+msgstr "-Misc-"
 
 #: templates/account/create-bill.php:45
 msgid "Произвольный платеж"
@@ -8706,15 +8706,15 @@ msgstr "Random payment"
 
 #: templates/account/create-bill.php:48
 msgid "Назначение платежа: "
-msgstr "Purpose of Payment:"
+msgstr "Purpose of Payment: "
 
 #: templates/account/create-bill.php:49
 msgid "Сумма платежа: "
-msgstr "Payment Amount"
+msgstr "Payment Amount: "
 
 #: templates/account/create-bill.php:52
 msgid "выписать счет"
-msgstr "Issue Invoice"
+msgstr "issue invoice"
 
 #: templates/account/billing.php:38 templates_orig/account/billing.php:25
 msgid "Текущий истек"
@@ -8722,11 +8722,11 @@ msgstr "Current expired"
 
 #: templates/account/billing.php:38 templates_orig/account/billing.php:25
 msgid "Через 3 дня аккаунт будет переведен в режим \"Бесплатный\"."
-msgstr "Over 3 days, the account will be transferred to the \"free\" mode."
+msgstr "Over 3 days, the account will be transferred to the \"Free\" mode."
 
 #: templates/account/delete-bill.php:32
 msgid "Действительно хотите удалить счет №"
-msgstr "Sure you want to delete the account no."
+msgstr "Sure you want to delete the account #"
 
 #: templates/account/robokassa.php:20
 msgid "Настройка платежных реквизитов"
@@ -8742,15 +8742,15 @@ msgstr "Your bank details for wire transfer"
 
 #: templates/account/robokassa.php:26
 msgid "логин в ROBOKASSA"
-msgstr "login Robokassa"
+msgstr "login ROBOKASSA"
 
 #: templates/account/robokassa.php:28
 msgid "пароль №1 от ROBOKASSA"
-msgstr "password # 1 from ROBOKASSA"
+msgstr "password #1 from ROBOKASSA"
 
 #: templates/account/robokassa.php:30
 msgid "пароль №2 от ROBOKASSA"
-msgstr "password # 2 from ROBOKASSA"
+msgstr "password #2 from ROBOKASSA"
 
 #: templates/account/robokassa.php:38
 msgid "Что такое Robokassa и с чем ее едят?"
@@ -8777,11 +8777,11 @@ msgstr ""
 
 #: templates/account/choose_payment.php:22
 msgid "<b>Улучшение:</b> "
-msgstr "<b>Improvement:</b>"
+msgstr "<b>Improvement:</b> "
 
 #: templates/account/choose_payment.php:48
 msgid "Месячный план на "
-msgstr "Monthly plan"
+msgstr "Monthly plan "
 
 #: templates/account/choose_payment.php:51 templates/account/choose_payment.php:53 templates/main/main.php:300
 #: templates_orig/main/main.php:216
@@ -8794,7 +8794,7 @@ msgstr "Improvement"
 
 #: templates/account/choose_payment.php:81
 msgid "Годовой тарифный план на "
-msgstr "The annual plan"
+msgstr "The annual plan "
 
 #: templates/account/choose_payment.php:88
 msgid "Выберите способ оплаты счета"
@@ -8802,7 +8802,7 @@ msgstr "Choose your form of payment"
 
 #: templates/account/choose_payment.php:89
 msgid "Срок оплаты:"
-msgstr "Payment Term"
+msgstr "Payment term:"
 
 #: templates/account/choose_payment.php:91
 msgid "1 месяц"
@@ -8854,7 +8854,7 @@ msgstr "(20%) discount"
 
 #: templates/account/choose_payment.php:101
 msgid "У меня есть купон на скидку. "
-msgstr "I have a discount coupon."
+msgstr "I have a discount coupon. "
 
 #: templates/account/choose_payment.php:103
 msgid "Код купона:"
@@ -8863,7 +8863,7 @@ msgstr "Coupon Code:"
 #: templates/account/choose_payment.php:103 templates/lists/members.php:188 templates/lists/members.php:374
 #: templates/lists/bulk-action-confirm.php:16 templates_orig/lists/members.php:103 templates_orig/lists/bulk-action-confirm.php:16
 msgid "активировать"
-msgstr "Activate"
+msgstr "activate"
 
 #: templates/account/choose_payment.php:107
 msgid "* Цена расчитана с учетом скидки"
@@ -8923,7 +8923,7 @@ msgstr "Single waist"
 
 #: templates/account/choose_payment.php:131
 msgid "RBK Money"
-msgstr "Rbk Money"
+msgstr "RBK Money"
 
 #: templates/account/choose_payment.php:131
 msgid "Как платить?"
