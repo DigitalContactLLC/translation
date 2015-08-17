@@ -12026,12 +12026,12 @@ msgid ""
 "'Внимание! Создание рассылки невозможно, поскольку количество подписчиков в ваших адресных базах превышает допустимое на вашем тарифном "
 "плане. Необходимо выбрать другой тарифный план или удалить часть подписчиков.'"
 msgstr ""
-"Attention! Creating a campaign is not possible, because the number of subscribers in your lists larger than allowed by your plan. You need "
-"to select another plan or reduce amount of subscribers."
+"'Attention! Creating a campaign is not possible, because the number of subscribers in your lists larger than allowed by your plan. You need "
+"to select another plan or reduce amount of subscribers.'"
 
 #: templates_orig/main/main.php:215
 msgid "отправляйте 100 получателям 500 писем в месяц"
-msgstr "sent 500 emails to 100 recipients a month "
+msgstr "sent 500 emails to 100 recipients a month"
 
 #: templates_orig/main/main.php:224
 msgid "Интеграции"
@@ -12079,7 +12079,7 @@ msgstr "through via MailWheel.co.uk"
 
 #: templates_orig/main/main.php:252
 msgid "это просто"
-msgstr "It's a simple as that."
+msgstr "It's simple"
 
 #: templates_orig/main/main.php:254 templates_orig/main/main.php:255 templates_orig/main/main.php:256
 msgid "вперед"
@@ -12095,7 +12095,7 @@ msgstr "Statistics"
 
 #: templates_orig/header_wizard_split.php:96
 msgid "задайте общие настройки a/b-тестирования"
-msgstr "specify the general settings for  A/B campaings"
+msgstr "specify the general settings for A/B campaings"
 
 #: templates_orig/header_wizard_split.php:97
 msgid "создайте рассылки для тестирования"
@@ -12135,7 +12135,7 @@ msgstr "Upgrade plan"
 
 #: registration4.php:13 registration4.php:74 login.php:111
 msgid "Зарегистрироваться"
-msgstr "Who is registered?"
+msgstr "Get registered"
 
 #: registration4.php:98 signup.php:48
 msgid "Sign up in 30 seconds"
@@ -12143,7 +12143,7 @@ msgstr "Sign up in 30 seconds"
 
 #: registration4.php:100 signup.php:49
 msgid "The Forever Free Plan"
-msgstr "Forever Free"
+msgstr "Forever Free Plan"
 
 #: registration4.php:101 signup.php:50
 msgid "Send up to 12,000 emails per month"
@@ -12155,7 +12155,7 @@ msgstr "No contracts"
 
 #: registration4.php:103 signup.php:52
 msgid "No credit card required"
-msgstr "Credit card number"
+msgstr "No credit card required"
 
 #: registration4.php:114 signup.php:56
 msgid "Try MailWheel for free"
@@ -12179,7 +12179,7 @@ msgstr "Log in here."
 
 #: registration4.php:142
 msgid "By clicking next button, you agree to "
-msgstr "By clicking next button, you agree to"
+msgstr "By clicking next button, you agree to "
 
 #: registration4.php:142
 msgid "Anti-spam Policy &amp; Terms of Use"
@@ -12203,7 +12203,7 @@ msgstr "Block images"
 
 #: litmus/test_pme_adaptive.php:45 litmus/test_pme.php:53 litmus/test.php:56
 msgid "Показать изображения"
-msgstr "show images"
+msgstr "Show images"
 
 #: litmus/test_pme_adaptive.php:54 litmus/test_pme.php:66 litmus/test.php:69
 msgid "Результаты данного тестирования не актуальны для вас"
@@ -12219,7 +12219,7 @@ msgstr "Proceed to results"
 
 #: litmus/test_pme_adaptive.php:55 litmus/test_pme.php:67 litmus/test.php:70
 msgid "тестирования вашей рассылки"
-msgstr "Campaign testing"
+msgstr "campaign testing"
 
 #: litmus/test_pme_adaptive.php:66 litmus/test_pme.php:78 litmus/test.php:81
 msgid "Простите, у нас проблемы с фотографированием этого скриншота."
@@ -12251,7 +12251,7 @@ msgstr "Next screenshot"
 
 #: litmus/test_pme.php:38 litmus/test.php:38
 msgid "Переключить вид"
-msgstr "switch View"
+msgstr "Switch view"
 
 #: litmus/test_pme.php:39 litmus/test.php:39
 msgid "Включить/выключить картинки (если возможно)"
@@ -12259,7 +12259,7 @@ msgstr "Activate/deasctivate images (if possible)"
 
 #: litmus/test_pme.php:83 litmus/test.php:86
 msgid "Пожалуйста, подождите"
-msgstr "Please wait ..."
+msgstr "Please wait"
 
 #: litmus/test_pme.php:83 litmus/test.php:86
 msgid "Мы все еще фотографируем этот скриншот"
@@ -12275,11 +12275,11 @@ msgstr "reload the page"
 
 #: check2.php:9
 msgid "Не допускается использовать кавычки"
-msgstr "This address will be used as?"
+msgstr "Quotes not allowed"
 
 #: check2.php:12
 msgid "Такой логин уже зарегистрирован"
-msgstr "Who is registered?"
+msgstr "This login is taken"
 
 #: new-user.php:87
 msgid "Начнем, пожалуй!"
@@ -12291,7 +12291,7 @@ msgstr "Dear Customer,"
 
 #: new-user.php:216
 msgid "в сервисе рассылки электронной почты"
-msgstr "please fill this form."
+msgstr "please fill this form"
 
 #: new-user.php:217
 msgid "Настройте ваш аккаунт за"
@@ -12315,7 +12315,7 @@ msgstr "AntiSpam agreement"
 
 #: new-user.php:292 new-user.php:295
 msgid "область/провинция/регион"
-msgstr "province/state/region:"
+msgstr "province/state/region"
 
 #: new-user.php:338
 msgid "Организация"
@@ -12323,7 +12323,7 @@ msgstr "Company/Organization"
 
 #: new-user.php:368
 msgid "далее"
-msgstr "Next"
+msgstr "next"
 
 #: registration.php:19 registration.php:157
 msgid "Регистрация"
@@ -12355,11 +12355,11 @@ msgstr "Email for contact:"
 
 #: login.php:139
 msgid "ваш логин"
-msgstr "Your username"
+msgstr "your username"
 
 #: login.php:143
 msgid "выслать пароль"
-msgstr "New password"
+msgstr "sent password"
 
 #: login.php:177
 msgid "забыли пароль"
@@ -12399,7 +12399,7 @@ msgstr "Please, check your inbox."
 
 #: signup_success.php:54
 msgid "Click on "
-msgstr "Click on"
+msgstr "Click on "
 
 #: signup_success.php:54
 msgid "confirm your email address"
@@ -12407,7 +12407,7 @@ msgstr "confirm your email address"
 
 #: signup_success.php:54
 msgid " in the message we just sent to you."
-msgstr "in the message we just sent to you."
+msgstr " in the message we just sent to you."
 
 #: signup_success.php:63
 msgid "What will happen after I activate my account?"
@@ -12432,7 +12432,7 @@ msgid ""
 "month. Email credits have no limitations on number of subscribers in your lists. All paid accounts have access to "
 msgstr ""
 "If you have large list you can always subscribe to monthly plan or purchase email credits. Month plans have no limitations on emails sent "
-"per month. Email credits have no limitations on the number of subscribers in your lists. All paid accounts have access to"
+"per month. Email credits have no limitations on the number of subscribers in your lists. All paid accounts have access to "
 
 #: signup_success.php:69
 msgid "Inbox preview"
@@ -12440,7 +12440,7 @@ msgstr "preview"
 
 #: signup_success.php:69
 msgid "Spam Doctor</a> and can attach files up to 5Mb to any campaign."
-msgstr "Spam Doctor and can attach files up to 5 MB to any campaign."
+msgstr "Spam Doctor</a> and can attach files up to 5 MB to any campaign."
 
 #: signup_success.php:70
 msgid "Show me plans"
@@ -12448,7 +12448,7 @@ msgstr "Show me plans"
 
 #: signup_success.php:81
 msgid "All Rights Reserved. MailWheel®"
-msgstr "All Rights Reserved. MailWheel ®"
+msgstr "All Rights Reserved. MailWheel®"
 
 #: activate.php:18
 msgid "Вы подтвердили свой email. Можете зайти в свой аккаунт."
@@ -12480,11 +12480,11 @@ msgstr "awaiting"
 
 #: spamtester/results.php:25
 msgid "обновить результаты"
-msgstr "Refresh results"
+msgstr "refresh results"
 
 #: new_templates/step2.php:564
 msgid "Drag&Drop your zip-archive containing html here"
-msgstr "Drag & Drop your zip-archive containing html here"
+msgstr "Drag&Drop your zip-archive containing html here"
 
 #: signup.php:62
 msgid "Password (at least 6 symbols)"
@@ -12496,15 +12496,15 @@ msgstr "Email"
 
 #: signup.php:65
 msgid "By clicking next button, you agree to <a href=\"#\">Anti-spam Policy & Terms of Use"
-msgstr "By clicking next button, you agree to <a href=\"#\">the anti-spam Policy & Terms of Use</a>"
+msgstr "By clicking next button, you agree to <a href=\"#\">the anti-spam Policy & Terms of Use"
 
 #: signup.php:66
 msgid "Create my account"
-msgstr "prepay the amount"
+msgstr "Create my account"
 
 #: signup.php:68
 msgid "Already have an account? "
-msgstr "Already have an account?"
+msgstr "Already have an account? "
 
 #: signup.php:68
 msgid "Login here."
@@ -12546,3 +12546,4 @@ msgstr "Login here."
 
 #~ msgid "Рассылка )<b>"
 #~ msgstr "Campaing )<b>"
+
