@@ -609,7 +609,7 @@ msgid ""
 "<b>Внимание!</b> Вы выбрали \"учет местного времени подписчиков\" и собираетесь отправить рассылку раньше, чем через 8 часов. Это значит, "
 "что получатели, например, на Камчатке начнут получать вашу рассылку прямо сейчас. Учитывайте это при своем планировании."
 msgstr ""
-"<b>Warning!</b>You have chosen \"based on local time of subscribers' and are going to send email earlier than 8 hours. This means that the "
+"<b>Warning!</b>You have chosen \"based on local time of subscribers\" and are going to send email earlier than 8 hours. This means that the "
 "recipients, for example, in Kamchatka will start receiving your newsemail right now. Keep this in mind when planning your campaign."
 
 #: wizard_new/step5.php:591 wizard_new/step5.php:596
@@ -639,7 +639,7 @@ msgstr "How to add a link to unsubscribe?"
 #: wizard_new/step5.php:624
 msgid "Ссылка \"отписаться\" - обязательна для ваших подписчиков, чтобы они могли отписаться одним кликом от получения ваших рассылок."
 msgstr ""
-"Link \"unsubscribe\" - obligatory for your subscribers so that they can unsubscribe with a single click  from receiving your campaigns."
+"Link \"unsubscribe\" is obligatory for your subscribers so that they can unsubscribe with a single click  from receiving your campaigns."
 
 #: wizard_new/step5.php:625
 msgid "HTML-версия письма"
@@ -647,7 +647,7 @@ msgstr "HTML-version of the email"
 
 #: wizard_new/step5.php:626
 msgid "Вставить ссылку \"отписаться\" в html-версию с помощью online-редактора можно следующим образом:"
-msgstr "Paste the link \"unsubscribe\" in a html-version via online-editor as follows:"
+msgstr "Paste the link \"unsubscribe\" in a html-version via online-editor in the following way:"
 
 #: wizard_new/step5.php:627
 msgid "Выбрать блок для редактирования, обычно это нижний - нажать \"редактировать\""
@@ -655,7 +655,7 @@ msgstr "Select a block for editing, it is usually the lower one- click \"edit\""
 
 #: wizard_new/step5.php:628
 msgid "Слева в панельке есть выпадающий список \"Вставить\"."
-msgstr "On the left the panel has a drop-down list \"Paste\"."
+msgstr "On the left panel there is a drop-down list \"Paste\"."
 
 #: wizard_new/step5.php:629
 msgid ""
@@ -678,7 +678,7 @@ msgstr "%UNSUBSCRIBE%"
 
 #: wizard_new/step5.php:631
 msgid "внизу письма. Например, \"Вы можете отписаться от получения рассылок по ссылке %ОТПИСАТЬСЯ%\"."
-msgstr "at the bottom of the email. For example, \"You can unsubscribe from campaign with the %UNSUBSCRIBE% \"."
+msgstr "at the bottom of the email. For example, \"You can unsubscribe from campaign using the %UNSUBSCRIBE% link \"."
 
 #: wizard_new/step5.php:651 wizard_split/step3.php:113
 msgid "Подтверждение отправки"
@@ -698,7 +698,7 @@ msgstr "lists"
 
 #: wizard_new/step5.php:655 wizard/footer.php:229 wizard_split/step3.php:116
 msgid "адресной базы"
-msgstr "list"
+msgstr "address list"
 
 #: wizard_new/step5.php:660
 msgid "Ограничить количество получателей"
@@ -755,7 +755,7 @@ msgstr "Content analysis in the blacklists"
 
 #: wizard_new/step5.php:705
 msgid "Слова с CAPS LOCK"
-msgstr "Caps lock"
+msgstr "Words with CAPS LOCK"
 
 #: wizard_new/step5.php:706
 msgid "Нежелательные слова"
@@ -824,7 +824,7 @@ msgstr "Gender of subscribers"
 #: wizard_split/op_segments.php:35 wizard_split/op_segments.php:46 wizard_split/op_segments.php:56 wizard_split/op_segments.php:65
 #: wizard_split/op_segments.php:74 wizard_split/add_condition.php:47
 msgid "равно"
-msgstr "is"
+msgstr "equals"
 
 #: wizard_new/segment.php:94 wizard_new/segment.php:106 wizard_new/segment.php:109 wizard_new/segment.php:120 wizard_new/segment.php:130
 #: wizard_new/segment.php:138 wizard_new/segment.php:146 wizard_new/segment.php:313 wizard_new/segment.php:325 wizard_new/segment.php:328
@@ -842,7 +842,7 @@ msgstr "is"
 #: wizard_split/op_segments.php:36 wizard_split/op_segments.php:47 wizard_split/op_segments.php:57 wizard_split/op_segments.php:66
 #: wizard_split/op_segments.php:75 wizard_split/add_condition.php:48
 msgid "не равно"
-msgstr "is not"
+msgstr "does not equal"
 
 #: wizard_new/segment.php:95 wizard_new/segment.php:121 wizard_new/segment.php:314 wizard_new/segment.php:340 wizard_new/op_segments.php:22
 #: wizard_new/op_segments.php:48 wizard_new/add_condition.php:50 wizard_new/add_condition.php:102 wizard/action/segment.php:123
@@ -978,7 +978,7 @@ msgstr "Please wait..."
 
 #: wizard_new/segment.php:305 wizard/action/segment.php:114
 msgid "Устройства и клиенты"
-msgstr "Device and Clients"
+msgstr "Devices and Clients"
 
 #: wizard_new/segment.php:394 wizard_new/value_segments.php:54
 msgid "PC"
@@ -1042,7 +1042,7 @@ msgstr "Enter email subject"
 
 #: wizard_new/step4.php:79 wizard_new/step4.php:399 wizard/step4.php:45
 msgid "Должно соответствовать содержанию письма и не отталкивать"
-msgstr "It should match the content of the email and not be repelling"
+msgstr "It should match the content of the email and should not be repelling"
 
 #: wizard_new/step4.php:85 wizard_new/step4.php:402
 msgid "от кого письмо?"
@@ -1098,11 +1098,11 @@ msgstr "Tracking, social, etc."
 
 #: wizard_new/step4.php:159 wizard_new/step4.php:430
 msgid "следить за открыванием"
-msgstr "tracking the opening"
+msgstr "track the openings"
 
 #: wizard_new/step4.php:160 wizard_new/step4.php:431
 msgid "Отображается статистика по всем открытым письмам"
-msgstr "Displays statistics for all open emails"
+msgstr "Displays statistics for all opened emails"
 
 #: wizard_new/step4.php:170 wizard_new/step4.php:434
 msgid "отслеживать клики"
@@ -1130,15 +1130,15 @@ msgstr "It helps to pass spam filters and displays the images even for those use
 
 #: wizard_new/step4.php:214
 msgid "Add Google Analytics&trade; to track URLs"
-msgstr "Add Google Analytics ™ to track URLs"
+msgstr "Add Google Analytics&trade;to track URLs"
 
 #: wizard_new/step4.php:215 wizard_new/step4.php:449
 msgid "Мониторинг трафика на ваш сайт из рассылок."
-msgstr "Monitoring of traffic to your site from campaigns."
+msgstr "Monitoring of traffic to your website from campaigns."
 
 #: wizard_new/step4.php:223
 msgid "Compaing title (will be shown in Google Analytics&trade;)"
-msgstr "Compaing title (will be shown in Google Analytics ™)"
+msgstr "Compaign title (will be shown in Google Analytics ™)"
 
 #: wizard_new/step4.php:229 wizard_new/step4.php:455
 msgid "Замечание:"
@@ -1174,11 +1174,11 @@ msgstr "Add Google Analytics ™ to track URL's"
 
 #: wizard_new/step4.php:452
 msgid "Заголовок для рассылки (будет отображаться в GA/ЯМ)"
-msgstr "Cmpaign title (will be displayed in Google Analytics)"
+msgstr "Campaign title (will be displayed in Google Analytics)"
 
 #: wizard_new/step2.php:15 new_templates/step2.php:15
 msgid "Письмо сохранено как шаблон"
-msgstr "Email saved as template"
+msgstr "Email is saved as template"
 
 #: wizard_new/step2.php:18 new_templates/step2.php:18
 msgid "Произошла ошибка. Попробуйте позже."
@@ -1250,7 +1250,7 @@ msgstr "Are you sure?"
 
 #: wizard_new/step2.php:182 wizard/step2.php:62 new_templates/step2.php:180
 msgid "Ссылка \"ОТПИСАТЬСЯ\""
-msgstr "Link  to \"unsubscribe\""
+msgstr "Link  \"unsubscribe\""
 
 #: wizard_new/step2.php:184 wizard/step2.php:67 new_templates/step2.php:182
 msgid "Все кампании должны включать ссылку с id=unsub_link. В текстовой версии эта ссылка помечается тэгом %ОТПИСАТЬСЯ%"
@@ -1396,7 +1396,7 @@ msgid ""
 "При верстке html-макетов не забывайте, что их ширина не должна превышать 600px. Также для корректного отображения письма во всех почтовых "
 "клиентах желательно избегать использования JavaScript, Flash и т.п."
 msgstr ""
-"When doing html-imposition layouts remember that their width should not exceed 600px. Also, for correct display of the email in all email "
+"When making html-layouts remember that their width should not exceed 600px. Also, for correct display of the email in all email "
 "clients, it is preferable  to avoid using JavaScript, Flash, etc."
 
 #: wizard_new/step2.php:284 new_templates/step2.php:282
@@ -1492,7 +1492,7 @@ msgid ""
 "Для корректной загрузки следует помнить следующие правила: искомый HTML-файл макета должен лежать в корне архива, ссылки на картинки "
 "должны быть прописаны относительно этого корня. В названиях файлов и папок не должно быть пробелов и русских букв."
 msgstr ""
-"Toupload correctly you should remember the following rules: HTML-layout file must be in the root of the archive, links to images should be "
+"To upload correctly you should remember the following rules: HTML-layout file must be in the root of the archive, links to images should be "
 "registered on this root. The names of files and folders should not contain gaps."
 
 #: wizard_new/step2.php:559 templates/lists/_import.php:84 templates/lists/import-blacklist.php:73
@@ -1509,7 +1509,7 @@ msgstr "ends with"
 
 #: wizard_new/step2t.php:49
 msgid "тестовое сообщение успешно отправлено. Проверьте почту."
-msgstr "test message has been sent successfully. Check mailbox."
+msgstr "test message has been sent successfully. Check your mailbox."
 
 #: wizard_new/step2t.php:69 templates/lists/confsub.php:30 templates_orig/lists/confsub.php:29
 msgid "Введите URL или Email-адрес"
@@ -1616,7 +1616,7 @@ msgstr "preview"
 
 #: wizard_new/step2t.php:351
 msgid "отправить быстрый plain-text тест по адресу:"
-msgstr "send plain-text quick test at"
+msgstr "send quick plain-text test to"
 
 #: wizard_new/step2t.php:354
 msgid "Не больше 3-х за раз и не больше 6-ти тестовых писем на созданную рассылку"
@@ -1700,15 +1700,15 @@ msgstr "Change of subscriber data"
 
 #: wizard_new/step1a.php:104 wizard_new/step1a.php:452 wizard/step1a.php:108
 msgid "При каком типе подписки в базу письмо будет отправлено?"
-msgstr "For what type of subscription an email will be sent to the list?"
+msgstr "For what type of subscription will an email be sent to the list?"
 
 #: wizard_new/step1a.php:106 wizard_new/step1a.php:454 wizard/step1a.php:110
 msgid "При подписке через форму"
-msgstr "If subscription made via form"
+msgstr "If subscription is made via form"
 
 #: wizard_new/step1a.php:107 wizard_new/step1a.php:456 wizard/step1a.php:112
 msgid "При ручном добавлении"
-msgstr "When manually adding"
+msgstr "When adding manually"
 
 #: wizard_new/step1a.php:108 wizard_new/step1a.php:458 wizard/step1a.php:114
 msgid "При импорте"
@@ -1740,7 +1740,7 @@ msgstr "This list has no \"date\" fields."
 
 #: wizard_new/step1a.php:178 wizard_new/step1a.php:518 wizard/step1a.php:174
 msgid "При открытии письма из каких рассылок письмо будет отправлено?"
-msgstr "At the opening of the email from  which list will the  email be sent?"
+msgstr "At the opening of the email from  which list will the email be sent?"
 
 #: wizard_new/step1a.php:236 wizard_new/step1a.php:253 wizard_new/step1a.php:520 wizard_new/step1a.php:535 wizard/step1a.php:176
 #: wizard/step1a.php:191
@@ -1801,7 +1801,7 @@ msgstr "after the event"
 
 #: wizard_new/step1a.php:357 wizard_new/step1a.php:630 wizard/step1a.php:286
 msgid "Отправить:"
-msgstr "Sent:"
+msgstr "Send:"
 
 #: wizard_new/step1a.php:359 wizard_new/step1a.php:632 wizard/step1a.php:288
 msgid "В День Рождения"
@@ -1829,7 +1829,7 @@ msgstr "Also:"
 
 #: wizard_new/step1a.php:379 wizard_new/step1a.php:652 wizard/step1a.php:308
 msgid "Отправить по существующией базе"
-msgstr "Sent to list:"
+msgstr "Send using the existing list:"
 
 #: wizard_new/step1a.php:382 wizard_new/step1a.php:655 wizard/step1a.php:311
 msgid "Отложить отправку по существующией базе на указанное выше время"
@@ -1842,12 +1842,12 @@ msgid ""
 "указанное время."
 msgstr ""
 "If you choose this option, the emails will be sent not only to new subscribers, but also the old ones. The system will automatically keep "
-"track of the date of subscription. If you specify to send the newsletter in 1 day or more, those who have recently signed up will not  "
+"track of the date of subscription. If you select to send the newsletter in 1 day or more, those who have recently signed up will not  "
 "receive the email immidiately, but after a specified time."
 
 #: wizard_new/step1a.php:387 wizard_new/step1a.php:660 wizard/step1a.php:316
 msgid "Рассылка по существующей базе уже произведена."
-msgstr "Campaign by existing list has already been made."
+msgstr "Campaign has already been made  using the existing list ."
 
 #: wizard_new/step1a.php:402 wizard_new/step1a.php:425 wizard_new/step1a.php:666 wizard/step1a.php:81 wizard/step1a.php:322
 msgid "к предыдущему шагу"
@@ -1899,7 +1899,7 @@ msgid ""
 "создайте красочный заголовок, укажите ссылки. И вы получите письмо, которое максимально корректно отображается во всех браузерах и "
 "почтовых клиентах."
 msgstr ""
-"If you do not know the words of HTML, CSS, but you want to create beautiful campaign - choose this option. Simply edit a set of blocks, "
+"If you do not know the words of HTML, CSS, but you want to create a beautiful campaign - choose this option. Simply edit a set of blocks, "
 "create a colorful header, select the link. And you will get an email that is displayed correctly in all browsers and email clients."
 
 #: wizard_new/step1.php:47
@@ -1912,7 +1912,7 @@ msgid ""
 "загрузите zip-архив с макетом и картинками или просто вставьте html-код. Также, вы сможете использовать удобный WYSIWYG-редактор для "
 "редактирования своего кода."
 msgstr ""
-"If you are a professional on internet and can make  your own html-layout for the email, then this option is for you. Simply download the "
+"If you are a professional in internet and can make  your own html-layout for the email, then this option is for you. Simply download the "
 "zip-file with the layout and pictures or just insert the html-code. Also, you can use the handy WYSIWYG-editor to edit your code."
 
 #: wizard_new/step1.php:66
@@ -1929,8 +1929,8 @@ msgid ""
 "создавайте просто текстовую версию письма. Она однозначно хорошо будет отображаться во всех почтовых клиентах и редакторах. Ведь какие "
 "могут быть проблемы с текстом?"
 msgstr ""
-"If you do not need pictures and pretty stuff in your email, if you want to convey your information clearly and in a few sentences - that "
-"create a plain text version of the email. It will definitely  be displayed correctly in all email clients and editors. After all, what "
+"If you do not need pictures and pretty stuff in your email, if you want to convey your information clearly and in a few sentences - then "
+"create a plain-text version of the email. It will definitely  be displayed correctly in all email clients and editors. After all, what "
 "could be the problem with the text?"
 
 #: wizard_new/step1.php:100
@@ -1940,7 +1940,7 @@ msgstr "Plain text version of email"
 #: wizard_new/upload_html.php:168 wizard_new/upload_html.php:213 wizard_new/upload_html.php:255 wizard/action/upload_html.php:168
 #: wizard/action/upload_html.php:213 wizard/action/upload_html.php:255
 msgid "Макет успешно загружен "
-msgstr "The template successfully uploaded"
+msgstr "The template is successfully uploaded"
 
 #: wizard_new/upload_html.php:172 common/php_functions.php:1233 common/php_functions.php:1266 common/php_functions.php:1390
 #: common/errors.php:28 wizard/action/upload_html.php:172
@@ -2053,15 +2053,15 @@ msgstr "Maps"
 
 #: editor/index.php:169
 msgid "Unsubscribe link"
-msgstr "unsubscribe"
+msgstr "Unsubscribe link"
 
 #: editor/index.php:359
 msgid "Email preview"
-msgstr "preview"
+msgstr "Email preview"
 
 #: editor/index.php:384 editor/index.php:495 templates/header_wizard.php:247
 msgid "Close"
-msgstr "closed"
+msgstr "Closed"
 
 #: editor/index.php:393
 msgid "Images filemanager"
@@ -2073,7 +2073,7 @@ msgstr "Upload"
 
 #: editor/index.php:422
 msgid "Import URL"
-msgstr "Import"
+msgstr "Import URL"
 
 #: editor/index.php:439
 msgid "Folders"
@@ -2195,7 +2195,7 @@ msgstr "Opened"
 #: templates/reports/summary.php:320 templates/reports/summary2.php:208 templates/reports/splitreport.php:283
 #: templates_orig/reports/summary_base.php:170 templates_orig/reports/summary.php:194 templates_orig/reports/splitreport.php:136
 msgid "Отписавшиеся"
-msgstr "Unsubscribers"
+msgstr "Unsubscribed"
 
 #: data/export.php:28
 msgid "Кликов"
@@ -2333,7 +2333,7 @@ msgstr "Incorrect email."
 
 #: common/auth_new.php:168
 msgid "Password must contain at least 6 symbols"
-msgstr "Password must contain at least 6 symbol"
+msgstr "Password must contain at least 6 symbols"
 
 #: common/auth_new.php:169
 msgid "Fill all fields."
@@ -2409,7 +2409,7 @@ msgstr "This email came to you because you have registered on an email-marketing
 
 #: common/mh.php:134
 msgid "Логин, указанный при регистрации"
-msgstr "Login"
+msgstr "Login, entered when registrating"
 
 #: common/mh.php:135
 msgid "Чтобы ваш аккаунт стал активен, вам нужно подтвердить свой email. Для этого вам необходимо перейти по ссылке ниже."
@@ -2445,7 +2445,7 @@ msgstr "Your new password"
 
 #: common/mh.php:162 common/mh.php:180
 msgid "С уважением, администрация сервиса email-рассылок"
-msgstr "Sincerely, email-merketing service administration"
+msgstr "Sincerely, email-marketing service administration"
 
 #: common/mh.php:171
 msgid "Восстановление логина"
@@ -2477,7 +2477,7 @@ msgstr "Invalid file format"
 
 #: common/php_functions.php:946 common/php_functions.php:1282
 msgid "ХЗ что"
-msgstr "god knows what"
+msgstr "God knows what"
 
 #: common/php_functions.php:1212 common/php_functions.php:1379
 msgid "Импортировано "
