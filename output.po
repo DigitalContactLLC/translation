@@ -9010,11 +9010,11 @@ msgstr "You can upload the subscribers and start your campaign right now"
 
 #: templates/main/main.php:109 templates_orig/main/main.php:100
 msgid "Попробуйте еще раз"
-msgstr "Try again "
+msgstr "Try again"
 
 #: templates/main/main.php:127 templates/main/main.php:138 templates_orig/main/main.php:118 templates_orig/main/main.php:129
 msgid "Вы успешно интегрировали"
-msgstr "You have successfully integrated "
+msgstr "You have successfully integrated"
 
 #: templates/main/main.php:127 templates/main/main.php:138
 msgid "с Печкиным"
@@ -9026,7 +9026,7 @@ msgstr "your Google account"
 
 #: templates/main/main.php:127 templates_orig/main/main.php:118
 msgid "Нам доступны следующие профили:"
-msgstr "We have the following profiles: "
+msgstr "We have the following profiles:"
 
 #: templates/main/main.php:138 templates_orig/main/main.php:129
 msgid "свой Yandex-аккаунт"
@@ -9034,7 +9034,7 @@ msgstr "your Yahoo account"
 
 #: templates/main/main.php:138 templates_orig/main/main.php:129
 msgid "Нам доступны следующие счетчики:"
-msgstr "We use the following counters: "
+msgstr "We use the following counters:"
 
 #: templates/main/main.php:145 templates_orig/main/main.php:136
 msgid "Через 3 дня"
@@ -9118,7 +9118,7 @@ msgstr "learn more"
 
 #: templates/main/main.php:360
 msgid "create a mailing list"
-msgstr "create a campaign"
+msgstr "create a mailing list"
 
 #: templates/main/main.php:361
 msgid "upload your list"
@@ -9180,7 +9180,7 @@ msgstr "Spend just five minutes of your precious time and a nice \"bonus\" is al
 
 #: templates/main/main.php:404
 msgid "Пришлите отзыв о работе Печкина на почту "
-msgstr "Send feedback about MailWheel on"
+msgstr "Send feedback about MailWheel on "
 
 #: templates/main/main.php:405
 msgid "10 самых искренних отзывов попадут на страницы нашего сайта"
@@ -9204,7 +9204,7 @@ msgstr "published"
 
 #: templates/main/main.php:408
 msgid " и скидка 25% в руках у счастливчиков."
-msgstr "and 25% discount in the hands of the lucky ones."
+msgstr " and 25% discount in the hands of the lucky ones."
 
 #: templates/main/main.php:412
 msgid "Акция: Расскажи о Печкине в соц.сетях и будь в выигрыше!"
@@ -9236,7 +9236,7 @@ msgstr "You get 25% of the sum of all their payments into your account!"
 
 #: templates/main/main.php:420
 msgid "Ссылки для репостов:"
-msgstr "Links for reposts: "
+msgstr "Links for reposts:"
 
 #: templates/main/main.php:426 templates_orig/main/main.php:328
 msgid "Что нового на нашем сервисе?"
@@ -9276,7 +9276,7 @@ msgstr "Many thanks for your confidence!"
 
 #: templates/main/main.php:481
 msgid "Теперь не забудьте сделать репост на своей стене с помощью \"рассказать друзьям"
-msgstr "Now don't forget to repost on your wall by using the \"tell your friends\""
+msgstr "Now don't forget to repost on your wall by using the \"tell your friends"
 
 #: templates/main/main.php:482
 msgid "Для этого просто:"
@@ -9288,7 +9288,7 @@ msgstr "Move again on the button \"I like\""
 
 #: templates/main/main.php:485
 msgid "Нажмите на ссылку вида "
-msgstr "Click on the link type"
+msgstr "Click on the link type "
 
 #: templates/main/main.php:486
 msgid "Можете даже оставить свой комментарий о нас"
@@ -9307,7 +9307,7 @@ msgid ""
 "Как только ваши друзья оплатят наш сервис - <b>25% от суммы их оплаты</b> мгновенно поступит на ваш счет.<br /><br />Посмотреть его "
 "состояние и заказать выплату можно в любой момент в <a href=\"/?page=account&action=affiliate\">разделе \"Мои рефералы\""
 msgstr ""
-"Once your friends pay for our service- <b>25% of the amount of the payment</b> will appear in your account instantly.<br /><br /> You can "
+"Once your friends pay for our service- <b>25% of the amount of the payment</b> will appear in your account instantly.<br/><br/> You can "
 "view its status and order the payment at any time <a href=\"/?page=account&action=affiliate\">under \"my referrals\""
 
 #: templates/main/main.php:494
@@ -9355,7 +9355,7 @@ msgstr "add"
 #: templates/lists/fields.php:72 templates/lists/edit.php:73 templates/lists/lists.php:228 templates/lists/lists.php:311
 #: templates/lists/lists.php:543 templates_orig/lists/include/searchform.php:4 templates_orig/lists/lists.php:134
 msgid "отписать людей"
-msgstr "Unsubscribe"
+msgstr "unsubscribe"
 
 #: templates/lists/members.php:138
 msgid "This list do not have subscribers."
@@ -9366,7 +9366,7 @@ msgstr "This list does not have subscribers."
 #: templates/lists/forms.php:80 templates/lists/unsub.php:83 templates/lists/import.php:78 templates/lists/remove.php:103
 #: templates/lists/footer.php:83 templates/lists/fields.php:114 templates_orig/lists/include/lists-header.php:2
 msgid "посмотреть всех подписчиков"
-msgstr "Show all subscribers"
+msgstr "show all subscribers"
 
 #: templates/lists/members.php:144 templates/lists/members.php:170 templates/lists/members.php:327 templates/lists/members.php:402
 #: templates/lists/include/lists-header.php:14 templates/lists/_import.php:58 templates/lists/_import.php:250 templates/lists/add.php:108
@@ -9374,7 +9374,7 @@ msgstr "Show all subscribers"
 #: templates/lists/import.php:78 templates/lists/remove.php:103 templates/lists/footer.php:83 templates/lists/fields.php:114
 #: templates_orig/lists/members.php:127 templates_orig/lists/include/lists-header.php:2
 msgid "подписчики"
-msgstr "Subscribers"
+msgstr "subscribers"
 
 #: templates/lists/members.php:148 templates/lists/members.php:331 templates/lists/include/lists-header.php:18 templates/lists/_import.php:62
 #: templates/lists/_import.php:254 templates/lists/add.php:112 templates/lists/add.php:353 templates/lists/confsub.php:104
@@ -9400,7 +9400,7 @@ msgstr "adjust the quantity and types of fields of your list"
 #: templates/lists/forms.php:86 templates/lists/unsub.php:89 templates/lists/import.php:84 templates/lists/remove.php:109
 #: templates/lists/footer.php:89 templates/lists/fields.php:51 templates/lists/fields.php:120 templates_orig/lists/include/lists-header.php:8
 msgid "настройки полей"
-msgstr "Field settings"
+msgstr "field settings"
 
 #: templates/lists/members.php:151 templates/lists/members.php:334 templates/lists/include/lists-header.php:21 templates/lists/_import.php:65
 #: templates/lists/_import.php:257 templates/lists/add.php:115 templates/lists/add.php:356 templates/lists/confsub.php:107
@@ -9460,7 +9460,7 @@ msgstr "unsubscribe reasons"
 
 #: templates/lists/members.php:171 templates/lists/members.php:403 templates_orig/lists/members.php:128
 msgid "отписавшиеся"
-msgstr "Unsubscribers"
+msgstr "unsubscribers"
 
 #: templates/lists/members.php:172 templates/lists/members.php:404 templates_orig/lists/members.php:129
 msgid "не подтвердившие"
@@ -9472,7 +9472,7 @@ msgstr "not active"
 
 #: templates/lists/members.php:174 templates/lists/members.php:406 templates_orig/lists/members.php:131
 msgid "неверные адреса"
-msgstr "Invalid address"
+msgstr "invalid address"
 
 #: templates/lists/members.php:185 templates/lists/members.php:371 templates/lists/remove.php:165 templates/lists/remove.php:198
 #: templates/lists/edit.php:97 templates/lists/bulk-action-confirm.php:14 templates_orig/lists/members.php:100
@@ -9504,15 +9504,15 @@ msgstr "Customization of your subaccount allows you to view information about li
 
 #: templates/lists/members.php:361 templates_orig/lists/members.php:90
 msgid "массовые действия"
-msgstr "Bulk Actions"
+msgstr "bulk actions"
 
 #: templates/lists/members.php:362 templates_orig/lists/members.php:91
 msgid "выделить видимое"
-msgstr "Select visible"
+msgstr "select visible"
 
 #: templates/lists/members.php:365 templates_orig/lists/members.php:94
 msgid "выделить все"
-msgstr "Select All"
+msgstr "select all"
 
 #: templates/lists/members.php:366 templates_orig/lists/members.php:95
 msgid "развыделить все"
@@ -9545,7 +9545,7 @@ msgid ""
 "                                Sample text. Something to explain<br /><a href=\"#\">the meaning</a>"
 msgstr ""
 "List is the place where your customers are.<br>\n"
-"                                Sample text. Something to explain<br /><a href=\"#\">the meaning</a>"
+"                                Sample text. Something to explain<br/><a href=\"#\">the meaning</a>"
 
 #: templates/lists/forms-slim-gen.php:74 templates/lists/forms-gen.php:135 subscribe/templates/forms-slim-gen.php:67
 #: subscribe/templates/forms-gen.php:130 templates_orig/lists/forms-slim-gen.php:74 templates_orig/lists/forms-gen.php:135
@@ -9607,7 +9607,7 @@ msgstr "And whether the legitimate list, which you import?"
 #: templates/lists/_import.php:328 templates/lists/import.php:144 templates/lists/import.php:287 templates_orig/lists/import.php:69
 #: templates_orig/lists/import-blacklist.php:54
 msgid "номер:"
-msgstr "Number:"
+msgstr "number:"
 
 #: templates/lists/_import.php:329 templates/lists/import.php:157 templates/lists/import.php:288 templates_orig/lists/import.php:70
 #: templates_orig/lists/import-blacklist.php:55
@@ -9616,11 +9616,11 @@ msgstr "or name:"
 
 #: templates/lists/_import.php:348 templates/lists/import.php:196 templates/lists/import.php:306 templates_orig/lists/import.php:88
 msgid "Обновлять данные, если подписчик уже есть в базе."
-msgstr "Update the data, if a Subscriber already exists in the list."
+msgstr "Update the data, if a subscriber already exists in the list."
 
 #: templates/lists/_import.php:355 templates/lists/import.php:206 templates/lists/import.php:313 templates_orig/lists/import.php:95
 msgid "импортировать базу"
-msgstr "Import list"
+msgstr "import list"
 
 #: templates/lists/_import.php:359 templates/lists/import.php:211 templates/lists/import.php:318 templates_orig/lists/import.php:100
 msgid ""
@@ -9666,7 +9666,7 @@ msgstr "New list of my store"
 #: templates/lists/create-new-list.php:14 templates/lists/confirm-rename.php:14 templates_orig/lists/create-new-list.php:13
 #: templates_orig/lists/confirm-rename.php:14
 msgid "Хороший пример названия: \"Магазин на Приморской\" - Плохой пример названия: \"Prim_12_03_2011\""
-msgstr "A good example of names: \"shop at the seaside\"-bad example names: \"12_03\""
+msgstr "A good example of names: \"shop at the seaside\" - bad example names: \"12_03\""
 
 #: templates/lists/add.php:34 templates/lists/add.php:301 templates_orig/lists/add.php:34
 msgid "Пользователь должен дать согласие на добавление в Адресную базу."
@@ -9716,7 +9716,7 @@ msgstr "The recipient gave me his/her agreement to include him/her in my list."
 
 #: templates/lists/add.php:495 templates_orig/lists/add.php:51
 msgid "добавить подписчика"
-msgstr "Add Subscriber"
+msgstr "add subscriber"
 
 #: templates/lists/add.php:515 templates/lists/forms-gen.php:113 templates/lists/edit.php:185 subscribe/templates/forms-gen.php:108
 #: templates_orig/lists/add.php:70 templates_orig/lists/forms-gen.php:113 templates_orig/lists/edit.php:61
@@ -9740,7 +9740,7 @@ msgstr "(dd/mm/yyyy)"
 
 #: templates/lists/confsub.php:22 subscribe/mail_functions.php:20 templates_orig/lists/confsub.php:21
 msgid "компании"
-msgstr "Company"
+msgstr "company"
 
 #: templates/lists/confsub.php:22 subscribe/mail_functions.php:20 templates_orig/lists/confsub.php:21
 msgid "какой-то компании."
@@ -9753,7 +9753,7 @@ msgstr "Dear User"
 
 #: templates/lists/confsub.php:24 subscribe/mail_functions.php:22 templates_orig/lists/confsub.php:23
 msgid "Вы подписались на рассылку от "
-msgstr "You have signed up to"
+msgstr "You have signed up to "
 
 #: templates/lists/confsub.php:38 templates/lists/confsub.php:56 templates/lists/confsub.php:286 templates_orig/lists/confsub.php:36
 msgid "Настройка письма подтверждения подписки для базы"
@@ -9768,7 +9768,7 @@ msgid ""
 "Данное подтверждение требуется для того, чтобы оградить Вас от получения непрошенных email-рассылок.</p><p>Отменить подписку Вы сможете в "
 "любой момент точно также быстро."
 msgstr ""
-"This confirmation is required in order to protect you from receiving unsolicited email campaigns.<p><p>You can unsubscribe at any time "
+"This confirmation is required in order to protect you from receiving unsolicited email campaigns.</p><p>You can unsubscribe at any time "
 "just fast."
 
 #: templates/lists/confsub.php:153 templates/lists/confsub.php:295 subscribe/mail_functions.php:27 subscribe/mail_functions.php:100
@@ -9794,7 +9794,7 @@ msgstr "Include the following:"
 
 #: templates/lists/forms.php:123 templates_orig/lists/forms.php:53
 msgid "название формы"
-msgstr "Title Form"
+msgstr "title form"
 
 #: templates/lists/forms.php:124 templates_orig/lists/forms.php:54
 msgid "Подпишитесь на нашу рассылку"
@@ -9826,7 +9826,7 @@ msgstr "all fields"
 
 #: templates/lists/forms.php:135 templates_orig/lists/forms.php:65
 msgid "настройте обязательные"
-msgstr "Configure the required"
+msgstr "configure the required"
 
 #: templates/lists/forms.php:135 templates/lists/lists.php:251 templates/lists/lists.php:334 templates/lists/lists.php:566
 #: templates_orig/lists/forms.php:65 templates_orig/lists/lists.php:157
@@ -9839,7 +9839,7 @@ msgstr "Show the number of subscribers"
 
 #: templates/lists/forms.php:141 templates_orig/lists/forms.php:71
 msgid "показывать обяз. звездочки"
-msgstr "Show required"
+msgstr "show required"
 
 #: templates/lists/forms.php:143 templates_orig/lists/forms.php:73
 msgid "без javascript"
@@ -9879,15 +9879,15 @@ msgstr "text input fields"
 
 #: templates/lists/forms.php:164 templates_orig/lists/forms.php:94
 msgid "границ полей ввода"
-msgstr "Fields settings"
+msgstr "fields settings"
 
 #: templates/lists/forms.php:165 templates_orig/lists/forms.php:95
 msgid "фона кнопки отправки"
-msgstr "Send domains by default"
+msgstr "send button background"
 
 #: templates/lists/forms.php:166 templates_orig/lists/forms.php:96
 msgid "фона кнопки при наведении"
-msgstr "Button Hover Background Effect"
+msgstr "button hover background effect"
 
 #: templates/lists/forms.php:167 templates_orig/lists/forms.php:97
 msgid "текста кнопки отправки"
@@ -9911,7 +9911,7 @@ msgstr ""
 
 #: templates/lists/forms.php:203 templates_orig/lists/forms.php:133
 msgid "настройках полей"
-msgstr "Fields settings"
+msgstr "fields settings"
 
 #: templates/lists/forms.php:204 templates_orig/lists/forms.php:134
 msgid "Предпросмотр вашей формы подписки"
@@ -9919,7 +9919,7 @@ msgstr "Preview your subscription forms"
 
 #: templates/lists/forms.php:207 templates_orig/lists/forms.php:136
 msgid "создать страницу подписки"
-msgstr "Create subscription page"
+msgstr "create subscription page"
 
 #: templates/lists/forms.php:209 templates_orig/lists/forms.php:137
 msgid "Вы сможете делиться данной ссылкой с вашими потенциальными подписчиками."
@@ -9952,7 +9952,7 @@ msgstr "copy/paste into your site"
 #: templates/lists/unsub.php:26 templates/lists/unsub.php:44 templates/lists/unsub.php:103 templates/lists/unsub.php:239
 #: templates_orig/lists/unsub.php:31
 msgid "Настройки отписки"
-msgstr "unsubscribe settings"
+msgstr "Unsubscribe settings"
 
 #: templates/lists/unsub.php:110 templates/lists/unsub.php:241 templates_orig/lists/unsub.php:33
 msgid "Переадресация после отписки"
@@ -9975,7 +9975,7 @@ msgstr "Edit reasons"
 #: templates_orig/lists/unsub.php:48 templates_orig/lists/unsub.php:84 templates_orig/lists/unsub.php:108
 #: templates_orig/lists/show-blacklist.php:33 templates_orig/lists/blacklist-export.php:15
 msgid "Причина"
-msgstr "Cause"
+msgstr "Reason"
 
 #: templates/lists/unsub.php:151 templates/lists/unsub.php:260 templates/lists/unsub.php:296 templates_orig/lists/unsub.php:49
 #: templates_orig/lists/unsub.php:85
@@ -9988,7 +9988,7 @@ msgstr "Last 100 unsubscribe reasons:"
 
 #: templates/lists/unsub.php:216 templates/lists/unsub.php:334 templates_orig/lists/unsub.php:123
 msgid "добавить причину"
-msgstr "Add cause"
+msgstr "add reason"
 
 #: templates/lists/unsub.php:243 templates_orig/lists/unsub.php:35
 msgid "Использовать английский"
