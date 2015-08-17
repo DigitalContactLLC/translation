@@ -7009,7 +7009,7 @@ msgstr "Bank"
 
 #: templates/account/company_details.php:126
 msgid "Расчетный счет"
-msgstr "Current account:"
+msgstr "Current account"
 
 #: templates/account/company_details.php:131
 msgid "Корреспондентский счет"
@@ -7041,7 +7041,7 @@ msgstr "signature and seal"
 
 #: templates/account/company_details.php:165
 msgid "Подпись генерального директора "
-msgstr "Signature of the Director General"
+msgstr "Signature of the Director General "
 
 #: templates/account/company_details.php:183
 msgid "Подпись главного бухгалтера"
@@ -7049,23 +7049,23 @@ msgstr "Signature of the Chief Accountant"
 
 #: templates/account/company_details.php:200
 msgid "Печать организации "
-msgstr "Stamp"
+msgstr "Stamp "
 
 #: templates/account/cloudpayments.php:17
 msgid "Monthly plan: "
-msgstr "Monthly plan:"
+msgstr "Monthly plan: "
 
 #: templates/account/cloudpayments.php:17
 msgid " subscribers "
-msgstr "Subscribers"
+msgstr " subscribers "
 
 #: templates/account/cloudpayments.php:19
 msgid "Pay-as-you-go: "
-msgstr "Pay-as-you-go:"
+msgstr "Pay-as-you-go: "
 
 #: templates/account/cloudpayments.php:19
 msgid " email-credits "
-msgstr "email-credits"
+msgstr " email-credits "
 
 #: templates/account/cloudpayments.php:49
 msgid "Enter a correct amount!"
@@ -7157,19 +7157,19 @@ msgstr "upgrade"
 
 #: templates/account/cloudpayments.php:186
 msgid "£20.00"
-msgstr "£ 20.00"
+msgstr "£20.00"
 
 #: templates/account/cloudpayments.php:192
 msgid "£40.00"
-msgstr "£ 40.00"
+msgstr "£40.00"
 
 #: templates/account/cloudpayments.php:198
 msgid "£80.00"
-msgstr "£ 80.00"
+msgstr "£80.00"
 
 #: templates/account/cloudpayments.php:206
 msgid "...or just Pay-As-You-Go"
-msgstr "... or just Pay-As-You-Go"
+msgstr "...or just Pay-As-You-Go"
 
 #: templates/account/cloudpayments.php:207
 msgid ""
@@ -7177,7 +7177,7 @@ msgid ""
 "might find it more convenient to pay-as-you-go. "
 msgstr ""
 "Monthly plans provide the best bang for your buck, but they don't work for everybody. If you don't send out emails too regularly, you "
-"might find it more convenient to pay-as-you-go."
+"might find it more convenient to pay-as-you-go. "
 
 #: templates/account/cloudpayments.php:208
 msgid ""
@@ -7312,7 +7312,7 @@ msgid ""
 "абсолютно без учета репутации ваших \"соседей по серверу отправки\". И если ваши рассылки легитимны и несут пользу людям, то и с "
 "репутацией и доставляемостью у вас все будет хорошо!"
 msgstr ""
-"If you - responsible sender, then adding your own domain statistics, especially in addition to its own domain to send, <b>you get the "
+"If you are responsible sender, then adding your own domain statistics, especially in addition to its own domain to send, <b>you get the "
 "highest possible deliverability of your emails</b> in your customers' mailboxes. After all, if the emails are sent completely excluding "
 "the reputation of your \"neighbors in the server sending\". And if your are sending legitimate and benefit the people, so with the "
 "reputation and deliverability you all will be well!"
@@ -7379,7 +7379,7 @@ msgstr "inactive"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid "Тарифный План:"
-msgstr "My tarriff plan"
+msgstr "My tarriff plan:"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates/account/plans.php:171 templates/main/main.php:295
 #: templates/account.php:78 templates/account.php:81 templates/account.php:171 templates/account.php:174
@@ -7389,15 +7389,15 @@ msgstr "Free"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid " подписчиков ("
-msgstr "subscribers ("
+msgstr " subscribers ("
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid " писем)"
-msgstr "emails)"
+msgstr " emails)"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid " кредитов."
-msgstr "credits."
+msgstr " credits."
 
 #: templates/account/clients.php:90 templates/account/clients.php:196 templates_orig/account/clients.php:82
 msgid "Источник:"
@@ -7413,11 +7413,11 @@ msgstr "Actions"
 
 #: templates/account/clients.php:99 templates/account/clients.php:182 templates_orig/account/clients.php:68
 msgid "выставить счет"
-msgstr "Issue Invoice"
+msgstr "issue invoice"
 
 #: templates/account/clients.php:100 templates/account/clients.php:183 templates_orig/account/clients.php:69
 msgid "доверие"
-msgstr "Trust"
+msgstr "trust"
 
 #: templates/account/clients.php:101 templates/account/clients.php:185 templates_orig/account/clients.php:71
 msgid "Платежи"
@@ -7442,7 +7442,7 @@ msgstr "Back to own clients"
 
 #: templates/account/clients.php:131 templates/account/clients.php:207 templates_orig/account/clients.php:93
 msgid "Выставить счет"
-msgstr "Issue Invoice"
+msgstr "Issue invoice"
 
 #: templates/account/clients.php:132 templates/account/clients.php:208 templates_orig/account/clients.php:94
 msgid "Доверие клиента"
@@ -7458,7 +7458,7 @@ msgstr "Total customers:"
 
 #: templates/account/clients.php:147 templates_orig/account/clients.php:33
 msgid "Оплачено счетов на сумму:"
-msgstr "Paid"
+msgstr "Paid:"
 
 #: templates/account/clients.php:152
 msgid "поиск клиентаа"
@@ -7470,7 +7470,7 @@ msgstr "search subscribers"
 
 #: templates/account/clients.php:179 templates_orig/account/clients.php:65
 msgid "последний платеж: "
-msgstr "last payment:"
+msgstr "last payment: "
 
 #: templates/account/clients.php:200 templates_orig/account/clients.php:86 templates_orig/account/subaccount.php:56
 msgid "Страницы:"
@@ -7482,7 +7482,7 @@ msgstr "login as customer"
 
 #: templates/account/subaccount.php:77 templates_orig/account/subaccount.php:18
 msgid "поиск аккаунта"
-msgstr "Search account"
+msgstr "search account"
 
 #: templates/account/subaccount.php:85 templates_orig/account/subaccount.php:13
 msgid "Всего субаккаунтов:"
@@ -7522,7 +7522,7 @@ msgstr "Login"
 #: templates/account/password-sub.php:63 templates/account/password-sub.php:66 templates/account/password.php:67
 #: templates/account/password.php:70 templates_orig/account/password-sub.php:27 templates_orig/account/password.php:24
 msgid "новый пароль"
-msgstr "New password"
+msgstr "new password"
 
 #: templates/account/password-sub.php:76 templates/account/password-sub.php:79 templates/account/password.php:80
 #: templates/account/password.php:83 templates_orig/account/password-sub.php:29 templates_orig/account/password.php:26
@@ -7549,15 +7549,15 @@ msgstr "error_email"
 
 #: templates/account/save_cc_details.php:24
 msgid "Your subscription is cancelled. Month plan will be active till "
-msgstr "Your subscription is cancelled. Month plan will be active till"
+msgstr "Your subscription is cancelled. Month plan will be active till "
 
 #: templates/account/save_cc_details.php:31
 msgid "Your subscription is renewed. Next charge will be at "
-msgstr "Your subscription is renewed. The next charge will be at"
+msgstr "Your subscription is renewed. The next charge will be at "
 
 #: templates/account/save_cc_details.php:38
 msgid "Your account is successfully upgraded. Next charge will be at "
-msgstr "Your account is successfully upgraded. The next charge will be at"
+msgstr "Your account is successfully upgraded. The next charge will be at "
 
 #: templates/account/save_cc_details.php:51 templates/account/save_cc_details.php:85 templates/account/save_cc_details.php:107
 msgid "Something went wrong. Try again later!"
@@ -7565,11 +7565,11 @@ msgstr "Something went wrong. Try again later!"
 
 #: templates/account/save_cc_details.php:63
 msgid "You successfully purchased "
-msgstr "You successfully purchased"
+msgstr "You successfully purchased "
 
 #: templates/account/save_cc_details.php:63
 msgid " email-credits for £"
-msgstr "email credits for £"
+msgstr " email credits for £"
 
 #: templates/account/save_cc_details.php:81
 msgid "Your subscription is renewed with new credit card:"
@@ -7577,11 +7577,11 @@ msgstr "Your subscription is renewed with new credit card:"
 
 #: templates/account/save_cc_details.php:81
 msgid " Next charge: "
-msgstr "Next charge:"
+msgstr " Next charge: "
 
 #: templates/account/save_cc_details.php:103
 msgid "Your successfully subscribed with new credit card: "
-msgstr "Your successfully subscribed with new credit card:"
+msgstr "Your successfully subscribed with new credit card: "
 
 #: templates/account/automoderator.php:19
 msgid "ERROR"
@@ -7603,7 +7603,7 @@ msgstr "Customer details with ID:"
 
 #: templates/account/company_details_save.php:26
 msgid " успешно сохранены"
-msgstr "successfully saved"
+msgstr " successfully saved"
 
 #: templates/account/company_details_save.php:29
 msgid "Это не ваш клиент!"
@@ -7675,7 +7675,7 @@ msgstr "No more than 45 characters, please."
 
 #: templates/account/cobranding.php:45
 msgid "и мы рекомендуем также..."
-msgstr "and we also recommend ..."
+msgstr "and we also recommend..."
 
 #: templates/account/cobranding.php:46
 msgid "Загрузите свое лого"
@@ -7691,7 +7691,7 @@ msgstr "jpg, gif or png. maximum height: 70px, maximum width: 175px"
 
 #: templates/account/cobranding.php:63
 msgid "не забудьте самое важное..."
-msgstr "don't forget the most important thing."
+msgstr "don't forget the most important thing..."
 
 #: templates/account/cobranding.php:64
 msgid "Домен на котором располагается сервис"
@@ -7751,7 +7751,7 @@ msgstr "Switzerland next"
 
 #: templates/account/cobranding.php:88
 msgid "wall street"
-msgstr "Wall Street"
+msgstr "wall street"
 
 #: templates/account/cobranding.php:89
 msgid "деревянный интернет"
@@ -7763,7 +7763,7 @@ msgstr "Apply"
 
 #: templates/account/cobranding.php:93
 msgid "пожалуйста, подождите..."
-msgstr "Please wait ..."
+msgstr "please wait..."
 
 #: templates/account/cobranding.php:93
 msgid "Вернуть по-умолчанию"
@@ -7820,7 +7820,7 @@ msgstr "Clear"
 
 #: templates/account/sms-auth.php:80 templates_orig/account/sms-auth.php:80
 msgid "как это работает?"
-msgstr "How it works?"
+msgstr "how it works?"
 
 #: templates/account/sms-auth.php:81
 msgid "Двухфакторная авторизация на Печкине"
@@ -7868,11 +7868,11 @@ msgstr "emails to "
 #: templates/main/main.php:107 templates/main/main.php:109 templates_orig/account/billing.php:16 templates_orig/account/billing.php:18
 #: templates_orig/main/main.php:98 templates_orig/main/main.php:100
 msgid " руб."
-msgstr "£"
+msgstr " £ "
 
 #: templates/account/plans.php:42 templates/account/billing.php:22 templates_orig/account/billing.php:16
 msgid "Вы можете загружать базы и начинать рассылки прямо сейчас."
-msgstr "You can upload the emails and start campaign now"
+msgstr "You can upload the emails and start campaign now."
 
 #: templates/account/plans.php:44 templates/account/billing.php:27 templates/main/main.php:109 templates_orig/account/billing.php:18
 #: templates_orig/main/main.php:100
@@ -7896,7 +7896,7 @@ msgstr "Try again."
 #: templates/account/plans.php:47 templates/main/main.php:112 templates/main/main.php:127 templates/main/main.php:138
 #: templates_orig/account/billing.php:21 templates_orig/main/main.php:103 templates_orig/main/main.php:118 templates_orig/main/main.php:129
 msgid "ок! спасибо."
-msgstr "OK! Thank you"
+msgstr "OK! Thank you."
 
 #: templates/account/plans.php:51 templates/account/billing.php:38 templates/main/main.php:145 templates_orig/account/billing.php:25
 #: templates_orig/main/main.php:136
@@ -7905,16 +7905,16 @@ msgstr "Extend the monthly account!"
 
 #: templates/account/plans.php:51
 msgid "Через 3 дня ["
-msgstr "In 3 days"
+msgstr "In 3 days ["
 
 #: templates/account/plans.php:51
 msgid "] ваш аккаунт будет переведен в режим \"Бесплатный\"."
-msgstr "Your account will be downgraded to \"Free\""
+msgstr "] Your account will be downgraded to \"Free\""
 
 #: templates/account/plans.php:56 templates/account/billing.php:48 templates/main/main.php:150 templates_orig/account/billing.php:30
 #: templates_orig/main/main.php:141
 msgid "Ваш месячный план окончился"
-msgstr "Your monthly plan ended "
+msgstr "Your monthly plan ended"
 
 #: templates/account/plans.php:56 templates/account/billing.php:48 templates/main/main.php:150 templates_orig/account/billing.php:30
 #: templates_orig/main/main.php:141
@@ -7935,7 +7935,7 @@ msgstr "Year plans"
 
 #: templates/account/plans.php:72
 msgid "Годовая&nbsp;стоимость"
-msgstr "Annual &nbsp; cost"
+msgstr "Annual&nbsp;cost"
 
 #: templates/account/plans.php:84 templates/account/plans.php:172 templates/main/main.php:301 templates_orig/main/main.php:216
 msgid "купить"
@@ -7983,7 +7983,7 @@ msgstr "% on all  tarriff plans"
 
 #: templates/account/plans.php:151
 msgid "Срок действия: "
-msgstr "Valid until:"
+msgstr "Valid until: "
 
 #: templates/account/plans.php:151
 msgid "бессрочно"
