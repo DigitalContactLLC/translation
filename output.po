@@ -5940,7 +5940,7 @@ msgstr "You can invent your own unique scenarios."
 
 #: templates/campaigns/mailtrig.php:22
 msgid "Отслеживайте статистику и аналитику отдельно по каждой из триггерных рассылок."
-msgstr "Track statistics and analytics separately for each of the trigger campaigns."
+msgstr "Track statistics and analytics for each of the trigger campaigns."
 
 #: templates/campaigns/mailtrig.php:23
 msgid "Интеграция с Google Analytics."
@@ -6026,7 +6026,7 @@ msgstr "DRAFT"
 
 #: templates/campaigns/campaigns-list.php:98 templates_orig/campaigns/campaigns-list.php:97
 msgid "ОТЛОЖЕНА ДЛЯ [A/B]"
-msgstr "Scheduled FOR [A/B]"
+msgstr "SCHEDULED FOR [A/B]"
 
 #: templates/campaigns/campaigns-list.php:99 templates/campaigns/campaigns-list.php:101 templates_orig/campaigns/campaigns-list.php:98
 #: templates_orig/campaigns/campaigns-list.php:100
@@ -6090,11 +6090,11 @@ msgstr "Reject"
 
 #: templates/campaigns/campaigns-list.php:143 templates_orig/campaigns/campaigns-list.php:142
 msgid "что исправить?"
-msgstr "what to fix?"
+msgstr "what is there to fix?"
 
 #: templates/campaigns/campaigns-list.php:147 templates_orig/campaigns/campaigns-list.php:146
 msgid "Не задана"
-msgstr "Unspecified"
+msgstr "Not selected"
 
 #: templates/campaigns/campaigns-list.php:147 templates_orig/campaigns/campaigns-list.php:146
 msgid "Удалена"
@@ -6120,12 +6120,12 @@ msgstr "Comment by support team:"
 #: templates/campaigns/fix-info.php:69 templates/campaigns/fix-info.php:95 templates_orig/campaigns/fix-info.php:69
 #: templates_orig/campaigns/fix-info.php:95
 msgid "Требования указанные выше обязательны, чтобы ваша рассылка прошла модерацию."
-msgstr "The requirements listed above are obligatory so that your newsemail will  pass moderation."
+msgstr "The requirements listed above are obligatory so that your newsemail will pass moderation."
 
 #: templates/campaigns/fix-info.php:70 templates/campaigns/fix-info.php:96 templates_orig/campaigns/fix-info.php:70
 #: templates_orig/campaigns/fix-info.php:96
 msgid "С уважением, техническая поддержка."
-msgstr "Sincerely, technical support."
+msgstr "Best regards, technical support."
 
 #: templates/campaigns/fix-info.php:71
 msgid "Быстрый ответ:"
@@ -6246,7 +6246,7 @@ msgstr "October"
 
 #: templates/account/money.php:83
 msgid "November"
-msgstr "Number"
+msgstr "November"
 
 #: templates/account/money.php:84
 msgid "December"
@@ -6270,7 +6270,7 @@ msgstr "your customers"
 
 #: templates/account/money.php:112 templates/account/money.php:256
 msgid "еще не было никаких заказов и платежей."
-msgstr "There were no more orders and payments."
+msgstr "There were no more orders or payments."
 
 #: templates/account/money.php:117 templates/account/money.php:261 templates_orig/account/billing.php:54
 msgid "Дата создания счета"
@@ -6306,7 +6306,7 @@ msgstr "Documentation"
 
 #: templates/account/money.php:136 templates/account/money.php:280
 msgid "[подтвердить]"
-msgstr "confirm invoice"
+msgstr "[confirm]"
 
 #: templates/account/money.php:136 templates/account/money.php:280
 msgid "Откатить аванс"
@@ -6439,11 +6439,11 @@ msgstr "December"
 
 #: templates/account/money.php:310
 msgid "Подтвердить оплату счета"
-msgstr "Confirm Payment"
+msgstr "Confirm the payment"
 
 #: templates/account/money.php:311
 msgid "Подтвердить удаление счета"
-msgstr "Confirm Delete"
+msgstr "Confirm deletion"
 
 #: templates/account/contact.php:41 templates/account/contact.php:96
 msgid "fields, marked <span class=\"req\">*</span> required fields"
@@ -6453,7 +6453,7 @@ msgstr "fields, marked <span class=\"req\">*</span> required fields"
 msgid ""
 "Данная информация необходима, чтобы мы могли с вами связаться быстро и четко, когда это необходимо. Ваша информация держится строго "
 "конфиденциально."
-msgstr "This information is needed so that we can contact you quickly when you need it. Your information is kept strictly confidential."
+msgstr "This information is neccessary so that we can contact you quickly and when you need it. Your information is kept strictly confidential."
 
 #: templates/account/contact.php:43
 msgid "Privacy Policy"
@@ -6511,7 +6511,7 @@ msgstr "address"
 
 #: templates/account/contact.php:140 templates_orig/account/contact.php:72 new-user.php:307
 msgid "страна"
-msgstr "the country"
+msgstr "country"
 
 #: templates/account/contact.php:159 templates/account/contact.php:162 templates/lists/footer.php:219 templates/lists/footer.php:222
 #: templates/lists/footer.php:335 templates_orig/account/contact.php:46 templates_orig/lists/footer.php:71 new-user.php:356 new-user.php:359
@@ -6556,7 +6556,7 @@ msgstr "create"
 
 #: templates/account/confirm-bill.php:85
 msgid " и продлили действие текущего месячного плана еще на "
-msgstr " and extended the current monthly plan still on "
+msgstr " and extended the current monthly plan on "
 
 #: templates/account/confirm-bill.php:85
 msgid " месяц"
@@ -6585,7 +6585,7 @@ msgstr "for the client"
 
 #: templates/account/confirm-bill.php:120 templates/account/confirm-bill.php:142 templates/account/choose_payment.php:100
 msgid "на сумму:"
-msgstr "Amount:"
+msgstr "for the amount of:"
 
 #: templates/account/confirm-bill.php:120 templates/account/clients.php:61 templates/account/clients.php:147
 #: templates_orig/account/clients.php:33
@@ -6625,12 +6625,12 @@ msgid ""
 "Чтобы подтвердить оплату счета на безналичный банковский перевод - введите входящие реквизиты платежного поручения. <strong>Например, №123 "
 "от 16.02.2011</strong>"
 msgstr ""
-"To confirm payment account for non-cash bank transfer enter incoming payment order details. <strong>For example, #123 from 16.02.2011"
+"To confirm the account payment with non-cash bank transfer enter the incoming payment order details. <strong>For example, #123 from 16.02.2011"
 "</strong>"
 
 #: templates/account/confirm-bill.php:144
 msgid "от"
-msgstr "of"
+msgstr "from"
 
 #: templates/account/confirm-bill.php:146
 msgid "подтвердить счет"
@@ -6662,7 +6662,7 @@ msgstr "administration "
 
 #: templates/account/subaccount_save.php:25 templates_orig/account/subaccount_save.php:25
 msgid "Вам создан субаккаунт"
-msgstr "A subaccount is created"
+msgstr "Your subaccount is created"
 
 #: templates/account/company_plans.php:72
 msgid "Default pricing plans"
@@ -6678,11 +6678,11 @@ msgstr "Subscribers"
 
 #: templates/account/company_plans.php:90
 msgid "Emails"
-msgstr "Email"
+msgstr "Emails"
 
 #: templates/account/company_plans.php:91 templates/account/company_plans.php:161
 msgid "Monthly payment"
-msgstr "Monthly plans"
+msgstr "Monthly payment"
 
 #: templates/account/company_plans.php:103
 msgid "Free"
@@ -6709,7 +6709,7 @@ msgstr "by agreement"
 
 #: templates/account/company_plans.php:122
 msgid "Credit palns"
-msgstr "edit A/B campaign"
+msgstr "Credit plans"
 
 #: templates/account/company_plans.php:126
 msgid "Credit"
@@ -6729,11 +6729,11 @@ msgstr "Add new monthly payment"
 
 #: templates/account/company_plans.php:159
 msgid "Subscribers limit"
-msgstr "Subscribers"
+msgstr "Subscribers limit"
 
 #: templates/account/company_plans.php:160
 msgid "Emails limit"
-msgstr "Limit emails"
+msgstr "Emails limit"
 
 #: templates/account/company_plans.php:177 templates/account/company_plans.php:310
 msgid "Инструкция"
@@ -6769,7 +6769,7 @@ msgstr "Set a discount for the customer"
 
 #: templates/account/company_plans.php:208
 msgid "Discount"
-msgstr "Account"
+msgstr "Discount"
 
 #: templates/account/company_plans.php:209
 msgid "Until what time works"
@@ -6801,7 +6801,7 @@ msgstr "[back to clients]"
 
 #: templates/account/company_plans.php:242
 msgid "по умолчанию"
-msgstr "default"
+msgstr "by default"
 
 #: templates/account/company_plans.php:248
 msgid "Месячные планы или купить кредиты"
@@ -6825,7 +6825,7 @@ msgstr "Month &nbsp;Payment (£)"
 
 #: templates/account/company_plans.php:289
 msgid "Добавить новый месячный тарифный план"
-msgstr "Add New Plan"
+msgstr "Add a New monthly tarriff Plan"
 
 #: templates/account/company_plans.php:294
 msgid "Лимит по подписчикам"
@@ -6873,7 +6873,7 @@ msgstr "Up to a time:"
 
 #: templates/account/company_plans.php:369
 msgid "* если поле времени пустое - скидка бессрочная"
-msgstr "* If time field is empty - discount perpetual"
+msgstr "* If time field is empty - the discount is permanent"
 
 #: templates/account/campaigns.php:60 templates/account/campaigns.php:102 templates_orig/account/campaigns.php:15
 msgid "Похоже, ваши клиенты еще не создавали рассылок."
