@@ -12510,6 +12510,18 @@ msgstr "Already have an account? "
 msgid "Login here."
 msgstr "Login here."
 
+#: header_wizard.php:529
+msgid "Autoresponder"
+msgstr "Autoresponder"
+
+#: header_wizard.php:529
+msgid "Campaign"
+msgstr "Campaign"
+
+#: header_wizard.php:529
+msgid "builder"
+msgstr "builder"
+
 #~ msgid "Receivers"
 #~ msgstr "Receivers"
 
