@@ -5680,11 +5680,11 @@ msgstr "all campaigns"
 
 #: templates/campaigns/campaigns-folders.php:13 templates_orig/campaigns/campaigns-folders.php:13
 msgid "отложенные рассылки"
-msgstr "Delayed campaigns "
+msgstr "Scheduled"
 
 #: templates/campaigns/campaigns-folders.php:13 templates_orig/campaigns/campaigns-folders.php:13
 msgid "рассылки по базам"
-msgstr "Campaigns to lists"
+msgstr "Sent to lists"
 
 #: templates/campaigns/campaigns-folders.php:25 templates_orig/campaigns/campaigns-folders.php:18
 msgid "заблокированные"
