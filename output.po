@@ -6026,7 +6026,7 @@ msgstr "DRAFT"
 
 #: templates/campaigns/campaigns-list.php:98 templates_orig/campaigns/campaigns-list.php:97
 msgid "ОТЛОЖЕНА ДЛЯ [A/B]"
-msgstr "SCHEDULED FOR [A/B]"
+msgstr "DELAYED FOR [A/B]"
 
 #: templates/campaigns/campaigns-list.php:99 templates/campaigns/campaigns-list.php:101 templates_orig/campaigns/campaigns-list.php:98
 #: templates_orig/campaigns/campaigns-list.php:100
@@ -6897,11 +6897,11 @@ msgstr "Month"
 
 #: templates/account/sent-messages.php:26 templates_orig/account/sent-messages.php:26
 msgid "Сумма отправленных писем"
-msgstr "The sum of sent emails"
+msgstr "Total number of sent emails"
 
 #: templates/account/sent-messages.php:39 templates_orig/account/sent-messages.php:39
 msgid "Клиент писем не отправлял"
-msgstr "Customer did not sent  any emails"
+msgstr "Customer did not send any emails"
 
 #: templates/account/company_details.php:26 templates/account/company_details.php:42 templates_orig/account/billing.php:58
 msgid "Реквизиты"
@@ -6929,7 +6929,7 @@ msgstr "My bank payment details"
 
 #: templates/account/company_details.php:48
 msgid "общие реквизиты"
-msgstr "General props"
+msgstr "General requisites"
 
 #: templates/account/company_details.php:58
 msgid "Тип налогообложения"
@@ -6937,7 +6937,7 @@ msgstr "Tax type"
 
 #: templates/account/company_details.php:60
 msgid "Общая система налогообложения (НДС 18%"
-msgstr "General taxation (VAT 18%"
+msgstr "General taxation (goods and services tax 18%"
 
 #: templates/account/company_details.php:61
 msgid "Упрощенная система налогообложения (УСН)"
@@ -6981,7 +6981,7 @@ msgstr "Full name of director"
 
 #: templates/account/company_details.php:92
 msgid "Полностью в именительном падеже: Петров Петр Петрович"
-msgstr "Fully in the nominative case: Petrov Petr Petrovich"
+msgstr "Full name:"
 
 #: templates/account/company_details.php:96
 msgid "ФИО главного бухгалтера"
@@ -6989,7 +6989,7 @@ msgstr "Name of the Chief Accountant"
 
 #: templates/account/company_details.php:99
 msgid "Полностью в именительном падеже: Иванов Иван Иванович"
-msgstr "Fully in the nominative case: Ivanov Ivan Ivanovich"
+msgstr "Full name:"
 
 #: templates/account/company_details.php:107
 msgid "банковские реквизиты"
@@ -7021,7 +7021,7 @@ msgstr "BIC"
 
 #: templates/account/company_details.php:146
 msgid "почтовые реквизиты"
-msgstr "postal props"
+msgstr "postal details"
 
 #: templates/account/company_details.php:148
 msgid "Юридический адрес"
@@ -7033,11 +7033,11 @@ msgstr "Postal address"
 
 #: templates/account/company_details.php:156
 msgid "сохранить реквизиты"
-msgstr "Save props"
+msgstr "Save requisites"
 
 #: templates/account/company_details.php:161
 msgid "подписи и печать"
-msgstr "signature and seal"
+msgstr "signatures and stamp"
 
 #: templates/account/company_details.php:165
 msgid "Подпись генерального директора "
@@ -7049,7 +7049,7 @@ msgstr "Signature of the Chief Accountant"
 
 #: templates/account/company_details.php:200
 msgid "Печать организации "
-msgstr "Stamp "
+msgstr "Stamp of the organization"
 
 #: templates/account/cloudpayments.php:17
 msgid "Monthly plan: "
@@ -7110,10 +7110,10 @@ msgstr "The account is set to a Forever Free Plan."
 
 #: templates/account/cloudpayments.php:147 templates/account/cloudpayments.php:148
 msgid ""
-"If you need to send more than one email per month, consider a monthly plan. Every monthly plan allows for an unlimited number of emails. "
+"If you need to send more than one email per month, consider a monthly plan. Every monthly plan allows you to send an unlimited number of emails. "
 "Choose the one that best suits your needs! Just upload your list and send an unlimited number of emails."
 msgstr ""
-"If you need to send more than one email per month, consider a monthly plan. Every monthly plan allows for an unlimited number of emails. "
+"If you need to send more than one email per month, consider a monthly plan. Every monthly plan allows you to send an unlimited number of emails. "
 "Choose the one that best suits your needs! Just upload your list and send an unlimited number of emails."
 
 #: templates/account/cloudpayments.php:152
@@ -7125,8 +7125,8 @@ msgid "emails"
 msgstr "Emails"
 
 #: templates/account/cloudpayments.php:154
-msgid "pay monyhly"
-msgstr "pay monyhly"
+msgid "pay monthly"
+msgstr "pay monthly"
 
 #: templates/account/cloudpayments.php:162
 msgid "Forever Free"
@@ -7177,14 +7177,14 @@ msgid ""
 "might find it more convenient to pay-as-you-go. "
 msgstr ""
 "Monthly plans provide the best bang for your buck, but they don't work for everybody. If you don't send out emails too regularly, you "
-"might find it more convenient to pay-as-you-go. "
+"might find it more convenient than pay-as-you-go. "
 
 #: templates/account/cloudpayments.php:208
 msgid ""
 "Remember when you had to buy stamps to send mail? Well that’s sort of how pay-as-you-go credits work. You buy them when you need them, and "
 "hold on to them when you don’t. If flexibility is your main concern, consider Pay-As-You-Go."
 msgstr ""
-"Remember when you had to buy stamps to send mail? Well that's sort of how pay-as-you-go credits work. You buy them when you need them, and "
+"Remember when you had to buy stamps to send a mail? Well that's sort of how pay-as-you-go credits work. You buy them when you need them, and "
 "hold on to them when you don't. If flexibility is your main concern, consider Pay-As-You-Go."
 
 #: templates/account/cloudpayments.php:216
@@ -7252,12 +7252,12 @@ msgid ""
 "рекомендуем использовать ваш собственный домен статистики, который и будет использоваться при автозамене. Например, неплохо использовать "
 "поддомен stat.vash_domain.ru."
 msgstr ""
-"To track clicks and openings we use AutoCorrect links in your emails. <b> To improve deliverability emails </b> We recommend that you use "
-"your own domain of statistics, which will be used in AutoCorrect. For example, a good idea is to use a subdomain stat.your_domain.com."
+"To track clicks and openings we use AutoCorrect links in your emails. <b> To improve deliverability of the emails </b> We recommend that you use "
+"your own statistics domain, which will be used in AutoCorrect. For example, a good idea is to use a subdomain stat.your_domain.com."
 
 #: templates/account/domain.php:170 templates_orig/account/domain.php:129
 msgid "что это такое и зачем нужно?"
-msgstr "Why are we doing this?"
+msgstr "What it this and why do we need this?"
 
 #: templates/account/domain.php:178 templates_orig/account/domain.php:130
 msgid "Домены отправки по-умолчанию"
@@ -7288,8 +7288,8 @@ msgid ""
 " Так вот, чтобы такой гадости не было - задайте свой домен (тот же самый, который и будет в поле \"от Кого\") в поле слева и настройте "
 "соответствующие DNS-записи из появившегося следом блока снизу."
 msgstr ""
-"So for this not to happen set your domain (the same which will be in the field \"from\") in the box on the left, and configure the "
-"appropriate DNS records in  the block at the bottom."
+"So in order for this not to happen set your own domain (the same which will be in the field \"from\") in the box on the left, and configure the "
+"appropriate DNS records in the block at the bottom."
 
 #: templates/account/domain.php:192 templates_orig/account/domain.php:139
 msgid "Домены статистики"
@@ -7302,7 +7302,7 @@ msgid ""
 "нашего собственного спам-фильтра."
 msgstr ""
 "Our service, by default, uses multiple addresses for the replacement of links. This is due to the fact that spam filters work \"by content"
-"\" and domains can get there because of sending spam to our customers. We will be honest,it happens even when moderation and our own spam "
+"\" and domains can get there because of  the spam sent by our customers. We will be honest,it happens even when moderation and our own spam "
 "filter are  taken into account."
 
 #: templates/account/domain.php:194 templates_orig/account/domain.php:141
@@ -7312,14 +7312,14 @@ msgid ""
 "абсолютно без учета репутации ваших \"соседей по серверу отправки\". И если ваши рассылки легитимны и несут пользу людям, то и с "
 "репутацией и доставляемостью у вас все будет хорошо!"
 msgstr ""
-"If you are responsible sender, then adding your own domain statistics, especially in addition to its own domain to send, <b>you get the "
-"highest possible deliverability of your emails</b> in your customers' mailboxes. After all, if the emails are sent completely excluding "
-"the reputation of your \"neighbors in the server sending\". And if your are sending legitimate and benefit the people, so with the "
-"reputation and deliverability you all will be well!"
+"If you are a responsible sender, adding your own domain statistics, especially in addition to the sending domain, <b>will give you"
+"highest possible deliverability of your emails</b> . In this case the emails are sent completely excluding "
+"the reputation of your \"neighbors in the sending server \". And if your are sending legitimate emails that benefit the people, it will be ok with the "
+"reputation and deliverability of your campaigns!"
 
 #: templates/account/domain.php:230 templates_orig/account/domain.php:169
 msgid "настройка dns-записей"
-msgstr "Configure dns records"
+msgstr "Configuration of dns records"
 
 #: templates/account/domain.php:231 templates_orig/account/domain.php:170
 msgid ""
@@ -7327,13 +7327,13 @@ msgid ""
 "вашего домена с корректными цифровыми подписями. Красное поле означает, что запись недействительна. Имейте терпение, изменение DNS может "
 "занять продолжительное время. Просто зайдите сюда чуть позже."
 msgstr ""
-"You need to make the following DNS-entry. Once they are registered, and we can podverdit them - will send a email on behalf of your domain "
-"with the correct digital signature. Red box indicates that the entry is invalid. Have patience, DNS change can take a long time. Just go "
+"You need to make the following DNS-record. Once they are registered, and we can confirm them emails will be sent on behalf of your domain "
+"with the correct digital signature. Red box indicates that the record is invalid. Have patience, the change of DNS can take a long time. Just come "
 "here later."
 
 #: templates/account/domain.php:236 templates_orig/account/domain.php:175
 msgid "Тип записи"
-msgstr "Post Type"
+msgstr "Record Type"
 
 #: templates/account/domain.php:237 templates_orig/account/domain.php:176
 msgid "Субдомен"
@@ -7370,12 +7370,12 @@ msgstr "View all clients </a>"
 
 #: templates/account/clients.php:69 templates/account/clients.php:161 templates_orig/account/clients.php:47
 msgid "Похоже, что Вас нету своих клиентов."
-msgstr "It seems that you haven't been their clients."
+msgstr "It seems that you don't have any clients."
 
 #: templates/account/clients.php:83 templates/account/clients.php:178 templates_orig/account/clients.php:64
 #: templates_orig/account/subaccount.php:43
 msgid "не активировал аккаунт"
-msgstr "inactive"
+msgstr "account is not activated"
 
 #: templates/account/clients.php:87 templates/account/clients.php:184 templates_orig/account/clients.php:70
 msgid "Тарифный План:"
@@ -7438,7 +7438,7 @@ msgstr "delete account"
 
 #: templates/account/clients.php:125 templates/account/clients.php:201 templates_orig/account/clients.php:87
 msgid "Вернуться к списку своих клиентов"
-msgstr "Back to own clients"
+msgstr "Back to clients list"
 
 #: templates/account/clients.php:131 templates/account/clients.php:207 templates_orig/account/clients.php:93
 msgid "Выставить счет"
@@ -7446,7 +7446,7 @@ msgstr "Issue invoice"
 
 #: templates/account/clients.php:132 templates/account/clients.php:208 templates_orig/account/clients.php:94
 msgid "Доверие клиента"
-msgstr "Client trust"
+msgstr "Customers trust"
 
 #: templates/account/clients.php:133 templates/account/clients.php:209 templates_orig/account/clients.php:95
 msgid "Статистика отправленных сообщений"
@@ -7454,19 +7454,19 @@ msgstr "Statistics of sent messages"
 
 #: templates/account/clients.php:146 templates_orig/account/clients.php:32
 msgid "Всего клиентов:"
-msgstr "Total customers:"
+msgstr "Total number of customers:"
 
 #: templates/account/clients.php:147 templates_orig/account/clients.php:33
 msgid "Оплачено счетов на сумму:"
 msgstr "Paid:"
 
 #: templates/account/clients.php:152
-msgid "поиск клиентаа"
-msgstr "search subscribers"
+msgid "поиск клиента"
+msgstr "search customers"
 
 #: templates/account/clients.php:152 templates_orig/account/clients.php:38
 msgid "поиск клиента"
-msgstr "search subscribers"
+msgstr "search customers"
 
 #: templates/account/clients.php:179 templates_orig/account/clients.php:65
 msgid "последний платеж: "
@@ -7486,7 +7486,7 @@ msgstr "search account"
 
 #: templates/account/subaccount.php:85 templates_orig/account/subaccount.php:13
 msgid "Всего субаккаунтов:"
-msgstr "Total subaccounts:"
+msgstr "Total number of subaccounts:"
 
 #: templates/account/subaccount.php:96 templates_orig/account/subaccount.php:28
 msgid "Похоже, что это не ваш субаккаунт."
@@ -7494,7 +7494,7 @@ msgstr "It seems that this is not your subaccount."
 
 #: templates/account/subaccount.php:96 templates_orig/account/subaccount.php:28
 msgid "Посмотреть все свои субаккаунты"
-msgstr "View all its subaccounts"
+msgstr "View all subaccounts"
 
 #: templates/account/subaccount.php:96 templates_orig/account/subaccount.php:28
 msgid "Похоже, что Вас нету своих субаккаунтов."
@@ -7532,7 +7532,7 @@ msgstr "confirm password"
 #: templates/account/password-sub.php:90 templates/account/password.php:95 templates_orig/account/password-sub.php:33
 #: templates_orig/account/password.php:29
 msgid "Чтобы изменить логин или пароль на новые, необходимо ввести текущий пароль."
-msgstr "To change your login or password to the new, you must enter your current password."
+msgstr "To change your login or password for the new ones, you must enter your current password."
 
 #: templates/account/password-sub.php:97 templates/account/password-sub.php:100 templates/account/password.php:101
 #: templates/account/password.php:104 templates_orig/account/password-sub.php:34 templates_orig/account/password.php:30
@@ -7549,7 +7549,7 @@ msgstr "error_email"
 
 #: templates/account/save_cc_details.php:24
 msgid "Your subscription is cancelled. Month plan will be active till "
-msgstr "Your subscription is cancelled. Month plan will be active till "
+msgstr "Your subscription is cancelled. Monthly plan will be active till "
 
 #: templates/account/save_cc_details.php:31
 msgid "Your subscription is renewed. Next charge will be at "
@@ -7581,7 +7581,7 @@ msgstr " Next charge: "
 
 #: templates/account/save_cc_details.php:103
 msgid "Your successfully subscribed with new credit card: "
-msgstr "Your successfully subscribed with new credit card: "
+msgstr "Your  have successfully subscribed with new credit card: "
 
 #: templates/account/automoderator.php:19
 msgid "ERROR"
@@ -7615,7 +7615,7 @@ msgstr "errors"
 
 #: templates/account/confirm-delete-sub.php:13 templates_orig/account/confirm-delete-sub.php:13
 msgid "Действительно хотите удалить субаккаунт"
-msgstr "Sure you want to delete the subaccount"
+msgstr "Are you sure you want to delete the subaccount"
 
 #: templates/account/upgrade-account.php:23
 msgid "Current Credit Card"
@@ -7707,7 +7707,7 @@ msgstr "Technical support address"
 
 #: templates/account/cobranding.php:72
 msgid "Адрес, по которому ваши клиенты могут сообщить вам об ошибке в работе сервиса"
-msgstr "The address to which your customers can inform you of an error in the operation of the service"
+msgstr "The address to which your customers can use to inform you of an error in the operation of the service"
 
 #: templates/account/cobranding.php:76
 msgid "Выберите тему"
@@ -7739,15 +7739,15 @@ msgstr "Dark thoughts"
 
 #: templates/account/cobranding.php:85
 msgid "оранжевый трэш"
-msgstr "Orange thrash"
+msgstr "Orange trash"
 
 #: templates/account/cobranding.php:86
 msgid "серые будни"
-msgstr "drab existence"
+msgstr "grey routine"
 
 #: templates/account/cobranding.php:87
 msgid "швейцария рядом"
-msgstr "Switzerland next"
+msgstr "Switzerland is near"
 
 #: templates/account/cobranding.php:88
 msgid "wall street"
@@ -7755,7 +7755,7 @@ msgstr "wall street"
 
 #: templates/account/cobranding.php:89
 msgid "деревянный интернет"
-msgstr "wood online"
+msgstr "wooden internet"
 
 #: templates/account/cobranding.php:93
 msgid "Применить"
@@ -7775,7 +7775,7 @@ msgstr "Remove personal appearance"
 
 #: templates/account/cobranding.php:98
 msgid "Возврат настроек по умолчанию приведет к удалению всех ваших персональных настроек, включая лого, тему и название компании."
-msgstr "Returning to default settings will delete all your personal settings, including the logo, theme and title company."
+msgstr "Returning to default settings will delete all your personal settings, including the logo, theme and title of the company."
 
 #: templates/account/cobranding.php:99
 msgid "вернуть по-умолчанию"
@@ -7804,7 +7804,7 @@ msgstr "Privacy Policy"
 
 #: templates/account/sms-auth.php:46
 msgid "Некорректно задан номер!"
-msgstr "Incorrectly configured number!"
+msgstr "Incorrect number!"
 
 #: templates/account/sms-auth.php:62
 msgid "Вы успешно подтвердили свой номер!"
@@ -7820,7 +7820,7 @@ msgstr "Clear"
 
 #: templates/account/sms-auth.php:80 templates_orig/account/sms-auth.php:80
 msgid "как это работает?"
-msgstr "how it works?"
+msgstr "how does it work?"
 
 #: templates/account/sms-auth.php:81
 msgid "Двухфакторная авторизация на Печкине"
@@ -7831,24 +7831,24 @@ msgid ""
 "Авторизация в 2 шага при помощи SMS помогает нам защитить ваш аккаунт от взлома. Логин и пароль можно украсть с помощью вирусов и троянов. "
 "Поэтому если хотите - мы будем вас идентифицировать дополнительно по вашему мобильному телефону! Прямо как в банке!"
 msgstr ""
-"Authorization in 2 steps using SMS helps us protect your account from hacking. Username and password can be stolen using viruses and "
-"Trojans. So if you want-we will identify you on your mobile phone! Just like in the Bank!"
+"2 step authorization using SMS helps us protect your account from hacking. Username and password can be stolen using viruses and "
+"Trojans. So if you want it we will identify you using your mobile phone! Just like in the Bank!"
 
 #: templates/account/sms-auth.php:84
 msgid "Вводите логин/пароль на Печкине как обычно"
-msgstr "Entering login and password..."
+msgstr "Enter your login and password on MailWheel as usual"
 
 #: templates/account/sms-auth.php:85
 msgid "Мы отправляем вам SMS с одноразовым паролем"
-msgstr "We send you an SMS with a one-time password"
+msgstr "We send you an SMS with a disposable password"
 
 #: templates/account/sms-auth.php:86
 msgid "Введя полученные 4 цифры - вы подтверждаете, что Вы это Вы!"
-msgstr "By entering 4 digits received-you acknowledge that you is you!"
+msgstr "By entering 4 digits you have received you confirm  that you is you!"
 
 #: templates/account/sms-auth.php:90 templates_orig/account/sms-auth.php:90
 msgid "Подтверждаем номер для авторизации"
-msgstr "Reaffirm the authorization number"
+msgstr "Confirming the authorization number"
 
 #: templates/account/plans.php:42 templates/account/billing.php:22 templates/main/main.php:107 templates_orig/account/billing.php:16
 #: templates_orig/main/main.php:98
@@ -7887,7 +7887,7 @@ msgstr "of monthly plan"
 #: templates/account/plans.php:44 templates/account/billing.php:22 templates/account/billing.php:27 templates/main/main.php:109
 #: templates_orig/account/billing.php:16 templates_orig/account/billing.php:18 templates_orig/main/main.php:100
 msgid "писем на "
-msgstr "emails on "
+msgstr "emails to "
 
 #: templates/account/plans.php:44 templates/account/billing.php:27 templates_orig/account/billing.php:18
 msgid "Попробуйте еще раз."
