@@ -12089,6 +12089,10 @@ msgstr "forward"
 msgid "A/B-настройки"
 msgstr "A/B campaign settings"
 
+#: templates_orig/header_wizard_split.php:425
+msgid "A/B campaign"
+msgstr "A/B campaign"
+
 #: templates_orig/header_wizard_split.php:91
 msgid "Статистика"
 msgstr "Statistics"
