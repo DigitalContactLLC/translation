@@ -9150,9 +9150,9 @@ msgid ""
 "                                                When you create a list we'll automatically build a signup form to customize for your "
 "website, Facebook, iPad and more."
 msgstr ""
-"Signup forms let people subscribe to your list.\n"
-"                                                When you create a list we'll automatically build a signup form to customize your "
-"website, Facebook, iPad and more."
+"We will show you reports on your campaign openings, clicks ,\n"
+"                                                links your subscribers don't have access to "
+"as well as the users who have unsubscribed from your newsletters"
 
 #: templates/main/main.php:393
 msgid "monitor the success of each campaign in reports"
@@ -9887,7 +9887,7 @@ msgstr "send button background"
 
 #: templates/lists/forms.php:166 templates_orig/lists/forms.php:96
 msgid "фона кнопки при наведении"
-msgstr "button hover background effect"
+msgstr "button background when selecting"
 
 #: templates/lists/forms.php:167 templates_orig/lists/forms.php:97
 msgid "текста кнопки отправки"
@@ -10317,8 +10317,8 @@ msgid ""
 "\">требования российского и международного законодательства</a>. Если вы агентство, отправляющее  рассылки за своих клиентов, введите "
 "информацию о своем клиенте."
 msgstr ""
-"\">requirements of Russian and international legislation. If you are an agency, sending campaigns for their clients, enter information "
-"about their client."
+"\">requirements of British and international legislation. If you are an agency that sends campaigns on behalf of your clients, enter information "
+"about your client."
 
 #: templates/lists/footer.php:131 templates/lists/footer.php:134 templates/lists/footer.php:299 templates_orig/lists/footer.php:35
 msgid "Контактное лицо"
@@ -10354,7 +10354,7 @@ msgstr "By default, the phone does not show up in the basement of the email."
 
 #: templates/lists/footer.php:225 templates/lists/footer.php:336 templates_orig/lists/footer.php:72
 msgid "Где люди могут вписаться в ваши рассылки?"
-msgstr "Where can people  fit into your campaign?"
+msgstr "Where can people  subscribe to your campaigns?"
 
 #: templates/lists/footer.php:232 templates/lists/footer.php:235 templates/lists/footer.php:316 templates_orig/lists/footer.php:52
 msgid "Город"
