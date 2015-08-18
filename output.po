@@ -7460,10 +7460,6 @@ msgstr "Total number of customers:"
 msgid "Оплачено счетов на сумму:"
 msgstr "Paid:"
 
-#: templates/account/clients.php:152
-msgid "поиск клиента"
-msgstr "search customers"
-
 #: templates/account/clients.php:152 templates_orig/account/clients.php:38
 msgid "поиск клиента"
 msgstr "search customers"
