@@ -7967,7 +7967,7 @@ msgstr "Freebie!"
 
 #: templates/account/plans.php:139
 msgid "<p>Всем клиентам с оплаченными месячными планами доступен <strong>модуль Зоркий Глаз Печкина</strong> до 3 раз на одну рассылку.</p>"
-msgstr "<p>All customers with paid monthly plans available <strong>module keen eye MailWheel</strong> up to 3 times on one campaign.</p>"
+msgstr "<p>For all customers with paid monthly plans <strong> keen eye MailWheel</strong> module is available up to 3 times for one campaign.</p>"
 
 #: templates/account/plans.php:151
 msgid "Поздравляем! У вас сейчас действует"
@@ -7979,7 +7979,7 @@ msgstr "discount"
 
 #: templates/account/plans.php:151
 msgid "% на все тарифные планы"
-msgstr "% on all  tarriff plans"
+msgstr "% for all  tarriff plans"
 
 #: templates/account/plans.php:151
 msgid "Срок действия: "
@@ -7987,7 +7987,7 @@ msgstr "Valid until: "
 
 #: templates/account/plans.php:151
 msgid "бессрочно"
-msgstr "indefinitely"
+msgstr "permanently"
 
 #: templates/account/plans.php:151
 msgid "до "
@@ -7995,12 +7995,12 @@ msgstr "to "
 
 #: templates/account/plans.php:151
 msgid " по МСК"
-msgstr " on MSK"
+msgstr " MSK"
 
 #: templates/account/plans.php:156
 msgid "Вы часто отправляете письма (хотя бы раз в месяц)? Тогда месячный план это наиболее экономный вариант. Подробности читайте на сайте"
 msgstr ""
-"Do you often send emails (at least once a month)? Then the monthly plan is the most economical option. For more details, see the website"
+"Do you often send emails (at least once a month)? Then a monthly plan is the most suitable option. For more details, see the website"
 
 #: templates/account/plans.php:156 templates/account/plans.php:189
 msgid "в разделе \"Наши цены\""
@@ -8056,12 +8056,12 @@ msgid ""
 "Вы не так часто отправляете рассылки (реже чем раз в месяц)? Тогда оплата за отправленные письма это наиболее выгодный вариант. "
 "Заказывайте их тогда, когда они вам нужны. Подробности читайте на сайте"
 msgstr ""
-"You do  not  send campaign often (less than once a month)? Then paying for sent emails is the most beneficial option. Order them when you "
+"You do  not  send campaigns often (less than once a month)? Then paying for sent emails is the most suitable option. Order them when you "
 "need them. For more details, see our website"
 
 #: templates/account/plans.php:195
 msgid "Cледует вводить ЧИСЛА без пробелов!"
-msgstr "Please enter the NUMBER without spaces!"
+msgstr "Please enter the DIGITS without spaces!"
 
 #: templates/account/plans.php:200
 msgid "минимум 10 email-кредитов"
@@ -8085,7 +8085,7 @@ msgstr "order"
 
 #: templates/account/plans.php:241
 msgid "Купите столько писем, сколько надо:"
-msgstr "Buy as many emails, as it is necessary:"
+msgstr "Buy as many emails, as needed:"
 
 #: templates/account/plans.php:245
 msgid "<- Введите количество писем"
@@ -8097,7 +8097,7 @@ msgstr "Are you a legal entity?"
 
 #: templates/account/plans.php:255
 msgid "Выставить себе счет на безналичную оплату можно после заполнения своих"
-msgstr "Expose yourself to account for non-cash payment is possible after filling their"
+msgstr " You can set a bill for non-cash payment only after filling in your"
 
 #: templates/account/plans.php:255
 msgid ""
@@ -8106,7 +8106,7 @@ msgid ""
 "почте, на адрес, указанный Вами в реквизитах компании. Электронный вариант документов всегда доступен для скачивания в личном кабинете."
 msgstr ""
 "bank details</a>. The original closing documents are formed at the beginning of next month, the month in which the payment was made . "
-"Original Agreement in two copies is sent with the first package of documents  by the post, to the address you specified in the details of "
+"Original Agreement in two copies is sent with the first package of documents  by post to the address you specified in the details of "
 "the company. The electronic version of the document is always available for download in your account."
 
 #: templates/account/plans.php:261
@@ -8191,7 +8191,7 @@ msgstr " pence/email"
 
 #: templates/account/affiliate.php:22
 msgid "Вознаграждения от Печкина"
-msgstr "Reward from MailWheela"
+msgstr "Reward from MailWheel"
 
 #: templates/account/affiliate.php:25
 msgid "заработано за этот месяц"
@@ -8200,7 +8200,7 @@ msgstr "earned this month"
 #: templates/account/affiliate.php:26 templates/account/affiliate.php:32 templates/account/affiliate.php:33
 #: templates/account/affiliate.php:34 templates/account/affiliate.php:98 templates/account/affiliate.php:127
 msgid "pуб."
-msgstr "rub."
+msgstr "£."
 
 #: templates/account/affiliate.php:28
 msgid "рефералов"
@@ -8350,7 +8350,7 @@ msgstr ""
 
 #: templates/account/affiliate.php:150
 msgid "Вознаграждения начисляются только при подтверждении факта оплаты услуг сервиса вашим рефералом."
-msgstr "Remuneration is charged only upon confirmation of the fact of payment service your referral."
+msgstr "Rewards are is charged only upon confirmation by your referral."
 
 #: templates/account/affiliate.php:151
 msgid ""
@@ -8497,7 +8497,7 @@ msgstr "Request to change username"
 
 #: templates/account/password_save.php:85 templates_orig/account/password_save.php:74
 msgid "Уважаемый(ая) "
-msgstr "Dear "
+msgstr "Dear"
 
 #: templates/account/password_save.php:86
 msgid "This letter came to you because you sent a request to change the password for the service "
@@ -8531,31 +8531,31 @@ msgstr "Pay the annual monthly plan 20% discount at old prices!"
 
 #: templates/account/pricesup.php:11
 msgid "Судите сами, все очень выгодно:"
-msgstr "See for yourself, everything iis very profitable:"
+msgstr "See for yourself, everything is very profitable:"
 
 #: templates/account/pricesup.php:13
 msgid "Возьмем, для примера, тарифный план на 10 000 подписчиков за 1500 рублей"
-msgstr "Take, for example, a tariff for 10000 subscribers for 1500 rubles"
+msgstr "Take, for example, a tariff plan for 10000 subscribers for 14.6323 £"
 
 #: templates/account/pricesup.php:14
 msgid "В 2015 году он будет стоить 2100 рублей"
-msgstr "In the year 2015 it will cost 2100 roubles"
+msgstr "In the year 2015 it will cost 20£"
 
 #: templates/account/pricesup.php:15
 msgid "Оплачивая этот тариф просто каждый месяц вы заплатите 2100*12 = 25200 рублей"
-msgstr "By paying this fee you pay every month just 2100 * 12 = 25200 rubles"
+msgstr "By paying this fee you pay every month just 2100 * 12 = 245 £ "
 
 #: templates/account/pricesup.php:16
 msgid "Оплатив этот тариф сразу на 12 месяцев в январе 2015 вы заплатите на 20% меньше = 20160 рублей"
-msgstr "If you pay for 12 months i at once in January 2015 you will pay 20% less = 20160 rubles"
+msgstr "If you pay for 12 months i at once in January 2015 you will pay 20% less = 196 £"
 
 #: templates/account/pricesup.php:17
 msgid "А оплатив этот тариф сразу на год до 31 декабря 2014 года вы заплатите всего 14400 рублей"
-msgstr "And if you pay for the whole year immediately prior to December 31, 2014 you pay just 14400 rubles"
+msgstr "And if you pay for the whole year immediately prior to December 31, 2014 you pay just 140 £"
 
 #: templates/account/pricesup.php:18
 msgid "Ваша экономия составит от 5760 до 10800 рублей"
-msgstr "Your savings will be from 5760 to 10800 rubles"
+msgstr "Your savings will be from 56 to 105 £"
 
 #: templates/account/pricesup.php:20
 msgid "Не упускайте свою выгоду! Оплачивайте письма прямо сейчас!"
@@ -8606,11 +8606,11 @@ msgstr "Campaign settings"
 
 #: templates/account/rights.php:119 templates_orig/account/rights.php:92
 msgid "Показывать пользователю только его рассылки"
-msgstr "Show the user just his campaign"
+msgstr "Show the user just his/her campaigns"
 
 #: templates/account/rights.php:132 templates_orig/account/rights.php:76
 msgid "Настройки адресных баз"
-msgstr "Configuring lists"
+msgstr "Address list settings"
 
 #: templates/account/rights.php:133 templates_orig/account/rights.php:77
 msgid "<strong>Запретить</strong> пользователю доступ к следующим адресным базам:"
@@ -8658,7 +8658,7 @@ msgstr "Create a subaccount"
 
 #: templates/account/history.php:62 templates_orig/account/history.php:52
 msgid "Изменение реквизитов Робокассы"
-msgstr "Amendment Robokassy"
+msgstr "Pazment Amendment
 
 #: templates/account/history.php:64 templates_orig/account/history.php:54
 msgid "Изменение банковских реквизитов"
@@ -8674,15 +8674,15 @@ msgstr "Browser"
 
 #: templates/account/create-bill.php:33
 msgid "Создание счета для клиента"
-msgstr "Creating an account for a client"
+msgstr "Creating an invoice for a client"
 
 #: templates/account/create-bill.php:34
 msgid "Чтобы выписать счет - выберите тарифный план клиента, на который следует создать счет на оплату через банк."
-msgstr "To invoice-choose tariff plan the client for which you want to create an invoice for payment via bank."
+msgstr "To create an invoice choose a tariff plan the client."
 
 #: templates/account/create-bill.php:36
 msgid "---Месячные тарифные планы---"
-msgstr "-Monthly rate plans-"
+msgstr "-Monthly tarriff plans-"
 
 #: templates/account/create-bill.php:38
 msgid " рублей - Месячный план на "
@@ -8698,7 +8698,7 @@ msgstr "£ - "
 
 #: templates/account/create-bill.php:44
 msgid "---Разное---"
-msgstr "-Misc-"
+msgstr "-Other-"
 
 #: templates/account/create-bill.php:45
 msgid "Произвольный платеж"
@@ -8758,11 +8758,11 @@ msgstr "What is Robokassa?"
 
 #: templates/account/cobranding-revert.php:13 templates_orig/account/cobranding-revert.php:13
 msgid "Настройки внешнего вида выставлены по умолчанию."
-msgstr "Customize the appearance of the displayed default."
+msgstr "Settings of the appearance are set by default."
 
 #: templates/account/confirm-delete.php:12 templates_orig/account/confirm-delete.php:12
 msgid "Действительно хотите удалить аккаунт клиента"
-msgstr "Sure you want to delete the account of the client"
+msgstr "Are you sure you want to delete the account of the client"
 
 #: templates/account/confirm-delete.php:13 templates_orig/account/confirm-delete.php:13
 msgid "Все настройки, история платежей, а также вся связанная с этим клиентом информация будут удалены раз и навсегда."
@@ -8772,7 +8772,7 @@ msgstr "All settings, payment history, as well as all related customer informati
 msgid ""
 "Удаление клиента, также влечет за собой удаление всей статистики по подпискам, отказам от рассылки, жалобы и недействительным адресам."
 msgstr ""
-"Uninstalling the client, also entails removal of all statistics on subscriptions, distribution of failures, complaints and invalid "
+"Deleting the client, also entails deletion of all statistics related to subscriptions, rejections to subscribe, complaints and invalid "
 "addresses."
 
 #: templates/account/choose_payment.php:22
@@ -8781,7 +8781,7 @@ msgstr "<b>Improvement:</b> "
 
 #: templates/account/choose_payment.php:48
 msgid "Месячный план на "
-msgstr "Monthly plan "
+msgstr "Monthly plan for"
 
 #: templates/account/choose_payment.php:51 templates/account/choose_payment.php:53 templates/main/main.php:300
 #: templates_orig/main/main.php:216
@@ -8818,7 +8818,7 @@ msgstr "3 months"
 
 #: templates/account/choose_payment.php:93
 msgid "(скидка 6%)"
-msgstr "(6%) discount"
+msgstr "(6% discount)"
 
 #: templates/account/choose_payment.php:94
 msgid "4 месяца"
@@ -8826,7 +8826,7 @@ msgstr "4 months"
 
 #: templates/account/choose_payment.php:94
 msgid "(скидка 9%)"
-msgstr "(9%) discount"
+msgstr "(9% discount)"
 
 #: templates/account/choose_payment.php:95
 msgid "5 месяцев"
@@ -8834,7 +8834,7 @@ msgstr "5 months"
 
 #: templates/account/choose_payment.php:95
 msgid "(скидка 12%)"
-msgstr "(12%) discount"
+msgstr "(12% discount)"
 
 #: templates/account/choose_payment.php:96
 msgid "6 месяцев"
@@ -8867,7 +8867,7 @@ msgstr "activate"
 
 #: templates/account/choose_payment.php:107
 msgid "* Цена расчитана с учетом скидки"
-msgstr "* Price is calculated taking into account discounts"
+msgstr "* Price is calculated including discounts"
 
 #: templates/account/choose_payment.php:111
 msgid "Для юридических лиц"
@@ -8879,7 +8879,7 @@ msgstr "Get invoice for payment"
 
 #: templates/account/choose_payment.php:118
 msgid "Единая касса"
-msgstr "Wallet one"
+msgstr "Single cashier"
 
 #: templates/account/choose_payment.php:121
 msgid "Сбербанк"
@@ -8974,7 +8974,7 @@ msgstr "to confirm"
 
 #: templates/account/save-number.php:47
 msgid "Модуль двухфакторной авторизации введен в строй недавно и находится в стадии бета-тестирования. Если вам не пришло смс - напишите на"
-msgstr "Two-factor authorization module was put into operation recently and is in beta stage. If you have not received the SMS-contact"
+msgstr "Two-factor authorization module was put into operation recently and is in beta testing stage. If you have not received the SMS-contact"
 
 #: templates/account/save-number.php:47
 msgid "и мы обязательно проверим!"
@@ -9006,7 +9006,7 @@ msgstr "Contact us"
 
 #: templates/main/main.php:107 templates_orig/main/main.php:98
 msgid "Вы можете загружать базы и начинать рассылки прямо сейчас"
-msgstr "You can upload the subscribers and start your campaign right now"
+msgstr "You can upload the subscribers lists and start your campaign right now"
 
 #: templates/main/main.php:109 templates_orig/main/main.php:100
 msgid "Попробуйте еще раз"
