@@ -10064,7 +10064,7 @@ msgstr ""
 
 #: templates/lists/unisender.php:93 templates/lists/getresponse.php:79 templates/lists/mailchimp.php:91
 msgid "помощь в переносе баз"
-msgstr "assistance in movibg the lists"
+msgstr "assistance in moving the lists"
 
 #: templates/lists/unisender.php:94
 msgid "Что такое Unisender API_Key?"
@@ -10288,7 +10288,7 @@ msgid ""
 "Импорт больших файлов - трудоемкий процесс. Мы загружаем ваш список, \"откиньтесь на спинку кресла и расслабьтесь\" (с) Microsoft. Не "
 "перезагружайте страницу! В самые кратчайшие сроки мы импортируем всех ваших подписчиков."
 msgstr ""
-"Importing  large files is a hard process. While we upload your list, \"sit back and relax\" (c) Microsoft. Do not restart the page! We will "
+"Importing  large files is a hard process. While we upload your list, do not restart the page! We will "
 " import all your subscribers as soon as possible."
 
 #: templates/lists/blacklist-action.php:21 templates_orig/lists/blacklist-action.php:21
@@ -10404,7 +10404,7 @@ msgstr "The user clicked the \"this is spam\""
 #: templates/lists/show-blacklist.php:40 templates/lists/blacklist-export.php:21 templates_orig/lists/show-blacklist.php:40
 #: templates_orig/lists/blacklist-export.php:21
 msgid "Ручное добавление пользователя"
-msgstr "To add a user manually "
+msgstr "To add a user manually"
 
 #: templates/lists/blacklist-export.php:19 templates_orig/lists/blacklist-export.php:19
 msgid "Пользователь дважды отписался из ваших адресных баз"
@@ -10636,7 +10636,7 @@ msgstr "subscribers and"
 
 #: templates/lists/bulk-action-confirm.php:35 templates_orig/lists/bulk-action-confirm.php:35
 msgid "email-кредитов. Вы загрузили своих подписчиков, которые подписались на ваши рассылки. Зачем вы хотите их "
-msgstr "email credits. You have uploaded your subscribers who have subscribed to your campaigns. Why do you want them"
+msgstr "email credits. You have uploaded your subscribers who have subscribed to your campaigns. Why do you want them "
 
 #: templates/lists/bulk-action-confirm.php:35 templates_orig/lists/bulk-action-confirm.php:35
 msgid ""
@@ -10890,7 +10890,7 @@ msgstr ""
 
 #: templates/lists/lists.php:477 templates_orig/lists/lists.php:70
 msgid "пока ничего не надо"
-msgstr "nothing to need yet"
+msgstr "nothing is needed yet"
 
 #: templates/lists/lists.php:507 templates_orig/lists/lists.php:98
 msgid "Похоже, что у Вас нет адресных баз."
@@ -10902,7 +10902,7 @@ msgstr "create your first list"
 
 #: templates/lists/lists.php:512
 msgid "Или быстро импортируйте из других сервисов."
-msgstr "Or import from other services."
+msgstr "Or import quickly from other services."
 
 #: templates/lists/lists.php:583 templates_orig/lists/lists.php:174
 msgid "Создание новой адресной базы"
@@ -11025,7 +11025,7 @@ msgstr "Save and Continue"
 
 #: builder/index.php:116
 msgid "Не создавать html-версию"
-msgstr "Not creating html-version"
+msgstr "Not to create html-version"
 
 #: builder/index.php:116
 msgid "Сохраняем как черновик..."
@@ -11224,7 +11224,7 @@ msgid ""
 "Используйте редактор стилей слева для редактирования цветов и свойств шрифтов для всего письма сразу, для шапки/тела/подвала письма или "
 "для каждой секции в отдельности."
 msgstr ""
-"Use the Style Editor to the left to edit colors and font properties for all the letters at once, cap/body/listment of letters  or each "
+"Use the Style Editor to the left to edit colors and font properties for all the letters at once, cap/body/basement of letters  or each "
 "section separately."
 
 #: builder/index.php:133
@@ -11236,7 +11236,7 @@ msgid ""
 "Когда Вы наведете мышку над секцией письма или нажмете на нее, в правом верхнем углу секции появятся кнопки для перемещения, копирования, "
 "редактирования или удаления секции."
 msgstr ""
-"When You hover the mouse over a section of the letter, or click on it in the upper right corner of the section there will appear buttons  "
+"When you move the mouse over a section of the letter, or click on it in the upper right corner of the section where there will appear buttons  "
 "to move, copy, edit or delete a section."
 
 #: builder/index.php:133
@@ -11257,7 +11257,7 @@ msgstr ""
 
 #: builder/index.php:133
 msgid "Не показывать данную инструкцию больше"
-msgstr "Not shown this message later"
+msgstr "Not to show this imstructions later"
 
 #: builder/index.php:133 litmus/test_pme.php:32 litmus/test.php:32
 msgid "Закрыть"
@@ -11398,7 +11398,7 @@ msgstr "You have unsubscribed from newsletter successfully!"
 
 #: subscribe/unsubscribe/index.php:57
 msgid "Мы удалили вас из адресной базы и вы больше не получите эту рассылку."
-msgstr "We have removed you from the address datalist and you will no longer receive this newsletter."
+msgstr "We have removed you from the address list and you will no longer receive this newsletter."
 
 #: subscribe/unsubscribe/index.php:69 subscribe/unsubscribe/index.php:76 stat/unsub.php:92 stat/unsub.php:187 stat/unsub.php:197
 msgid "Вы кто такой?"
@@ -11417,7 +11417,7 @@ msgid ""
 "Это тестовая страница отписки. При переходе по ссылке из письма рассылки здесь можно будет отписаться. В тестовых письмах отписаться "
 "нельзя."
 msgstr ""
-"This is a test unsubscription page. You will be able to unsubscribe here by  clicking on the link in the email.You cannot unsubscribe in "
+"This is a test unsubscription page. You will be able to unsubscribe here by clicking on the link in the email.You cannot unsubscribe in "
 "test letters."
 
 #: subscribe/unsubscribe/index.php:105
@@ -11465,7 +11465,7 @@ msgstr "one more time "
 
 #: subscribe/mail_functions.php:59 subscribe/mail_functions.php:62 subscribe/index_html.php:47 subscribe/index_html_old.php:45
 msgid "На ваш email "
-msgstr "On your email "
+msgstr "To your email "
 
 #: subscribe/mail_functions.php:59
 msgid "отправлено письмо с подтверждением. Для завершения подписки пройдите, пожалуйста, по ссылке в этом письме."
@@ -11557,7 +11557,7 @@ msgstr "However, you did not confirm your subscription via email. "
 
 #: subscribe/index_html.php:47 subscribe/index_html_old.php:45
 msgid " было выслано письмо с подтверждением регистрации, найдите его и перейдите по ссылке в письме."
-msgstr "A confirmation email was sent find it and follow the link in the email."
+msgstr "A confirmation email was sent, find it and follow the link in the email."
 
 #: subscribe/index_html.php:47 subscribe/index_html_old.php:45
 msgid "Если найти его не удалось - нажмите кнопку ниже, письмо будет отправлено еще раз."
@@ -11617,7 +11617,7 @@ msgstr "We have excluded from our customer address database!"
 
 #: stat/unsub.php:86 stat/unsub.php:171
 msgid "Вы отписались от получения писем по адресной базе нашего клиента."
-msgstr "You have unsubscribed from receiving emails via thes client's database."
+msgstr "You have unsubscribed from receiving emails via the client's database."
 
 #: stat/unsub.php:88 stat/unsub.php:183
 msgid "Подтверждение отписки из базы нашего клиента."
@@ -11628,7 +11628,7 @@ msgid ""
 "Не знаем по какой причине, но вы хотите отписаться от получения писем по адресной базе нашего клиента. Для подтверждения просто нажмите "
 "кнопку ниже."
 msgstr ""
-"We do not know for what reason, but you want to unsubscribe from receiving emails at the address of our client list. To confirm just click "
+"We do not know for what reason, but you want to unsubscribe from receiving emails using the address of our client. To confirm just click "
 "below."
 
 #: stat/unsub.php:177
@@ -11657,7 +11657,7 @@ msgstr "We have excluded you from our address database!"
 
 #: stat/unsub.php:256
 msgid "Вы отписываетесь? Жаль, очень жаль..."
-msgstr "You are willing to unsubscribe?It's a pity..."
+msgstr "Are you willing to unsubscribe? It's a pity..."
 
 #: stat/unsub.php:293
 msgid "Пожалуйста, укажите причину отписки!"
@@ -11673,15 +11673,15 @@ msgstr "Other"
 
 #: stat/unsub.php:338
 msgid "Отписаться от всех рассылок данного клиента"
-msgstr "Unsubscribe from all newsletters from this client"
+msgstr "Unsubscribe from all newsletters of this client"
 
 #: stat/unsub.php:339
 msgid "Отписаться от любых рассылок, отправляемых через сервис"
-msgstr "Unsubscribe from any mailings that are sent through the service"
+msgstr "Unsubscribe from any newsletters that are sent through the service"
 
 #: stat/unsub.php:340
 msgid "Кто такой Печкин"
-msgstr "Who is MailWheel"
+msgstr "What is MailWheel"
 
 #: stat/unsub.php:351
 msgid "Правовая всячина"
@@ -11693,11 +11693,11 @@ msgstr "Subscribe to the \"Murzilka\" magazine!"
 
 #: stat/forward.php:68 stat/forward.php:137
 msgid " пересылает вам интересное письмо"
-msgstr " resends you an interesting letter"
+msgstr " forwards you an interesting email"
 
 #: stat/forward.php:69 stat/forward.php:138
 msgid " думает, что вы заинтересуетесь следующим письмом:"
-msgstr " thinks that you are interested in the following letter:"
+msgstr " thinks that you will be interested in the following letter:"
 
 #: stat/forward.php:69 stat/forward.php:138
 msgid " также добавил это персональное сообщение для вас:"
@@ -11705,7 +11705,7 @@ msgstr " also added a private message for you:"
 
 #: stat/forward.php:69 stat/forward.php:138
 msgid "Замечание: если ссылка на письмо не \"кликается\", то просто скопируйте ее и вставьте в веб-браузер."
-msgstr "Note: If the link  in the email cannot be \" clicked\", simply copy it and paste it into your web browser."
+msgstr "Note: If the link in the email cannot be \" clicked\", simply copy it and paste it into your web browser."
 
 #: stat/forward.php:158
 msgid "Отправить письму другу"
@@ -11713,7 +11713,7 @@ msgstr "Send email to a friend"
 
 #: stat/forward.php:182
 msgid "Вы отправлете ссылку на эту"
-msgstr "You send email through this"
+msgstr "You send email to this"
 
 #: stat/forward.php:182
 msgid "email-рассылку"
@@ -11850,7 +11850,7 @@ msgstr "step 5"
 #: templates_orig/reports/summary_base.php:110 templates_orig/reports/summary_base.php:138 templates_orig/reports/summary_base.php:161
 #: templates_orig/reports/summary_base.php:184 templates_orig/reports/summary_base.php:208
 msgid "все базы"
-msgstr "all the lists"
+msgstr "all lists"
 
 #: templates_orig/autocampaigns/autocampaigns-list.php:118
 msgid " (выбрано ссылок: "
