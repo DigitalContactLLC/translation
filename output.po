@@ -9902,16 +9902,16 @@ msgid ""
 "<strong>Упс.</strong> У вас больше, чем одно обязательное поле. Чтобы использовать сверхтонкую форму, email-адрес должен быть вашим одним "
 "единственным обязательным полем. Выберите другой тип формы слева или отредактируйте обязательные поля в"
 msgstr ""
-"<strong>Ooops.</strong> You have more than one required field. To use the super-thin form email address should be your only one mandatory "
-"field. Select another shape type left or edit the required fields"
+"<strong>Ooops.</strong> You have more than one required field. To use the super-thin form the email address should be your only mandatory "
+"field. Select another shape type on the left or edit the required fields"
 
 #: templates/lists/forms.php:203 templates_orig/lists/forms.php:133
 msgid "настройках полей"
-msgstr "fields settings"
+msgstr "field settings"
 
 #: templates/lists/forms.php:204 templates_orig/lists/forms.php:134
 msgid "Предпросмотр вашей формы подписки"
-msgstr "Preview your subscription forms"
+msgstr "Preview your subscription form"
 
 #: templates/lists/forms.php:207 templates_orig/lists/forms.php:136
 msgid "создать страницу подписки"
@@ -9935,7 +9935,7 @@ msgstr "The phrase after confirmation"
 
 #: templates/lists/forms.php:218 templates_orig/lists/forms.php:142
 msgid "Эту фразу будут видеть ваши подписчики после подтверждения подписки."
-msgstr "This phrase will see your subscribers after confirmation of subscription."
+msgstr "This phrase will be seen by your subscribers after confirmation of subscription."
 
 #: templates/lists/forms.php:231 templates_orig/lists/forms.php:148
 msgid "Редактировать письмо подтверждения"
@@ -9948,7 +9948,7 @@ msgstr "copy/paste into your site"
 #: templates/lists/unsub.php:26 templates/lists/unsub.php:44 templates/lists/unsub.php:103 templates/lists/unsub.php:239
 #: templates_orig/lists/unsub.php:31
 msgid "Настройки отписки"
-msgstr "Unsubscribe settings"
+msgstr "Unsubscription settings"
 
 #: templates/lists/unsub.php:110 templates/lists/unsub.php:241 templates_orig/lists/unsub.php:33
 msgid "Переадресация после отписки"
@@ -9956,11 +9956,11 @@ msgstr "Redirect after unsubscribing"
 
 #: templates/lists/unsub.php:118 templates/lists/unsub.php:244 templates_orig/lists/unsub.php:36
 msgid "Задать страницу редиректа:"
-msgstr "Redirect page:"
+msgstr "Set redirect page:"
 
 #: templates/lists/unsub.php:136 templates/lists/unsub.php:248 templates_orig/lists/unsub.php:40
 msgid "Причины отписки для базы"
-msgstr "Reason for unsubscribing"
+msgstr "Reasons for unsubscribing"
 
 #: templates/lists/unsub.php:143
 msgid "Edit reasons"
@@ -9980,7 +9980,7 @@ msgstr "Quantity"
 
 #: templates/lists/unsub.php:165 templates/lists/unsub.php:274 templates_orig/lists/unsub.php:63
 msgid "Последние 100 комментариев ваших подписчиков о своих причинах отписки:"
-msgstr "Last 100 unsubscribe reasons:"
+msgstr "Last 100 unsubscription reasons:"
 
 #: templates/lists/unsub.php:216 templates/lists/unsub.php:334 templates_orig/lists/unsub.php:123
 msgid "добавить причину"
@@ -10001,7 +10001,7 @@ msgstr "Edit reasons"
 #: templates/lists/unisender.php:9 templates/lists/unisender.php:13 templates_orig/lists/unisender.php:9
 #: templates_orig/lists/unisender.php:13
 msgid "Перенос адресных баз из Unisender"
-msgstr "Transfer of lists from Unisender"
+msgstr "Move the address lists from Unisender"
 
 #: templates/lists/unisender.php:28 templates/lists/getresponse.php:28 templates/lists/mailchimp.php:27 templates/lists/smartresponder.php:27
 #: templates_orig/lists/unisender.php:28 templates_orig/lists/getresponse.php:28 templates_orig/lists/mailchimp.php:27
@@ -10013,7 +10013,7 @@ msgstr "Enter the api_key!"
 #: templates_orig/lists/unisender.php:48 templates_orig/lists/getresponse.php:45 templates_orig/lists/mailchimp.php:55
 #: templates_orig/lists/smartresponder.php:53
 msgid "настройки переноса"
-msgstr "transfer settings"
+msgstr "moving settings"
 
 #: templates/lists/unisender.php:49
 msgid "Задайте Unisender API_key:"
@@ -10038,13 +10038,13 @@ msgstr "Not imported"
 #: templates/lists/smartresponder.php:83 templates_orig/lists/unisender.php:76 templates_orig/lists/getresponse.php:67
 #: templates_orig/lists/mailchimp.php:77 templates_orig/lists/smartresponder.php:73 templates_orig/lists/smartresponder.php:81
 msgid "Импортируется"
-msgstr "Imported"
+msgstr "Importing"
 
 #: templates/lists/unisender.php:78 templates/lists/getresponse.php:67 templates/lists/mailchimp.php:79 templates/lists/smartresponder.php:75
 #: templates/lists/smartresponder.php:83 templates_orig/lists/unisender.php:76 templates_orig/lists/getresponse.php:67
 #: templates_orig/lists/mailchimp.php:77 templates_orig/lists/smartresponder.php:73 templates_orig/lists/smartresponder.php:81
 msgid "Импортирована"
-msgstr "Imported"
+msgstr "Importing"
 
 #: templates/lists/unisender.php:83 templates/lists/getresponse.php:72 templates/lists/mailchimp.php:84 templates/lists/smartresponder.php:88
 #: templates_orig/lists/unisender.php:81 templates_orig/lists/getresponse.php:72 templates_orig/lists/mailchimp.php:82
@@ -10059,12 +10059,12 @@ msgid ""
 "Импорт базы - трудоемкий процесс. Большие базы могут загружаться продолжительное время. Вы можете выйти из этого раздела - загрузка "
 "продолжится в фоне."
 msgstr ""
-"Import of listis a difficult process. Large lists can be downloaded for a long time. You can exit this section and download will continue "
+"Import of listis a difficult process. Large lists can be downloaded for a long time. You can exit this section and the download will continue "
 "in the background."
 
 #: templates/lists/unisender.php:93 templates/lists/getresponse.php:79 templates/lists/mailchimp.php:91
 msgid "помощь в переносе баз"
-msgstr "assistance in migrating lists"
+msgstr "assistance in movibg the lists"
 
 #: templates/lists/unisender.php:94
 msgid "Что такое Unisender API_Key?"
@@ -10075,8 +10075,8 @@ msgid ""
 "Получить доступ к своим адресным базам на Юрисендере и загрузить их на Печкин легко и просто. Это можно сделать буквально в несколько "
 "кликов. Для начала, вам необходимо найти Ключ доступа к API Unisender. Для этого необходимо выполнить следующие операции:"
 msgstr ""
-"Access your lists at Urisender and uploading them to MailWheel is quick and easy. This can be done literally in a few clicks. For "
-"starters, you need to find the key API access Unisender. To do this, you must perform the following operations:"
+"To get access to your lists at Urisender and upload them to MailWheel is quick and easy. This can be done literally in a few clicks. For "
+"starters, you need to find the access key to API Unisender. To do this, you must perform the following operations:"
 
 #: templates/lists/unisender.php:96
 msgid "1. Зайдите в личный кабинет на Юнисендере"
@@ -10092,12 +10092,12 @@ msgstr "3. In the account settings section, select <strong>\"integration and API
 
 #: templates/lists/unisender.php:101 templates/lists/mailchimp.php:99 templates/lists/smartresponder.php:103
 msgid "4. Скопируйте Ключ доступа к API в поле в левом блоке на этой странице"
-msgstr "4. copy the API access key in the box in the left section of this page"
+msgstr "4. copy the API access key in the field in the left section of this page"
 
 #: templates/lists/import_black.php:33 templates/lists/import_big.php:55 templates_orig/lists/import_black.php:33
 #: templates_orig/lists/import_big.php:54
 msgid "Произошла критичная ошибка с файлом - пришлите его для проверки на "
-msgstr "Critical error occurred file send it to check for "
+msgstr "A critical error occurred with the file - send it to check for "
 
 #: templates/lists/getresponse.php:9 templates/lists/getresponse.php:13 templates_orig/lists/getresponse.php:9
 #: templates_orig/lists/getresponse.php:13
@@ -10122,24 +10122,24 @@ msgstr "Campaign"
 
 #: templates/lists/getresponse.php:80
 msgid "Что такое GetResponse API_Key?"
-msgstr "What GetResponse API_Key?"
+msgstr "What is GetResponse API_Key?"
 
 #: templates/lists/getresponse.php:81
 msgid ""
 "Получить доступ к своим адресным базам на GetResponse и загрузить их на Печкин легко и просто. Это можно сделать буквально в несколько "
 "кликов. Для начала, вам необходимо найти Ключ доступа к API GetResponse. Для этого необходимо выполнить следующие операции:"
 msgstr ""
-"Access your lists to GetResponse and upload them to MailWheel is quick and easy. This can be done literally in a few clicks. For starters, "
-"you need to find the key of GetResponse API access. To do this, you must perform the following operations:"
+"To get access to your lists to GetResponse and upload them to MailWheel is quick and easy. This can be done literally in a few clicks. For starters, "
+"you need to find the access key to API GetResponse. To do this, you must perform the following operations:"
 
 #: templates/lists/getresponse.php:82
 msgid "1. Зайдите в личный кабинет на GetResponse"
-msgstr "1. Go to your personal Cabinet on the GetResponse"
+msgstr "1. Go to your personal profile on GetResponse"
 
 #: templates/lists/getresponse.php:83
 msgid "2. Наведите мышку на <strong>\"Моя уч. запись\"</strong> в правом верхнем углу и выберите пункт <strong>\"Интеграция\"</strong>"
 msgstr ""
-"2. Hover your mouse over <strong>\"My profile the entry \"</strong> in the upper right corner and click <strong>\" integration \"</strong>"
+"2. Move your mouse over <strong>\"My profile \"</strong> in the upper right corner and click <strong>\" integration \"</strong>"
 
 #: templates/lists/getresponse.php:85
 msgid "3. В левом меню нажмите <strong>\"Использовать API\"<strong>"
@@ -10147,7 +10147,7 @@ msgstr "3. In the left menu click <strong>\"Use API\"</strong>"
 
 #: templates/lists/getresponse.php:87
 msgid "4. Нажмите кнопку <strong>\"в буфер обмена\"</strong>и скопируйте Ключ доступа к API в поле в левом блоке на этой странице"
-msgstr "4. Click the button <strong>\"Clipboard\"</strong>and copy the API access Key in the box in the left section of this page"
+msgstr "4. Click the button <strong>\"Clipboard\"</strong>and copy the API access Key in the field in the left section of this page"
 
 #: templates/lists/confirm-rename.php:11 templates_orig/lists/confirm-rename.php:11
 msgid "Как вы хотите назвать вашу базу?"
@@ -10178,15 +10178,15 @@ msgstr ""
 
 #: templates/lists/import.php:258 templates_orig/lists/import.php:40 templates_orig/lists/import-blacklist.php:32
 msgid "загрузить файл"
-msgstr "upload"
+msgstr "upload file"
 
 #: templates/lists/import.php:272 templates_orig/lists/import.php:54 templates_orig/lists/import-blacklist.php:46
 msgid "Укажите лист"
-msgstr "Specify the worksheet"
+msgstr "Set the worksheet"
 
 #: templates/lists/import.php:296 templates_orig/lists/import.php:78
 msgid "Укажите номера столбцов, в которых располагаются данные:"
-msgstr "Specify the columns where the data is:"
+msgstr "Set the columns where the data is:"
 
 #: templates/lists/remove.php:29 templates/lists/bulk-action-confirm.php:33 templates_orig/lists/remove.php:29
 #: templates_orig/lists/bulk-action-confirm.php:33
@@ -10195,13 +10195,13 @@ msgid ""
 "рассылки, и не является альтернативой удалению. Если так много ваших подписчиков обратились к вам с просьбой их отписать, расскажите, "
 "пожалуйста, в письме на "
 msgstr ""
-"Please note that unsubscription is intended only for those recipients who are themselves expressed a desire to no longer receive your "
-"campaigns, and is not an alternative to disposal. If so many of your subscribers addressed to you to unsubscribe them, please  email us "
+"Please note that unsubscription is intended only for those recipients who have themselves expressed a desire to no longer receive your "
+"campaigns, and is not an alternative to deletion. If so many subscribers addressed to you to unsubscribe them, please  email us "
 
 #: templates/lists/remove.php:29 templates/lists/bulk-action-confirm.php:33 templates_orig/lists/remove.php:29
 #: templates_orig/lists/bulk-action-confirm.php:33
 msgid "почему и как это произошло."
-msgstr "why and how this happened."
+msgstr "why and how this has happened."
 
 #: templates/lists/remove.php:32 templates_orig/lists/remove.php:32
 msgid " пользователей были успешно отписаны из базы"
@@ -10240,12 +10240,12 @@ msgstr "email address <em>(one email in a column in each row)</em>"
 #: templates/lists/remove.php:157 templates/lists/remove.php:202 templates_orig/lists/remove.php:65
 msgid "<strong>Замечание:</strong> подписчики отписанные из этой базы <em>не получат</em> подтверждающие письма нашего сервиса."
 msgstr ""
-"<strong>Comment:</strong> subscribers who have unsubscribed from this list of subscribers <em>do not receive the</em> confirmation emails "
+"<strong>Comment:</strong> subscribers who have unsubscribed from this list <em>will not receive the</em> confirmation emails "
 "of our service."
 
 #: templates/lists/remove.php:193 templates_orig/lists/remove.php:56
 msgid "отписать людей из базы"
-msgstr "unsubscribe people from list"
+msgstr "unsubscribe people from the list"
 
 #: templates/lists/import-blacklist.php:58 templates_orig/lists/import-blacklist.php:28
 msgid ""
@@ -10288,8 +10288,8 @@ msgid ""
 "Импорт больших файлов - трудоемкий процесс. Мы загружаем ваш список, \"откиньтесь на спинку кресла и расслабьтесь\" (с) Microsoft. Не "
 "перезагружайте страницу! В самые кратчайшие сроки мы импортируем всех ваших подписчиков."
 msgstr ""
-"Importing  large files is a hard process. While we upload your list, \"sit back and relax\" (c) Microsoft. Do not restart the page! In the "
-"shortest possible time we will import all your subscribers."
+"Importing  large files is a hard process. While we upload your list, \"sit back and relax\" (c) Microsoft. Do not restart the page! We will "
+" import all your subscribers as soon as possible."
 
 #: templates/lists/blacklist-action.php:21 templates_orig/lists/blacklist-action.php:21
 msgid "Мы успешно добавили подписчика "
@@ -10297,7 +10297,7 @@ msgstr "We have successfully added the Subscriber "
 
 #: templates/lists/blacklist-action.php:21 templates_orig/lists/blacklist-action.php:21
 msgid " в черный список"
-msgstr " in blacklist"
+msgstr " to the blacklist"
 
 #: templates/lists/footer.php:19 templates/lists/footer.php:39 templates/lists/footer.php:290 templates_orig/lists/footer.php:26
 msgid "Настройки VCard для базы"
@@ -10306,14 +10306,14 @@ msgstr "VCard settings for list"
 #: templates/lists/footer.php:121 templates/lists/footer.php:296 templates_orig/lists/footer.php:32
 msgid "Введите контактную информацию и физический адрес <strong>владельца</strong> адресной базы. Это <a href=\""
 msgstr ""
-"Enter the contact information and the physical address <strong>of the owner</strong> of the list. This <a href=\""
+"Enter the contact information and the physical address <strong>of the owner</strong> of the list. These are <a href=\""
 
 #: templates/lists/footer.php:121 templates/lists/footer.php:296 templates_orig/lists/footer.php:32
 msgid ""
 "\">требования российского и международного законодательства</a>. Если вы агентство, отправляющее  рассылки за своих клиентов, введите "
 "информацию о своем клиенте."
 msgstr ""
-"\">requirements of British and international legislation. If you are an agency that sends campaigns on behalf of your clients, enter information "
+"\">the requirements of British and international legislation. If you are an agency that sends campaigns on behalf of your clients, enter information "
 "about your client."
 
 #: templates/lists/footer.php:131 templates/lists/footer.php:134 templates/lists/footer.php:299 templates_orig/lists/footer.php:35
@@ -10362,7 +10362,7 @@ msgstr "Postal code"
 
 #: templates/lists/footer.php:294 templates_orig/lists/footer.php:30
 msgid "как получатели могут связаться с вами?"
-msgstr "as recipients may contact you?"
+msgstr "How can recipients contact you?"
 
 #: templates/lists/footer.php:330 templates_orig/lists/footer.php:66
 msgid "Что такое VCARD?"
@@ -10373,8 +10373,8 @@ msgid ""
 "В любой рассылке вы можете добавить ссылку \"Добавить в адресную книгу\". Эта ссылка даст возможность вашему подписчику скачать контактную "
 "информацию о вашей компании, которая настраивается в данном разделе."
 msgstr ""
-"In any campaign you can add a link \"add to address book\". This link will give you the opportunity to download subscriber contact "
-"information about your company, which is set up in this section."
+"In any campaign you can add a link \"add to address book\". This link will give your subscriber the opportunity to download your contact "
+"information, which is set up in this section."
 
 #: templates/lists/footer.php:331 templates_orig/lists/footer.php:67
 msgid "Пример"
@@ -10386,11 +10386,11 @@ msgstr "Example VCard for any company."
 
 #: templates/lists/footer.php:331 templates_orig/lists/footer.php:67
 msgid "Это позволяет вашем подписчику точно получать информацию от вас и не видеть вашу почту в нежелательной."
-msgstr "This allows your subscriber accurately obtain information from you and not see your mail in junk."
+msgstr "This allows your subscriber to obtain information from you and not see your emails in the unwanted emails."
 
 #: templates/lists/footer.php:331 templates_orig/lists/footer.php:67
 msgid "Как добавить ссылку о vcard в письмо?"
-msgstr "How to add a link on the vcard in a email?"
+msgstr "How to add a vcard link in a email?"
 
 #: templates/lists/show-blacklist.php:38 templates_orig/lists/show-blacklist.php:38
 msgid "Пользователь захотел отписаться от всех ваших рассылок"
@@ -10404,15 +10404,15 @@ msgstr "The user clicked the \"this is spam\""
 #: templates/lists/show-blacklist.php:40 templates/lists/blacklist-export.php:21 templates_orig/lists/show-blacklist.php:40
 #: templates_orig/lists/blacklist-export.php:21
 msgid "Ручное добавление пользователя"
-msgstr "To manually add a user"
+msgstr "To add a user manually "
 
 #: templates/lists/blacklist-export.php:19 templates_orig/lists/blacklist-export.php:19
 msgid "Пользователь дважды отписался из ваших адресных баз"
-msgstr "User unsubscribed twice of your list"
+msgstr "The user unsubscribed from your list twice"
 
 #: templates/lists/show-members.php:52 templates_orig/lists/show-members.php:42
 msgid "дата добавления"
-msgstr "date added"
+msgstr "date of adding"
 
 #: templates/lists/show-members.php:53 templates_orig/lists/show-members.php:43
 msgid "дата отписания"
@@ -10476,7 +10476,7 @@ msgstr "Field type"
 
 #: templates/lists/fields.php:141 templates/lists/fields.php:298 templates_orig/lists/fields.php:43
 msgid "Обязателен ли?"
-msgstr "Required?"
+msgstr "Is it required?"
 
 #: templates/lists/fields.php:142 templates/lists/fields.php:299 templates_orig/lists/fields.php:44
 msgid "Поместите этот тэг в ваше письмо:"
@@ -10493,7 +10493,7 @@ msgstr "add text box"
 #: templates/lists/fields.php:258 templates/lists/fields.php:403 templates_orig/lists/fields.php:121
 msgid "Удаление поля базы ведет к удалению всех данных в базе, связанных с этим полем. Вы полностью уверены? <strong>(действие необратимо)"
 msgstr ""
-"Deleting a field list leads to the deletion of all data in the list associated with this field. You are completely sure? <strong>(action "
+"Deleting a field list implies deleting of all data in the list associated with this field. Are you sure? <strong>(action "
 "is irreversible)"
 
 #: templates/lists/fields.php:268 templates/lists/fields.php:412 templates_orig/lists/fields.php:130
@@ -10503,7 +10503,7 @@ msgstr "remove the field"
 #: templates/lists/mailchimp.php:9 templates/lists/mailchimp.php:13 templates_orig/lists/mailchimp.php:9
 #: templates_orig/lists/mailchimp.php:13
 msgid "Перенос адресных баз из MailChimp"
-msgstr "Transfer of lists from MailChimp"
+msgstr "Transfer lists from MailChimp"
 
 #: templates/lists/mailchimp.php:56
 msgid "Задайте MailChimp API_key:"
@@ -10522,7 +10522,7 @@ msgid ""
 "Получить доступ к своим адресным базам на MailChimp и загрузить их на Печкин легко и просто. Это можно сделать буквально в несколько "
 "кликов. Для начала, вам необходимо найти Ключ доступа к API MailChimp. Для этого необходимо выполнить следующие операции:"
 msgstr ""
-"Access your lists on MailChimp and upload them to MailWheel is quick and easy. This can be done literally in a few clicks. For starters, "
+"To get access to your lists on MailChimp and upload them to MailWheel is quick and easy. This can be done literally in a few clicks. For starters, "
 "you need to find the key of the MailChimp API access. To do this, you must perform the following operations:"
 
 #: templates/lists/mailchimp.php:94
@@ -10531,7 +10531,7 @@ msgstr "1. Go to your personal cabinet on MailChimp"
 
 #: templates/lists/mailchimp.php:95
 msgid "2. В разделе \"Profile\" в выпадающем списке \"Extras\" выберите пункт <strong>\"API keys\"</strong>"
-msgstr "2. In the section \"Profile\" in the drop-down list of \"Extras\" then click <strong>\"API keys\"</strong>"
+msgstr "2. In the \"Profile\" section in the drop-down list of \"Extras\" then click <strong>\"API keys\"</strong>"
 
 #: templates/lists/mailchimp.php:97
 msgid "3. Если ключ еще не создан, нажмите кнопку <strong>\"Create A Key\"<strong>"
@@ -10567,7 +10567,7 @@ msgstr "Unknown"
 
 #: templates/lists/edit.php:273 templates_orig/lists/edit.php:109
 msgid "Как попал в базу"
-msgstr "How to hit the list"
+msgstr "Is not in the list"
 
 #: templates/lists/edit.php:279 templates_orig/lists/edit.php:115
 msgid "Дата отписки"
@@ -10583,11 +10583,11 @@ msgstr "Added by user"
 
 #: templates/lists/edit.php:297 templates_orig/lists/edit.php:131
 msgid "Отписывание подписчика из базы необратимо. Вы уверены, что хотите это сделать?"
-msgstr "Unsubscribe of the Subscriber from the list permanently. Are you sure you want to do this?"
+msgstr "Unsubscription of the Subscriber from the list is irreversible. Are you sure you want to do this?"
 
 #: templates/lists/edit.php:297 templates_orig/lists/edit.php:131
 msgid "подтвердить отписание"
-msgstr "confirm unsubscribtion"
+msgstr "confirm unsubscription"
 
 #: templates/lists/edit.php:298 templates_orig/lists/edit.php:132
 msgid "Вы уверены, что хотите удалить этого подписчика?"
@@ -10599,7 +10599,7 @@ msgstr "Are you sure you want to copy this Subscriber? Select Base:"
 
 #: templates/lists/edit.php:313 templates_orig/lists/edit.php:145
 msgid "Вы уверены, что хотите перемстить этого подписчика? Выберите базу:"
-msgstr "Are you sure you want to peremstit′ this Subscriber? Select Base:"
+msgstr "Are you sure you want to move this Subscriber? Select Base:"
 
 #: templates/lists/bulk-action-confirm.php:17 templates_orig/lists/bulk-action-confirm.php:17
 msgid "Все данные будут потеряны"
@@ -10636,7 +10636,7 @@ msgstr "subscribers and"
 
 #: templates/lists/bulk-action-confirm.php:35 templates_orig/lists/bulk-action-confirm.php:35
 msgid "email-кредитов. Вы загрузили своих подписчиков, которые подписались на ваши рассылки. Зачем вы хотите их "
-msgstr "email credits. You have downloaded your subscribers who have subscribed to your campaigns. Why you want them"
+msgstr "email credits. You have uploaded your subscribers who have subscribed to your campaigns. Why do you want them"
 
 #: templates/lists/bulk-action-confirm.php:35 templates_orig/lists/bulk-action-confirm.php:35
 msgid ""
@@ -10662,7 +10662,7 @@ msgstr "Update subscriber, if the addresses are the same"
 
 #: templates/lists/bulk-action-confirm.php:43 templates_orig/lists/bulk-action-confirm.php:43
 msgid "Рекомендуем экспортировать данные из базы перед тем, как совершать над ней какие-либо действия."
-msgstr "Recommend you to export the data from the list before you can perform on it."
+msgstr "We recommend you to export the data from the list before performing any actions with it."
 
 #: templates/lists/bulk-action-confirm.php:45 templates_orig/lists/bulk-action-confirm.php:45
 msgid "Ух! Вы не выбрали ни одного подписчика! Как вы собираетесь что-то делать?"
@@ -10753,11 +10753,11 @@ msgid ""
 "кликов. Для начала, вам необходимо найти Ключ доступа к API SmartResponder. Для этого необходимо выполнить следующие операции:"
 msgstr ""
 "Getting access to your lists at SmartSender and uploading them to MailWheel is quick and easy. This can be done literally in a few clicks. "
-"For starters, you need to find the  access key Unisender. To do this, you must perform the following operations:"
+"For starters, you need to find the  access key to API SmartResponder. To do this, you must perform the following operations:"
 
 #: templates/lists/smartresponder.php:98
 msgid "1. Зайдите в личный кабинет на СмартРеспондере"
-msgstr "1. Go to the personal account on SmartRespondere"
+msgstr "1. Go to the profile on SmartResponder"
 
 #: templates/lists/smartresponder.php:99
 msgid "2. В выпадающем списке \"Настройки\" выберите пункт <strong>\"Настройки Вашего аккаунта\"</strong>"
@@ -10797,14 +10797,14 @@ msgstr "In the list"
 
 #: templates/lists/bulk-action.php:65 templates_orig/lists/bulk-action.php:65
 msgid " были успешно"
-msgstr " have been successfully"
+msgstr " were successfully"
 
 #: templates/lists/lists.php:45 templates/lists/lists.php:437 templates_orig/lists/lists.php:30
 msgid ""
 "Мы видим, что импорт одной или нескольких ваших адресных баз был завершен нештатно. Если вы считаете, что импортировались не все "
 "получатели, повторите импорт (установив галочку \"обновлять данные\") или обратитесь в поддержку на "
 msgstr ""
-"We see that the import one or more of your list was completed abnormally. If you think that not all recipients were imported, import again "
+"We see that the importing one or more of your lists was completed abnormally. If you think that not all recipients were imported, import again "
 "(by selecting the checkbox \"refresh data\") or contact support at "
 
 #: templates/lists/lists.php:84
