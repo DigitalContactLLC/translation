@@ -10346,7 +10346,7 @@ msgstr "Tel."
 
 #: templates/lists/footer.php:211 templates/lists/footer.php:311 templates_orig/lists/footer.php:47
 msgid "По умолчанию, телефон не показывается в подвале письма."
-msgstr "By default, the phone does not show up in the basement of the email."
+msgstr "By default, the phone does not show up in the footer of the email."
 
 #: templates/lists/footer.php:225 templates/lists/footer.php:336 templates_orig/lists/footer.php:72
 msgid "Где люди могут вписаться в ваши рассылки?"
@@ -11073,7 +11073,7 @@ msgstr "Sidebar"
 
 #: builder/index.php:116
 msgid "Подвал"
-msgstr "Basement"
+msgstr "footer"
 
 #: builder/index.php:119 builder/index.php:125 builder/index.php:127 builder/index.php:129 builder/index.php:131
 msgid "Текст:"
@@ -11224,7 +11224,7 @@ msgid ""
 "Используйте редактор стилей слева для редактирования цветов и свойств шрифтов для всего письма сразу, для шапки/тела/подвала письма или "
 "для каждой секции в отдельности."
 msgstr ""
-"Use the Style Editor to the left to edit colors and font properties for all the letters at once, cap/body/basement of letters  or each "
+"Use the Style Editor to the left to edit colors and font properties for all the letters at once, header/body/footer of letters  or each "
 "section separately."
 
 #: builder/index.php:133
@@ -11604,7 +11604,7 @@ msgid ""
 "Ваш адрес уже зарегистрирован в данной адресной базе. Если вы ранее отписывались от рассылки и хотите восстановить подписку, обратитесь по "
 "адресу support@pechkin-mail.ru."
 msgstr ""
-"Your address is already registered in the address database. If you have previously unsubscribed from the mailing list, and want to restore "
+"Your address is already registered in the address list. If you have previously unsubscribed from the mailing list, and want to restore "
 "a subscription, please email support@mailwheel.co.uk."
 
 #: stat/rating.php:53
@@ -11613,15 +11613,15 @@ msgstr "Total number of clients which have sent something: "
 
 #: stat/unsub.php:85 stat/unsub.php:170
 msgid "Мы исключили вас из адресной базы нашего клиента!"
-msgstr "We have excluded from our customer address database!"
+msgstr "We have excluded from our customer address list!"
 
 #: stat/unsub.php:86 stat/unsub.php:171
 msgid "Вы отписались от получения писем по адресной базе нашего клиента."
-msgstr "You have unsubscribed from receiving emails via the client's database."
+msgstr "You have unsubscribed from receiving emails via the client's list."
 
 #: stat/unsub.php:88 stat/unsub.php:183
 msgid "Подтверждение отписки из базы нашего клиента."
-msgstr "Confirm the unsubscription from this client's database."
+msgstr "Confirm the unsubscription from this client's list."
 
 #: stat/unsub.php:89 stat/unsub.php:184
 msgid ""
@@ -11653,7 +11653,7 @@ msgstr "Thank you, your request has been accepted."
 
 #: stat/unsub.php:225
 msgid "Мы исключили Вас из наших адресных баз!"
-msgstr "We have excluded you from our address database!"
+msgstr "We have excluded you from our address list!"
 
 #: stat/unsub.php:256
 msgid "Вы отписываетесь? Жаль, очень жаль..."
@@ -11689,7 +11689,7 @@ msgstr "Legal stuff"
 
 #: stat/unsub.php:362 templates_orig/footer.php:30
 msgid "Подписывайтесь на журнал \"Мурзилка\"!"
-msgstr "Subscribe to the \"Murzilka\" magazine!"
+msgstr "Subscribe to the us!"
 
 #: stat/forward.php:68 stat/forward.php:137
 msgid " пересылает вам интересное письмо"
@@ -11879,7 +11879,7 @@ msgstr ""
 "\t<p class=\"warning above-below15\">If you believe in yourself  we believe in you. Once we believe in your campaigns and your numerical indicators are  normal ,  "
 "automoderation will be activated in your account. This process is not regulated and is individual.</p>\n"
 "\t<p>We respect our customers and trust them. Therefore all campaigns are  sent automatically. However, some customers have abused our trust and  sent emails with apparent  Spam. "
-"Email providers have suffered a long time, but at some point we started to harshly penalize for it. To counter the malicious spammers we "
+"Email providers have suffered a long time, but at some point we started to harshly punish for it. To counter the malicious spammers we "
 "introduced campaign moderation.</p>\n" 
 "\t<p>Also, moderation is <strong>useful for beginners</strong> in the email-marketing. Our experts can suggest how to change "
 "the title of campaign or text so that Gmail.com, Yahoo and others have no claims against you, and the number of openings of your emails "
@@ -11937,7 +11937,7 @@ msgstr "login and password"
 
 #: templates_orig/account/subaccount.php:57
 msgid "Вернуться к списку своих субаккаунтов"
-msgstr "Back to the list of own subaccounts"
+msgstr "Back to the list of subaccounts"
 
 #: templates_orig/account/password-sub.php:25 templates_orig/account/password.php:22
 msgid "логин"
@@ -11945,11 +11945,11 @@ msgstr "login"
 
 #: templates_orig/account/password_save.php:59
 msgid "<p>Это письмо пришло вам, потому что вы отправляли запрос на изменение логина на сервисе "
-msgstr "<p>This email came to you because you sent a request to change the service login "
+msgstr "<p>This email came to you because you sent a request to change the  login "
 
 #: templates_orig/account/password_save.php:75
 msgid "<p>Это письмо пришло вам, потому что вы отправляли запрос на изменение пароля на сервисе "
-msgstr "<p>This email came to you because you sent a request to change the password for the service "
+msgstr "<p>This email came to you because you sent a request to change the password "
 
 #: templates_orig/account/rights.php:35
 msgid "назад"
@@ -11989,7 +11989,7 @@ msgstr "pay via a single Cashier"
 
 #: templates_orig/account/billing.php:96
 msgid "Оплачено через сервис Robokassa"
-msgstr "Paid through service Robokassa"
+msgstr "Paid via Robokassa"
 
 #: templates_orig/account/billing.php:106
 msgid ""
@@ -11997,17 +11997,17 @@ msgid ""
 "он будет перезаключен и отправлен вам по почте. Дополнительные комментарии по процессу перезаключения нового договора можете получить по "
 "почте info@pechkin-mail.ru!');\""
 msgstr ""
-"onclick=\"javascript:alert('Warning! Be careful when you pay! We have changed the legal entity, and the contract. In the near future it "
-"will be renegotiated and mailed to you. Further comments on the process of renegotiating a new contract can receive by email "
+"onclick=\"javascript:alert('Warning! Be careful when you pay! We have changed the legal entity and the contract. In the near future it "
+"will be renegotiated and emailed to you. Further comments on this process  can be received by email "
 "support@mailwheel.co.uk! ');\""
 
 #: templates_orig/footer.php:8
 msgid "Правовые аспекты"
-msgstr "Legal Notice"
+msgstr "Legal aspects"
 
 #: templates_orig/main/main.php:162
 msgid "Посмотреть черновики рассылок"
-msgstr "View drafts campaigns"
+msgstr "View campaigns drafts"
 
 #: templates_orig/main/main.php:162
 msgid "мои черновики"
@@ -12022,12 +12022,12 @@ msgid ""
 "'Внимание! Создание рассылки невозможно, поскольку количество подписчиков в ваших адресных базах превышает допустимое на вашем тарифном "
 "плане. Необходимо выбрать другой тарифный план или удалить часть подписчиков.'"
 msgstr ""
-"'Attention! Creating a campaign is not possible, because the number of subscribers in your lists larger than allowed by your plan. You need "
-"to select another plan or reduce amount of subscribers.'"
+"'Attention! Creating a campaign is not possible, because the number of subscribers in your lists is larger than it is allowed by your plan. You need "
+"to select another plan or reduce the amount of subscribers.'"
 
 #: templates_orig/main/main.php:215
 msgid "отправляйте 100 получателям 500 писем в месяц"
-msgstr "sent 500 emails to 100 recipients a month"
+msgstr "send 500 emails to 100 recipients a month"
 
 #: templates_orig/main/main.php:224
 msgid "Интеграции"
@@ -12071,7 +12071,7 @@ msgstr "send campaign"
 
 #: templates_orig/main/main.php:252
 msgid "через Pechkin-mail.ru"
-msgstr "through via MailWheel.co.uk"
+msgstr "via MailWheel.co.uk"
 
 #: templates_orig/main/main.php:252
 msgid "это просто"
@@ -12095,11 +12095,11 @@ msgstr "Statistics"
 
 #: templates_orig/header_wizard_split.php:96
 msgid "задайте общие настройки a/b-тестирования"
-msgstr "specify the general settings for A/B campaings"
+msgstr "specify the general settings for A/B campaigns"
 
 #: templates_orig/header_wizard_split.php:97
 msgid "создайте рассылки для тестирования"
-msgstr "Create a A/B campaign for testing"
+msgstr "Create an A/B campaign for testing"
 
 #: templates_orig/header_wizard_split.php:98
 msgid "посмотрите отчеты и выберите победителя"
@@ -12119,7 +12119,7 @@ msgstr "File types supported</strong>: <!-- CSV,  --> XLS, XLSX, XML"
 
 #: templates_orig/lists/import-blacklist.php:63
 msgid "Укажите номер столбца, в котором располагаются данные:"
-msgstr "Specify the number of columns, which contain information:"
+msgstr "Specify the number of the column, which contains information:"
 
 #: templates_orig/lists/fields.php:52
 msgid "ВСЕГДА"
@@ -12143,7 +12143,7 @@ msgstr "Sign up in 30 seconds"
 
 #: registration4.php:100 signup.php:49
 msgid "The Forever Free Plan"
-msgstr "Forever Free Plan"
+msgstr "The Forever Free Plan"
 
 #: registration4.php:101 signup.php:50
 msgid "Send up to 12,000 emails per month"
@@ -12163,7 +12163,7 @@ msgstr "Try MailWheel for free"
 
 #: registration4.php:123 registration.php:171 login.php:160
 msgid "Пароль"
-msgstr "Your password is:"
+msgstr "Password:"
 
 #: registration4.php:127
 msgid "Create account"
@@ -12275,39 +12275,39 @@ msgstr "reload the page"
 
 #: check2.php:9
 msgid "Не допускается использовать кавычки"
-msgstr "Quotes not allowed"
+msgstr "Quotation marks are not allowed"
 
 #: check2.php:12
 msgid "Такой логин уже зарегистрирован"
-msgstr "This login is taken"
+msgstr "This login is not registered"
 
 #: new-user.php:87
 msgid "Начнем, пожалуй!"
-msgstr "Get started!"
+msgstr "Let's get started!"
 
 #: new-user.php:216
 msgid "Приветствуем"
-msgstr "Dear Customer,"
+msgstr "Welcome,"
 
 #: new-user.php:216
 msgid "в сервисе рассылки электронной почты"
-msgstr "please fill this form"
+msgstr "to the email campaign service"
 
 #: new-user.php:217
 msgid "Настройте ваш аккаунт за"
-msgstr "For less"
+msgstr "Set up your account for"
 
 #: new-user.php:217
 msgid "30 секунд"
-msgstr "then 30 seconds"
+msgstr "30 seconds"
 
 #: new-user.php:222
 msgid "Имя и Адрес"
-msgstr "Location"
+msgstr "Name and address"
 
 #: new-user.php:256
 msgid "Это необходимо для автоматического создания подвала письма в соответствии с"
-msgstr "It is necessary for the automatic creation of basement letters in accordance with the"
+msgstr "It is necessary for the automatic creation of the footer of letters in accordance with the"
 
 #: new-user.php:256
 msgid "Анти-Спам соглашением"
@@ -12343,7 +12343,7 @@ msgstr "Invite (if any)"
 
 #: registration.php:184
 msgid "зарегистрироваться"
-msgstr "registered"
+msgstr "get registered"
 
 #: registration.php:185
 msgid "Вернуться"
@@ -12351,15 +12351,15 @@ msgstr "Back"
 
 #: registration.php:196
 msgid "Email для связи:"
-msgstr "Email for contact:"
+msgstr "Contact email:"
 
 #: login.php:139
 msgid "ваш логин"
-msgstr "your username"
+msgstr "your login"
 
 #: login.php:143
 msgid "выслать пароль"
-msgstr "sent password"
+msgstr "send password"
 
 #: login.php:177
 msgid "забыли пароль"
@@ -12431,7 +12431,7 @@ msgid ""
 "If you have large list you can always subscribe monthly plan or purchase email-credits. Month plans have no limitations emails sent per "
 "month. Email credits have no limitations on number of subscribers in your lists. All paid accounts have access to "
 msgstr ""
-"If you have large list you can always subscribe to monthly plan or purchase email credits. Month plans have no limitations on emails sent "
+"If you have large list you can always subscribe to monthly plan or purchase email credits. Monthly plans have no limitations on emails sent "
 "per month. Email credits have no limitations on the number of subscribers in your lists. All paid accounts have access to "
 
 #: signup_success.php:69
@@ -12452,11 +12452,11 @@ msgstr "All Rights Reserved. MailWheel®"
 
 #: activate.php:18
 msgid "Вы подтвердили свой email. Можете зайти в свой аккаунт."
-msgstr "You have confirmed your email address. Can log in to your account."
+msgstr "You have confirmed your email address. You can log in to your account."
 
 #: activate.php:72
 msgid "Произошла ошибка. Попробуйте еще раз."
-msgstr "Oops! Errors occurred. Please try again later."
+msgstr "Oops! An error occurred. Please try again later."
 
 #: activate.php:82
 msgid "Ошибка активации. Аккаунт или не существует или уже активирован."
@@ -12538,8 +12538,8 @@ msgstr "builder"
 #~ "Если у вас есть пожелания по улучшению сервиса - не стесняйтесь, напишите их.<br />Любые новые функции, претензии по работе службы "
 #~ "поддержки.<br />Мы хотим слышать любую мелочь, которая мешает вам в вашей работе!"
 #~ msgstr ""
-#~ "If you have suggestions for improving this service-feel free to email them.<br />Any new functions that support service claims.<br /> "
-#~ "We want to hear any little thing that bothers you in your work!"
+#~ "If you have any suggestions for improving this service-feel free to email them to us.<br />Any new functions that support service claims.<br /> "
+#~ "We want to hear every little thing that may bother you during your work!"
 
 #~ msgid "Оставить комментарий"
 #~ msgstr "Leave a comment"
