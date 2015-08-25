@@ -6010,7 +6010,7 @@ msgstr " PART"
 
 #: templates/campaigns/campaigns-list.php:96 templates_orig/campaigns/campaigns-list.php:95
 msgid "К ОТПРАВКЕ"
-msgstr "IN PGOGRESS"
+msgstr "IN PROGRESS"
 
 #: templates/campaigns/campaigns-list.php:97 templates_orig/campaigns/campaigns-list.php:96
 msgid "ЗАПЛАНИРОВАНА"
