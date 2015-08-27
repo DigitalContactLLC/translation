@@ -1034,7 +1034,7 @@ msgstr "For internal use only. For example: \"Campaign for the holidays\""
 
 #: wizard_new/step4.php:73 wizard_new/step4.php:299
 msgid "заголовок письма"
-msgstr "email heading"
+msgstr "subject"
 
 #: wizard_new/step4.php:76
 msgid "Enter email subject"
@@ -1050,7 +1050,7 @@ msgstr "From:"
 
 #: wizard_new/step4.php:88
 msgid "Enter \"Form\" name"
-msgstr "Enter \"Form\" name"
+msgstr "Enter \"From\" name"
 
 #: wizard_new/step4.php:91 wizard_new/step4.php:406 wizard/step4.php:52
 msgid "Используйте что-нибудь запоминающееся, например, название вашей компании."
@@ -1058,7 +1058,7 @@ msgstr "Use something memorable, such as your company name."
 
 #: wizard_new/step4.php:97 wizard_new/step4.php:408
 msgid "обратный адрес"
-msgstr "Return address"
+msgstr "Reply-to address"
 
 #: wizard_new/step4.php:107 wizard_new/step4.php:412
 msgid "Ответы ваших подписчиков будут приходить на этот адрес."
