@@ -10488,7 +10488,7 @@ msgstr "Always"
 
 #: templates/lists/fields.php:219 templates/lists/fields.php:245 templates/lists/fields.php:351 templates_orig/lists/fields.php:95
 msgid "добавить поле"
-msgstr "add text box"
+msgstr "add field"
 
 #: templates/lists/fields.php:258 templates/lists/fields.php:403 templates_orig/lists/fields.php:121
 msgid "Удаление поля базы ведет к удалению всех данных в базе, связанных с этим полем. Вы полностью уверены? <strong>(действие необратимо)"
