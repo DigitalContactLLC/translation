@@ -12522,6 +12522,14 @@ msgstr "Campaign"
 msgid "builder"
 msgstr "builder"
 
+#: html.php:120
+msgid "добавить получателя в адресную книгу"
+msgstr "add subscriber to the list"
+
+#: html.php:148 html.php:149
+msgid "Письмо отправлено с помощью сервиса email-маркетинга"
+msgstr "The mail was sent via email-marketing service"
+
 #~ msgid "Receivers"
 #~ msgstr "Receivers"
 
