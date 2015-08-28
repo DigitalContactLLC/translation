@@ -578,11 +578,11 @@ msgstr "send now"
 
 #: wizard_new/step5.php:508
 msgid "отправить потом / частями"
-msgstr "send later/by parts"
+msgstr "schedule"
 
 #: wizard_new/step5.php:527
 msgid "Отложить отправку"
-msgstr "Delay sending"
+msgstr "Schedule"
 
 #: wizard_new/step5.php:534
 msgid "Рекомендуемое время отправки по данной базе:"
