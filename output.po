@@ -12530,6 +12530,14 @@ msgstr "add subscriber to the list"
 msgid "Письмо отправлено с помощью сервиса email-маркетинга"
 msgstr "The mail was sent via email-marketing service"
 
+#: templates/campaigns/campaigns-list.php:145
+msgid "<br />до "
+msgstr "<br />until "
+
+#: templates/campaigns/campaigns-list.php:149
+msgid "с учетом час. поясов"
+msgstr "considering time zones"
+
 #~ msgid "Receivers"
 #~ msgstr "Receivers"
 
